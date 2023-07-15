@@ -1,0 +1,20 @@
+Name,Latitude,Longitude,Depth,URL,Description
+Titanic-Wiki,41.725556,-49.946944,3810,"https://en.wikipedia.org/wiki/Wreck_of_the_Titanic",Wikipedia coordinates
+Titanic-Ballard,41.726931,-49.948253,3810,"https://matei.org/ithink/2012/01/09/titanic-wreck-location-on-north-atlantic-google-earth-map-in-kmz-format/",Ballard coordinates
+StJohns-NL,47.562778,-52.710833,0,"https://en.wikipedia.org/wiki/St._John%27s,_Newfoundland_and_Labrador",Wikipedia
+Bouy-44140,42.870,-51.470,1300,"https://www.ndbc.noaa.gov/station_page.php?station=44140",Station 44140 - Tail of the Bank
+Ballard-Bow,41.732500,-49.946944,3810,"https://www.titanic-titanic.com/titanic-wreck-location/",Ballard: The Discovery of the Titanic
+Ballard-Stern,41.726389,-49.948333,3810,"https://www.titanic-titanic.com/titanic-wreck-location/",Ballard: The Discovery of the Titanic
+Ballard-Boilers,41.725556,-49.946944,3810,"https://www.titanic-titanic.com/titanic-wreck-location/",Ballard: The Discovery of the Titanic
+Drop-Weight-1,41.735417,-49.946111,3810,"https://www.gc.noaa.gov/documents/2012/012512-maritime_day.pdf",US Coast Guard
+Drop-Weight-2,41.732639,-49.951667,3810,"https://www.gc.noaa.gov/documents/2012/012512-maritime_day.pdf",US Coast Guard
+Drop-Weight-3,41.730722,-49.942306,3810,"https://www.gc.noaa.gov/documents/2012/012512-maritime_day.pdf",US Coast Guard
+Drop-Weight-4,41.728111,-49.950278,3810,"https://www.gc.noaa.gov/documents/2012/012512-maritime_day.pdf",US Coast Guard
+2004-Marconi-1086136606-D3,41.73285481,-49.94759195,3759.740,"Marconi Room, Dive 3, ts=1086136606",NOAA 2004 Dive 3
+2004-Boat-Deck-1086136066-D3,41.73306548,-49.94766102,3760.149,"Boat deck, above promenade, Dive 3, ts=1086136066",NOAA 2004 Dive 3
+2004-Steering-1086137604-D3,41.73300861,-49.94781828,3759.740,"Steering and plaques, Dive 3, ts=1086137604",NOAA 2004 Dive 3
+2004-Bow-1086146758-D3,41.73441928,-49.94989432,3777.163,"Money shot of bow, Dive 3, ts=1086146758",NOAA 2004 Dive 3
+2004-Grand-Staircase-1086169273,41.73846692,-49.95215272,3757.380,"1086169273 Near entrance to grand staircase","NOAA 2004 Dive 3"
+2004-Wash-Basin-1086162133,41.73457956,-49.94984927,3759.180,"1086162133 can see wash basin standing through window of stateroom","NOAA 2004 Dive 3"
+2004-Heater-Captain-Bath-1086159958,41.73422141,-49.94974246,3754.476,"1086159958 hotwater heater for captains bath","NOAA 2004 Dive 3"
+2004-Officer-Bathtub-1086159449,41.73440808,-49.94943030,3753.948,"1086159449 officers bathtub - seems to have filled in quite a bit with sediment","NOAA 2004 Dive 3"
