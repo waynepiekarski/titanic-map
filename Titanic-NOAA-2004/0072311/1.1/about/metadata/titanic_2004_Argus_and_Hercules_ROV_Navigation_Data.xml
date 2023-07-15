@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>NOAA Office of Ocean Exploration and Research</origin>
+        <origin>Robert Ballard</origin>
+        <pubdate>20040612</pubdate>
+        <title>Argus and Hercules ROV Navigation Data</title>
+        <lworkcit>
+          <citeinfo>
+            <origin>NOAA Office of Ocean Exploration and Research</origin>
+            <origin>Robert Ballard, Institute for Exploration</origin>
+            <pubdate>Unpublished material</pubdate>
+            <title>Titanic Expedition 2004 (titanic2004) on NOAA Ship Ron Brown in North Atlantic Ocean between 20040527 and 20040612</title>
+          </citeinfo>
+        </lworkcit>
+        <geoform>Submersible Navigation</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Six navigation data sets using the Argus and Hercules ROVs from the R/V Ron Brown.</abstract>
+      <purpose>Basic Research</purpose>
+      <supplinf/>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20040527</begdate>
+          <enddate>20040612</enddate>
+          <begtime>0000</begtime>
+          <endtime>0000</endtime>
+        </rngdates>
+      </timeinfo>
+      <current>Ground Condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None Planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-49.94695</westbc>
+        <eastbc>-49.94695</eastbc>
+        <northbc>41.7325</northbc>
+        <southbc>41.7325</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>GCMD</themekt>
+        <themekey>EARTH SCIENCE &gt; Oceans</themekey>
+        <themekey>DOC/NOAA/NESDIS/NODC &gt; National Oceanographic Data Center, NESDIS, NOAA, U.S. Department of Commerce</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>oceans</themekey>
+        <themekey>014</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Ocean Exploration</themekey>
+      </theme>
+      <place>
+        <placekt>Limits of the Oceans and Seas</placekt>
+        <placekt>None</placekt>
+        <placekey>North Atlantic Ocean</placekey>
+        <placekey/>
+        <placekey/>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntper>Robert Ballard</cntper>
+          <cntorg>Institute for Exploration</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing or physical</addrtype>
+          <address>Institute for Exploration, 55 Coogan Blvd.</address>
+          <city>Mystic</city>
+          <state>CT</state>
+          <postal>06355</postal>
+          <country/>
+        </cntaddr>
+        <cntvoice>860-572-5955</cntvoice>
+        <cntfax>860-572-4734</cntfax>
+        <cntemail>rballard@ife.org</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Disk space: 78.6 MB</native>
+    <accconst>No access constraints.</accconst>
+    <useconst>NOAA and NODC would appreciate recognition as the resource from which these data were obtained in any publications and/or other representations of these data.</useconst>
+  </idinfo>
+  <eainfo>
+    <overview>
+      <eaover>In the absence of an electronic means of supplying specific details of each file format for each NODC dataset, NODC provides extended information to assist customers in finding specific information about potentially diverse data sets.  This extended information is provided below.</eaover>
+      <eadetcit>Recent data archived by the NODC are available in the format provided by the data originator.  Data may also be available in NODC-processed formats.  Please contact the NODC directly for additional details about this particular data set.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>National Oceanographic Data Center</cntorg>
+        </cntorgp>
+        <cntpos>NODC Data Officer</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1315 East-West Highway, SSMC3 4nd Floor</address>
+          <city>Silver Springs</city>
+          <state>MD</state>
+          <postal>20910</postal>
+          <country/>
+        </cntaddr>
+        <cntvoice>301-713-3272</cntvoice>
+        <cntfax>301-713-3302</cntfax>
+        <cntemail>nodc.dataofficer@noaa.gov</cntemail>
+        <hours>7:30 am to 4:30 pm Central</hours>
+      </cntinfo>
+    </distrib>
+    <distliab>NOAA and NODC make no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.  NOAA and NODC cannot assume liability for any damages caused by any errors or omissions in the data.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Originator"s Data Format(s)</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://www.nodc.noaa.gov/Archive/Search/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>Contact NODC for most recent fee structure or go to http://www.nodc.noaa.gov/General/NODC-ordering.html.</fees>
+      <ordering>Contact NODC Customer Service if difficulties in downloading this data set are encountered.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20110330</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>National Oceanographic Data Center</cntorg>
+        </cntorgp>
+        <cntpos>NODC Data Officer</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1315 East-West Highway, SSMC3 4nd Floor</address>
+          <city>Silver Springs</city>
+          <state>MD</state>
+          <postal>20910</postal>
+          <country/>
+        </cntaddr>
+        <cntvoice>301-713-3272</cntvoice>
+        <cntfax>301-713-3302</cntfax>
+        <cntemail>nodc.dataofficer@noaa.gov</cntemail>
+        <hours>7:30 am to 4:30 pm Central</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <metsi>
+      <metscs>none</metscs>
+      <metsc>Unclassified</metsc>
+      <metshd>none</metshd>
+    </metsi>
+  </metainfo>
+</metadata>

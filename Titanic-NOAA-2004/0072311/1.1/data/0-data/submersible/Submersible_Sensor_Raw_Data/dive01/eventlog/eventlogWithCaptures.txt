@@ -1,0 +1,372 @@
+1085953277 Vehicle entering water
+1085953301 tested frame grab
+1085953312 vehicle has power
+1085953552 argus is in the water
+1085953589 argus is free of her tag lines
+1085953614 cups are lost at surface
+1085953702 scanning sonar turned on
+1085955038 pat shea takes the data reins -- good luck
+1085955068 squid on bubble
+1085955294 styrofoam cup
+1085955380 passing 500m
+1085955717 passing 610m
+1085955878 auto depth now working on herc
+1085955940 one arm is hanging slightly
+1085955987 adjusting arm
+1085956034 done adjusting arm
+1085956064 approaching bad spot in cable
+1085956150 all stop for cable check
+1085956169 make that "cable repair"
+1085956286 all stop on winch, depth 752m
+1085956325 continuing descent
+1085956402 descending at 15m min
+1085956544 descending at 21m min
+1085956648 est. time to bottom = 2.25 hrs
+1085956765 900m depth
+1085956783 cup frame grab
+1085957612 1200m depth
+1085959609 1250m depth
+1085959621 test
+1085959641 1925 m depth
+1085959827 2000m depth
+1085960160 cup grab
+1085960839 2300m depth
+1085962016 @ 2600m
+1085962481 @ 2700m
+1085962989 @ 2800m
+1085963430 @ 2900m
+1085963507 Move Kraft arm due to sagging
+1085963736 power down Kraft, check GFI
+1085963889 @ 3000m
+1085964833 winch has stopped to let cable swing into position  3500 meters
+1085965333 @ 3320m
+1085965539 Event Logger restarted due to software bug
+1085965549 @ 3345m
+1085966111 @ 3400m
+1085966823 @ 3500m
+1085967019 begin payout of cable, heading for bottom
+1085967035  @3575m
+1085967221 @ 3650m
+1085967473 @ 3730m
+1085967496 Doppler bottom lock, 33m
+1085967523 Altimeter reading steady at 37m
+1085967670 bottom sighted @ 373770m
+1085967680 correction  3770m
+1085967712 framegrab -> 1085967712.tif
+1085967785 Cable out is 3801m
+1085967880 framegrab -> 1085967880.tif
+1085968208 framegrab -> 1085968208.tif
+1085968526 framegrab -> 1085968526.tif
+1085968542 framegrab -> 1085968542.tif
+1085968701 Observing "pumping" action caused  by Argus
+1085968910 framegrab -> 1085968910.tif
+1085969058 framegrab -> 1085969058.tif
+1085969112 framegrab -> 1085969112.tif
+1085969359 Heading towards wreck @ 202 degrees for 300 meters
+1085969720 Current position 500m from target
+1085970105 Wreck currently not visible on Argus sonar
+1085970134 Argus sonar range is 1km
+1085970446 Hercules depth 3776m
+1085970780 framegrab -> 1085970780.tif
+1085971022 Estimated range to bow is 440m
+1085971106 Adjust ship heading to 180 degrees @ 0.2 knots
+1085971318 framegrab -> 1085971318.tif
+1085972325 Hercules depth 3777m
+1085972345 No sight of bow on Argus sonar
+1085972748 framegrab -> 1085972748.tif
+1085972999 Estimated range to bow is 300m
+1085973418 framegrab -> 1085973418.tif
+1085973439 Hercules depth 3778m
+1085973560 Estimated range to bow is 200m
+1085973980 framegrab -> 1085973980.tif
+1085974104 Estimated range to bow 140m
+1085974562 Estimated range to bow 70m
+1085975605 Currently sitting on estimated track point, holding position
+1085975616 framegrab -> 1085975616.tif
+1085976423 watch change
+1085976446 moving ship 50 m to SW 
+1085976462 vehicle is heavy
+1085976558 framegrab -> 1085976558.tif
+1085976874 MIR submersible tracks visible
+1085976898 framegrab -> 1085976898.tif
+1085976912 Argus spinning
+1085977029 ship has reached position
+1085977076 framegrab -> 1085977076.tif
+1085977148 framegrab -> 1085977148.tif
+1085977164 ship is stopped
+1085977183 about to navigate south of current position
+1085977197 dive weight on bottom
+1085977218 framegrab -> 1085977218.tif
+1085977290 framegrab -> 1085977290.tif
+1085977308 framegrab -> 1085977308.tif
+1085977330 framegrab -> 1085977330.tif
+1085977407 cup in view, but looks recent as there is no 'White Star Lines' emblem
+1085977741 autoheading off on Argus
+1085977880 Argus heading varying from 170-185
+1085977890 argus depth 3765
+1085977901 argus alt 17
+1085978077 trying to determine why Argus keeps spinning
+1085978198 Herc back in view of Argus
+1085978349 DVL and HIPAC seem to be matching now
+1085978362 moving .2 knots and slowing down to .1
+1085978410 moving ship course of 180 50 m at speed of .1 knots
+1085978852 framegrab -> 1085978852.tif
+1085978892 Nav plugging in Bob's original coordinates
+1085978922 framegrab -> 1085978922.tif
+1085978959 based upon this, going west
+1085979098 framegrab -> 1085979098.tif
+1085979114 framegrab -> 1085979114.tif
+1085979150 seeing different sub tracks now
+1085979377 ship on station and now moving ship 50 m to West at speed of .2 kts
+1085979460 Argus is spinning again so stopping the ship
+1085979478 Herc looking for Argus
+1085979607 Argus found Herc and continuing to move ship
+1085979646 framegrab -> 1085979646.tif
+1085979676 rope with weight on bottom
+1085979818 framegrab -> 1085979818.tif
+1085980049 target off to the right on sonar
+1085980063 10 m remaining in ship position
+1085980101 requesting ship to move another 50 m on same course
+1085980538 HD capture computer down 
+1085980557 ship still moving West
+1085980667 John B rebooting computer
+1085980707 Bob thinks we are south of the bow
+1085980765 ship position move complete
+1085980828 requesting ship to move another 50 m West
+1085980967 Bob sees something large on sonar about 150 m away West
+1085981494 framegrab -> 1085981494.tif
+1085982039 requested ship to move another 100 m west
+1085982064 framegrab -> 1085982064.tif
+1085982102 framegrab -> 1085982102.tif
+1085982138 HD capture computer back on line
+1085982214 framegrab -> 1085982214.tif
+1085982260 extending ships move another 40 m West
+1085982280 framegrab -> 1085982280.tif
+1085982301 black manmade object on Herc cam - possibly metal
+1085982354 framegrab -> 1085982354.tif
+1085982362 framegrab -> 1085982362.tif
+1085982392 large metal object on seafloor with rusticles, possibly a davit used to lower lifeboats
+1085982400 clearly in the Titanic debris field
+1085982410 framegrab -> 1085982410.tif
+1085982429 requesting ship to move another 50 m West
+1085982449 interesting to note that there are no sub tracks in this part of the debris area
+1085982458 framegrab -> 1085982458.tif
+1085982522 framegrab -> 1085982522.tif
+1085982529 dropoff in sight
+1085982574 bow should be North of our current position
+1085982581 Nav dropping markers on debris
+1085982676 requesting ship to move 50 m North
+1085982716 framegrab -> 1085982716.tif
+1085982758 framegrab -> 1085982758.tif
+1085982831 Argus depth 3772
+1085982894 framegrab -> 1085982894.tif
+1085982919 Alvin-like tracks in view
+1085983272 ship beginning Northerly move
+1085983447 ship completed 50 m move to north
+1085983550 6-8 foot swells reported by bridge
+1085983630 requesting ship to move another 50 m North at .2 knts
+1085983724 framegrab -> 1085983724.tif
+1085983969  requested ship to move due North indefinitely at .2 knts
+1085984120 framegrab -> 1085984120.tif
+1085984126 framegrab -> 1085984126.tif
+1085984136 small debris in view
+1085984228 framegrab -> 1085984228.tif
+1085984346 requesting ship to come to a stop so Argus and Herc can line up
+1085984524 framegrab -> 1085984524.tif
+1085984542 framegrab -> 1085984542.tif
+1085984546 framegrab -> 1085984546.tif
+1085984568 framegrab -> 1085984568.tif
+1085984576 large debris in view
+1085984600 framegrab -> 1085984600.tif
+1085984608 framegrab -> 1085984608.tif
+1085984624 framegrab -> 1085984624.tif
+1085984662 framegrab -> 1085984662.tif
+1085984677 debris potentially interior bulkhead
+1085984724 framegrab -> 1085984724.tif
+1085984730 framegrab -> 1085984730.tif
+1085984738 framegrab -> 1085984738.tif
+1085984750 framegrab -> 1085984750.tif
+1085984768 Bob thinks we are South of the bow and so we will continue to move North
+1085984796 framegrab -> 1085984796.tif
+1085984866 framegrab -> 1085984866.tif
+1085984872 framegrab -> 1085984872.tif
+1085984902 framegrab -> 1085984902.tif
+1085984910 framegrab -> 1085984910.tif
+1085984921 two pieces of tile in view
+1085984956 framegrab -> 1085984956.tif
+1085985007 requesting ship to move North again
+1085985106 framegrab -> 1085985106.tif
+1085985128 framegrab -> 1085985128.tif
+1085985137 hull plate in view
+1085985160 following debris path north
+1085985474 framegrab -> 1085985474.tif
+1085985596 framegrab -> 1085985596.tif
+1085985604 framegrab -> 1085985604.tif
+1085985678 framegrab -> 1085985678.tif
+1085985686 framegrab -> 1085985686.tif
+1085985693 headboard in view
+1085985732 framegrab -> 1085985732.tif
+1085985744 framegrab -> 1085985744.tif
+1085985750 framegrab -> 1085985750.tif
+1085985774 framegrab -> 1085985774.tif
+1085985788 framegrab -> 1085985788.tif
+1085985796 framegrab -> 1085985796.tif
+1085985824 framegrab -> 1085985824.tif
+1085985877 checking white balance on camera
+1085986056 framegrab -> 1085986056.tif
+1085986183 cycling power in Herc HD camera to try to improve color balance
+1085986493 two downward HMI's on Herc appear to have shut down
+1085986632 framegrab -> 1085986632.tif
+1085986646 framegrab -> 1085986646.tif
+1085986714 framegrab -> 1085986714.tif
+1085986878 framegrab -> 1085986878.tif
+1085986890 sandbags and a plate in view
+1085986969 French used sandbags to bring up piece of hull when elevator loaded up
+1085987227 large target up ahead on sonar
+1085987378 XGA1 computer screen grab - sonar image of large 'screamer' up ahead
+1085987500 framegrab -> 1085987500.tif
+1085987517 may have just found 'Her'
+1085987562 unofficial weather report of potential 12-15 foot seas building in the next 6 hrs
+1085987778 XGA1 computer screen grabs for sonar image as we approach 'Her'
+1085987832 Planning to recover vehicles after we find bow since seastate may worsen quickly based on weather report
+1085987941 'Target'
+1085987974 request to decrease speed from .4 to .2 as we approach target
+1085988170 framegrab -> 1085988170.tif
+1085988182 framegrab -> 1085988182.tif
+1085988193 torn end of bow coming into view
+1085988220 framegrab -> 1085988220.tif
+1085988228 framegrab -> 1085988228.tif
+1085988236 framegrab -> 1085988236.tif
+1085988244 framegrab -> 1085988244.tif
+1085988250 framegrab -> 1085988250.tif
+1085988256 framegrab -> 1085988256.tif
+1085988262 framegrab -> 1085988262.tif
+1085988362 HD capture locked up
+1085988411 promenade windows in view with deck above
+1085988429 going up ramp
+1085988502 potential impact spot
+1085988611 another potential impact site
+1085988690 framegrab -> 1085988690.tif
+1085988696 framegrab -> 1085988696.tif
+1085988714 framegrab -> 1085988714.tif
+1085988734 framegrab -> 1085988734.tif
+1085988795 port holes in view
+1085988906 first class entrance
+1085988960 framegrab -> 1085988960.tif
+1085989004 framegrab -> 1085989004.tif
+1085989040 framegrab -> 1085989040.tif
+1085989050 framegrab -> 1085989050.tif
+1085989074 framegrab -> 1085989074.tif
+1085989094 framegrab -> 1085989094.tif
+1085989108 HD capture back online and John taking control
+1085989136 framegrab -> 1085989136.tif
+1085989166 framegrab -> 1085989166.tif
+1085989232 framegrab -> 1085989232.tif
+1085989262 framegrab -> 1085989262.tif
+1085989292 port side of grand staircase on promenade in view
+1085989298 framegrab -> 1085989298.tif
+1085989322 framegrab -> 1085989322.tif
+1085989374 framegrab -> 1085989374.tif
+1085989402 framegrab -> 1085989402.tif
+1085989414 framegrab -> 1085989414.tif
+1085989426 framegrab -> 1085989426.tif
+1085989436 framegrab -> 1085989436.tif
+1085989444 framegrab -> 1085989444.tif
+1085989548 framegrab -> 1085989548.tif
+1085989570 framegrab -> 1085989570.tif
+1085989582 framegrab -> 1085989582.tif
+1085989587 beam of the bridge
+1085989592 framegrab -> 1085989592.tif
+1085989608 framegrab -> 1085989608.tif
+1085989614 framegrab -> 1085989614.tif
+1085989658 framegrab -> 1085989658.tif
+1085989678 framegrab -> 1085989678.tif
+1085989700 framegrab -> 1085989700.tif
+1085989701 lifeboat davit
+1085989708 framegrab -> 1085989708.tif
+1085989742 framegrab -> 1085989742.tif
+1085989750 framegrab -> 1085989750.tif
+1085989760 framegrab -> 1085989760.tif
+1085989872 framegrab -> 1085989872.tif
+1085989888 framegrab -> 1085989888.tif
+1085990048 framegrab -> 1085990048.tif
+1085990248 moving ship around and Argus is getting pulled
+1085990322 watch change
+1085990740 framegrab -> 1085990740.tif
+1085990754 framegrab -> 1085990754.tif
+1085990777 Near bow splash guard
+1085990814 framegrab -> 1085990814.tif
+1085990842 framegrab -> 1085990842.tif
+1085990870 framegrab -> 1085990870.tif
+1085990960 framegrab -> 1085990960.tif
+1085990970 framegrab -> 1085990970.tif
+1085990988 framegrab -> 1085990988.tif
+1085991022 framegrab -> 1085991022.tif
+1085991064 Near bow but unable to get close
+1085991112 framegrab -> 1085991112.tif
+1085991140 framegrab -> 1085991140.tif
+1085991160 framegrab -> 1085991160.tif
+1085991181 moving in on winless accross the deck
+1085991200 framegrab -> 1085991200.tif
+1085991216 framegrab -> 1085991216.tif
+1085991246 framegrab -> 1085991246.tif
+1085991257 closeups on port bow at 20m above seabottom
+1085991268 framegrab -> 1085991268.tif
+1085991302 framegrab -> 1085991302.tif
+1085991340 bow port side anchor visable
+1085991340 framegrab -> 1085991340.tif
+1085991352 framegrab -> 1085991352.tif
+1085991416 framegrab -> 1085991416.tif
+1085991436 framegrab -> 1085991436.tif
+1085991598 hovering over port side bow
+1085991674 framegrab -> 1085991674.tif
+1085991696 framegrab -> 1085991696.tif
+1085991760 framegrab -> 1085991760.tif
+1085991872 framegrab -> 1085991872.tif
+1085991940 framegrab -> 1085991940.tif
+1085992108 framegrab -> 1085992108.tif
+1085992178 argus hd camera goes dead
+1085992360 herc continues to be drug away from ship by argus teather
+1085992582 Bob decides to drop load on bow deck
+1085992657 Maneuvers begin to descend and move onto ship's deck
+1085992742 landing on sea floor
+1085992794 landed on sea floor at port side bow region of ship
+1085992876 going into starboard box on to unload plaque from Hercules
+1085992916 operating arms and moving sample tray on Herc
+1085992963 box open and sample tray open visable
+1085993026 arm has grip on plaque and pulls
+1085993118 framegrab -> 1085993118.tif
+1085993134 framegrab -> 1085993134.tif
+1085993142 Plaque comes out of box and dropped on sea floor
+1085993224 framegrab -> 1085993224.tif
+1085993238 framegrab -> 1085993238.tif
+1085993244 framegrab -> 1085993244.tif
+1085993250 framegrab -> 1085993250.tif
+1085993256 framegrab -> 1085993256.tif
+1085993288 sample box dropped on sea bottom
+1085993308 framegrab -> 1085993308.tif
+1085993376 moving off bottom
+1085993437 looking at bow along sea floor
+1085993458 framegrab -> 1085993458.tif
+1085993468 framegrab -> 1085993468.tif
+1085993498 framegrab -> 1085993498.tif
+1085993508 framegrab -> 1085993508.tif
+1085993514 framegrab -> 1085993514.tif
+1085993534 framegrab -> 1085993534.tif
+1085993548 framegrab -> 1085993548.tif
+1085993558 Bow views from Herc
+1085993627 ROVs coming up 
+1085993767 Out of view of ship and coming up
+1085995623 At 3088m and rising
+1085996107 At 2900m and rising
+1085997260 At 2500m and heading up
+1085998813 At 1976m and rising
+1085999825 At 1500m andrising
+1086001102 At 1103m and rising
+1086001438 At 975m and rising
+1086001464 Water temp at 4.16 C
+1086002965 At 400m and rising
+1086003489 At 175m and rising
+1086003750 At 100m and rising
+1086010712 Vehicles on deck at 0810
+1086010786 Running SEABEAM Survey, 40 nm box, E-W lines, 10 kts

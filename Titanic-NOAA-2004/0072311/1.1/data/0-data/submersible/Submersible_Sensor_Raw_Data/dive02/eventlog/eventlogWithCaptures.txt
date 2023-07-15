@@ -1,0 +1,139 @@
+1086047211 Broke off SeaBeam survey to head to new launch site
+1086047239 NEW LAUNCH SITE   49 54.53W; 41 44.70 N
+1086047276 NEW BOW SITE   49 56.978 W; 41 44.042 N
+1086047297 Herc pre-dive check
+1086047378 Bert Fox is pulling high-def frame grabs from a dub of last night's footage
+1086054592 Final pre-dive checklist being conducted
+1086054637 Power up
+1086054654 High voltage on
+1086054813 Deploying transducer pole
+1086055108 Standby for ship positioning
+1086055696 Hercules in water
+1086055772 Vehicle clear of stern'
+1086055794 framegrab -> 1086055794.tif
+1086055814 framegrab -> 1086055814.tif
+1086055834 framegrab -> 1086055834.tif
+1086055914 framegrab -> 1086055914.tif
+1086055922 framegrab -> 1086055922.tif
+1086055950 framegrab -> 1086055950.tif
+1086055956 framegrab -> 1086055956.tif
+1086055962 Argus in water
+1086055962 framegrab -> 1086055962.tif
+1086055968 framegrab -> 1086055968.tif
+1086055982 framegrab -> 1086055982.tif
+1086056002 framegrab -> 1086056002.tif
+1086056116 Argus depth 20m
+1086056413 Hercules @ 100m
+1086056736 Hercules @ 200m
+1086057042 Hercules @ 300m
+1086057305 Hercules @ 400m
+1086057554 Hercles @ 500m
+1086057742 framegrab -> 1086057742.tif
+1086057786 framegrab -> 1086057786.tif
+1086057867 Hercules @ 616m, Argus @ 600m
+1086057870 framegrab -> 1086057870.tif
+1086058111 Hercules @ 700m
+1086058405 Note that DVLNAV log file was changed to Dive #2
+1086058433 Hercules @ 820m
+1086058642 Hercules @ 900m
+1086058911 Hercules @1000m
+1086059207 Hercules @ 1100m
+1086059468 Hercules @1200m
+1086059742 Hercules @ 1300m
+1086060020 Hercules @ 1400m
+1086060310 Hercules @ 1500m
+1086060595 Hercules @ 1600m
+1086060896 Hercules @ 1700m
+1086061186 Hercules @ 1800m
+1086061304 Ship speed is 0.5 knots
+1086061701 Hercules @ 1950m
+1086061978 watch change
+1086062022 Herc @ 2031
+1086062383 Hercules @ 2113 m
+1086062476 framegrab -> 1086062476.tif
+1086063086 Hercules @ 2293 m
+1086063563 Hercules @ 2421 m
+1086063971 Hercules @ 2522 m
+1086064347 Hercules @ 2617 m
+1086064725 Hercules @ 2710 m
+1086064773 ship having hard time staying course, so bringing head of ship about 5 degrees to left to 285
+1086065101 Hercules @2801 m
+1086065793 Hercules @ 2962 m
+1086066130 Hercules @ 3039 m
+1086066373 Hercules @ 3097 m
+1086066682 Hercules @ 3167 m
+1086066867 Requesting ship to slow down  to .25 knts and hold position
+1086066986 Hercules @ 3239 m
+1086067061 Vehicles about 1,000 m away from bow
+1086067229 Hercules @ 3312 m
+1086067483 Hercules @ 3387 m
+1086067668 Ship drifting to the North so changing heading to accommodate for drift
+1086067720 Argus is 285 m from bottom
+1086067744 Hercules @ 3457 m
+1086067831 Slowing descent to see where we settle out
+1086067900 Argus is 240 m from bottom
+1086067934 Mark stopping descent at 3550
+1086067971 Hercules @ 3506 m
+1086068670 Hercules @ 3530m
+1086069159 Hercules @ 3578 m
+1086069626 Hercules @ 3640 m
+1086069873 Requesting ship to reduce speed
+1086070105 Hercules @ 3675 m
+1086070887 Hercules @ 3732 m
+1086071438 Bottom in view
+1086071453 Hercules @ 3776 m
+1086071594 Lost Herc HD
+1086071653 Lost Herc Aft camera
+1086071660 Vehicle hit bottom
+1086071667 Herc Aft back up
+1086071697 Problem is potentially tether pull between two vehicles
+1086071743 Vehicle may have lost power
+1086071784 Still have Argus camera and lights, so Dave doesn't think vehicles lost power
+1086071824 Dave holding Herc altitude so he doesn't come up higher than Argus
+1086071848 Mark bringing Argus up 5 m
+1086071892 May have to resort to a towed recovery (dead vehicle recovery) so as to tow the vehicle and not whip it
+1086071981 Requesting ship to slowly increase speed to a quarter of a knt at a course of 295 
+1086072008 Mark brought Argus 25 m above bottom
+1086072053 Moving vehicles high enough above bottom to avoid hitting wreck with tow
+1086072107 No control over Herc
+1086072357 Hercules @ 3772 m
+1086072457 Vessel speed is .5 knts
+1086072595 Unusual amount of 'dropoffs' on Herc HD upon descent, so problem may have been there prior to reaching bottom
+1086072778 Ship speed over water is about 1.3 knts, speed over bottom is about .5 knts
+1086073063 Raising vehicles on winch and should reach the surface by around 2 00 a.m.
+1086073104 SO CLOSE. . .. AND YET. . .SO FAR. . .
+1086073454 Hercules @ 3772 m
+1086074417 Hercules @ 3772 m
+1086075084 Hercules @ 3772 m
+1086075702 Argus @ 2590 m
+1086076214 Argus @ 2433 m
+1086078214 Vertical bars occasionally flash accross Argus HD screen in van
+1086078277 Argus at 1880m and rising
+1086078968 Argus at 1624m and rising
+1086079398 Argus at 1500m and rising
+1086081186 Argus at 970m and rising
+1086082223 Argus at 650m and rising
+1086083199 Argus at 350m and rising
+1086083342 Ships headingWNW 
+1086083558 Cable out is 250m at 20m per minute
+1086083646 Argus depth at 200m and rising
+1086083825 Argus at 150m and rising
+1086083847 Winch control passed off to Todd on aft deck
+1086084011 Argus at 100m and rising
+1086084144 Ship speed at 1 knot
+1086084219 Argus depth at 50m and rising
+1086084365 Argus depth at 10m and rising
+1086084385 Herc should be at surface but is without lights
+1086084442 Argus at surface
+1086084539 We lost power, video, fiber on both ROVs
+1086084550 Argus out of water
+1086084596 Argus safely on aft deck and being secured
+1086084622 Ship slowed to .3 knots
+1086084756 Herc being reeled in
+1086085080 Herc remains in the water
+1086085122 Crane employed to pull in Herc
+1086085340 Herc remains in the water
+1086085690 crane is pulling in Herc
+1086085784 Herc coming out of water
+1086085840 Herc onboard ship
+1086085918 Herc swafely home and being secured to deck

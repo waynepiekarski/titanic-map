@@ -1,0 +1,55 @@
+HYPACK_DATA_VESSEL:
+This file contains the USBL position data from the research vessel.
+There are column headings in this file.  The columns are as follows:
+	1. Time in UNIX timestamp
+	2. The UTM X coordinate in meters
+	3. The UTM Y coordinate in meters
+	4. The Latitude in decimal degrees
+	5. The Longitude in decimal degrees
+HYPACK_DATA_ARGUS:
+This file contains the USBL position data from the Argus ROV.
+There are column headings in this file.  The columns are as follows:
+	1. Time in UNIX timestamp
+	2. The UTM X coordinate in meters
+	3. The UTM Y coordinate in meters
+	4. The Latitude in decimal degrees
+	5. The Longitude in decimal degrees
+
+HYPACK_DATA_HERCULES:
+This file contains the USBL position data from the Hercules ROV.
+There are column headings in this file.  The columns are as follows:
+	1. Time in UNIX timestamp
+	2. The UTM X coordinate in meters
+	3. The UTM Y coordinate in meters
+	4. The Latitude in decimal degrees
+	5. The Longitude in decimal degrees
+
+allArgusNav:
+This file contains the USBL position data from the Argus ROV plus
+vehicle attitude data.  There are column headings in this file.
+The columns are as follows:
+	1. Time in UNIX timestamp
+	2. The UTM X coordinate in meters
+	3. The UTM Y coordinate in meters
+	4. The Latitude in decimal degrees
+	5. The Longitude in decimal degrees
+	6. The vehicle heading in degrees
+	7. The vehicle ptich in degrees
+	8. The vehicle roll in degrees
+	9. The vehicle depth in meters
+	10. The vehicle altitude in meters
+
+allHerculesNav:
+This file contains the USBL position data from the Hercules ROV
+plus vehicle attitude data.  There are column headings in this file.
+The columns are as follows:
+	1. Time in UNIX timestamp
+	2. The UTM X coordinate in meters
+	3. The UTM Y coordinate in meters
+	4. The Latitude in decimal degrees
+	5. The Longitude in decimal degrees
+	6. The vehicle heading in degrees
+	7. The vehicle ptich in degrees
+	8. The vehicle roll in degrees
+	9. The vehicle depth in meters
+	10. The vehicle altitude in meters

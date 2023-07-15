@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>NOAA Office of Ocean Exploration and Research</origin>
+        <origin>Robert Ballard, Institute for Exploration</origin>
+        <pubdate>2004</pubdate>
+        <title>Titanic Expedition 2004 (titanic2004) on NOAA Ship Ron Brown in North Atlantic Ocean between 20040527 and 20040612</title>
+        <geoform>None</geoform>
+        <onlink>http://oceanexplorer.noaa.gov/explorations/04titanic/welcome.html</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Expedition produced the following data: Cruise Plan Documents, Video Logs, PowerPoint Presentation Documents, Dive Summaries, News Articles, 13 Highlight Images, 87 Highlight Videos, 9101 Submersible Digital Stills, Multibeam Data, Argus and Hercules Submersible Navigation Data (Dives 1-6) and Submersible Sensor Raw Data (Dives 1-6).</abstract>
+      <purpose>Ocean Exploration and Research</purpose>
+      <supplinf>Data Inventory Report: </supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20040527</begdate>
+          <enddate>20040612</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-49.94695</westbc>
+        <eastbc>-49.94695</eastbc>
+        <northbc>41.7325</northbc>
+        <southbc>41.7325</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>GCMD</themekt>
+        <themekey>EARTH SCIENCE &gt; Oceans</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>oceans</themekey>
+        <themekey>014</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Ocean Exploration</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>North Atlantic Ocean</placekey>
+        <placekey/>
+        <placekey/>
+      </place>
+    </keywords>
+    <accconst>No Access Constraints.</accconst>
+    <useconst>No Use Constraints.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Institute for Exploration</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing or physical</addrtype>
+          <address>Institute for Exploration, 55 Coogan Blvd.</address>
+          <city>Mystic</city>
+          <state>CT</state>
+          <postal>06355</postal>
+          <country/>
+        </cntaddr>
+        <cntvoice>860-572-5955</cntvoice>
+        <cntfax>860-572-4734</cntfax>
+        <cntemail>rballard@ife.org</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Institute for Exploration</datacred>
+  </idinfo>
+  <metainfo>
+    <metd>20110330</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>NOAA/OAR/OER - Ocean Exploration and Research</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>SSMC3, 1315 East-West Highway, 10th Floor</address>
+          <city>Silver Spring</city>
+          <state>MD</state>
+          <postal>20910</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>301-734-1010</cntvoice>
+        <cntfax>301-713-4252</cntfax>
+        <cntemail>ncddcmetadata@noaa.gov</cntemail>
+        <hours>8am-5pm, Monday through Friday</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <metsi>
+      <metscs>none</metscs>
+      <metsc>Unclassified</metsc>
+      <metshd>none</metshd>
+    </metsi>
+  </metainfo>
+</metadata>

@@ -1,0 +1,3500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accession manifest_version='2'>
+  <head>
+    <id>0072311</id>
+    <version>1.1</version>
+    <timestamp>2013-12-16 15:47:14+00</timestamp>
+    <host>mare</host>
+    <directory>/nodc/archive/arc0040/0072311/1.1/</directory>
+    <file_count>166</file_count>
+    <byte_count>608056697</byte_count>
+  </head>
+  <files>
+    <file>
+      <path>NODC-Readme.txt</path>
+      <digest algorithm='md5'>1aa8d73d906b820f8f3460b304215b17</digest>
+      <digest algorithm='sha1'>42d3e4677f04d8b256b110018e5541e1dd89eacf</digest>
+      <digest algorithm='sha256'>7b64d8de0cc632362642100dfcb02bf75e540ab1620ffb17e990dbbfc81b23be</digest>
+      <digest algorithm='sha384'>19cef9e1b00b7ce287bd9e1073cd54788faebd3152b65df8395df6fcafdd7b697dc20a2769f0234aa3d3207104010c9c</digest>
+      <digest algorithm='sha512'>9a4775c7161a3aefe10c92783bff4c5bf2c7aecaab66aea5b043408077645e9d4bccbf88ae3c8fd0d57fbae5883ff9cb0f5436b8bb2c20816326bc2fc2b80027</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2129</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2009-01-29 15:52:27+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:14+00</acctime>
+      <sumtime>2013-12-16 15:47:14+00</sumtime>
+    </file>
+    <file>
+      <path>about</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:29:02+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 08:25:47+00</acctime>
+      <sumtime>2013-12-16 15:47:14+00</sumtime>
+    </file>
+    <file>
+      <path>about/0072311_lonlat.txt</path>
+      <digest algorithm='md5'>cc3939a196c445a0eccabb63b3023c42</digest>
+      <digest algorithm='sha1'>13ad49a6d318774fa0876730185d15357fd4b580</digest>
+      <digest algorithm='sha256'>a23dffee20a6b324dfdc4fc949a550d984b14ec63ebabb7bef3bb7dedb474843</digest>
+      <digest algorithm='sha384'>713cd10d04b2f68b73494f015b3d53ef565cb528a40990ace72bb8bc169920c15494969b6a51339067def1e11375682b</digest>
+      <digest algorithm='sha512'>fb3f0114a0e520f3c58d5ef515bccf28234f03a74a9db1e6245ce1b9314fa8cac7cefc02d2c38c2d960efef6112a198f30034289cb666f231d504be3ecbf2d90</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>5844175</size>
+      <blksize>32768</blksize>
+      <blocks>11440</blocks>
+      <modtime>2011-12-21 20:13:45+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:15+00</acctime>
+      <sumtime>2013-12-16 15:47:15+00</sumtime>
+    </file>
+    <file>
+      <path>about/0072311_map.jpg</path>
+      <digest algorithm='md5'>3dbe469bd2bd11f3145ad0f63528d366</digest>
+      <digest algorithm='sha1'>021834349cc641db6aee8798f4b91c2ece8f3a4e</digest>
+      <digest algorithm='sha256'>afc704aa368e863b6efe5acc64325af593f78304901248f54923adf1f52498ad</digest>
+      <digest algorithm='sha384'>f44d203ea00f65ce9094fc7900e96faf42a8de69fce390e11d0c3b7e295131041526b2b423cf321f4361c913531827e3</digest>
+      <digest algorithm='sha512'>2a6c77e5daccb261d6b2e76b080af48116413ec4cb3be33d96cbefc7e43e204f0bad7983f9b929bead9363ed53d6508ac5a250861816ef9b75eb1132f61cc468</digest>
+      <type_category>regular</type_category>
+      <type>binary</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>176354</size>
+      <blksize>32768</blksize>
+      <blocks>360</blocks>
+      <modtime>2011-12-21 20:13:45+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:15+00</acctime>
+      <sumtime>2013-12-16 15:47:15+00</sumtime>
+    </file>
+    <file>
+      <path>about/journal.txt</path>
+      <digest algorithm='md5'>5acc23d0a02a41d192a47c6edb9286d9</digest>
+      <digest algorithm='sha1'>bf6b7732eac0a424d59abf74f92c3ab578fd5dde</digest>
+      <digest algorithm='sha256'>09e53e857274bbbf30656bffe01242b319d89a54180e0601139d87149327ba7f</digest>
+      <digest algorithm='sha384'>f82f0a83f3291999f7b97f559d91648da8ab0cee62b175850520a753f6b758e192aace9d0ef83c8963ef0c994bf671e2</digest>
+      <digest algorithm='sha512'>0e05dff2c16183c81157103d6f35792fb17b2d16b08ae9dc7055fb7c0fd79af92953b729b643532987146b93f1a3813c9cdbacb1748202c54ac49a3b4b9e2cfc</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1460</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:29:02+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:15+00</acctime>
+      <sumtime>2013-12-16 15:47:15+00</sumtime>
+    </file>
+    <file>
+      <path>about/metadata</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-04-26 14:36:12+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 08:25:47+00</acctime>
+      <sumtime>2013-12-16 15:47:15+00</sumtime>
+    </file>
+    <file>
+      <path>about/metadata/Cruise_titanic_2004.xml</path>
+      <digest algorithm='md5'>2cfe3f2aefff26f31844a2d13eab696f</digest>
+      <digest algorithm='sha1'>a825955cffa7cd1d36193f26be74ffbb81d7f1ae</digest>
+      <digest algorithm='sha256'>591af7bef9c144e02651c97d935aece6b6d210eaec9b34aa8c8df7ca1c53c2b3</digest>
+      <digest algorithm='sha384'>ad749a71681c30fb58e6bb3dad52378816dca940fe8bf33cdb0703ae822fca930746628aac1c5d3bd23eb9142704d2f9</digest>
+      <digest algorithm='sha512'>72dbb4ea7cca8cac260307c422cd10d2fe9fa5d17e4540b6db23a2be708efe220e815fdf2558f1aeee7f76ba84e9b0a12aba38dff9089189c415289e8979d65b</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3885</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-04-27 09:43:06+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:15+00</acctime>
+      <sumtime>2013-12-16 15:47:15+00</sumtime>
+    </file>
+    <file>
+      <path>about/metadata/titanic_2004_Argus_and_Hercules_ROV_Navigation_Data.xml</path>
+      <digest algorithm='md5'>2a47a997e8bb8ebf1ac579d2b876f47f</digest>
+      <digest algorithm='sha1'>0d896cf85f90699b97e5e4f545fc512b136cfdbd</digest>
+      <digest algorithm='sha256'>5a6ad085a4953f5fca3bad7512a11913389dca4bf54578ed0e0d4c0d4a3ea878</digest>
+      <digest algorithm='sha384'>92d68ef02ffb0fc894a1b4e598d58c4ce889ac900fd003cfd5533c2f4eccbf0c66efe0357723ba84b9d7d203a7c4994f</digest>
+      <digest algorithm='sha512'>3bfae6aa889680cdb43ef55a6292948c2f16b31a2702eaa0263fd3c73e4e99ca6923cf4ab6e4def0703e6c348514a07f36322009fbd7e3fdba0cdd8a6e32bd7d</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>6579</size>
+      <blksize>32768</blksize>
+      <blocks>16</blocks>
+      <modtime>2011-04-26 14:35:28+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:15+00</acctime>
+      <sumtime>2013-12-16 15:47:15+00</sumtime>
+    </file>
+    <file>
+      <path>about/metadata/titanic_2004_Argus_and_Hercules_ROV_Sensor_Raw_Data.xml</path>
+      <digest algorithm='md5'>f0859216a3192fc196ed5e7c4f64da41</digest>
+      <digest algorithm='sha1'>884f9b4893317c5e31e069297bb466a2d0be2f1a</digest>
+      <digest algorithm='sha256'>b1384e4bd4ef76bf62ed999fd5a0c74b28e9b7ee03809f373eb44791902fb7ba</digest>
+      <digest algorithm='sha384'>f0209f162c8c17ed009073edc6ec43f0773a58166728804e549179cbeca614756dec9a6e60ba5d3e53d921dc3c073781</digest>
+      <digest algorithm='sha512'>d2fcaafb124dd4a858f89d8c9181ea051a05b1e774cf01db4cb34e397a47eb66951b69906644e9b5b6919bd13fad0d31d40abda9163f5aaa47f73c2f1b45dcce</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>6570</size>
+      <blksize>32768</blksize>
+      <blocks>16</blocks>
+      <modtime>2011-04-26 14:35:40+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:15+00</acctime>
+      <sumtime>2013-12-16 15:47:15+00</sumtime>
+    </file>
+    <file>
+      <path>data</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 18:59:07+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:15+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>4</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:17:33+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:15+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>4</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:57:06+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:15+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>8</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:33:16+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:15+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive01</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:57:16+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:15+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive01/navigation</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:21:22+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:15+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive01/navigation/HYPACK_DATA_ARGUS</path>
+      <digest algorithm='md5'>7b5065753d425b8242fb6acfdf4295f4</digest>
+      <digest algorithm='sha1'>03900c7d418dcfa0a677172804691764950e2529</digest>
+      <digest algorithm='sha256'>5f28276ba676f4a8001a2e737423f0570fb9b3509380f954d87723dddd080e3c</digest>
+      <digest algorithm='sha384'>57a6a0b53d0a204c261cd892d3d43faa09b6d91fdec9f344a87a8b329698319053d8fd2dc447137aea0b336a4107ccc5</digest>
+      <digest algorithm='sha512'>16ac1715b2f09a3b6f04df6089d6bb5154eaff9958d0cfca0a6774a73b0c46e222a2752c0872da393d996fa4f7c316265dd8042d9db8f4f490c9f4a1f5a0d8ee</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2448117</size>
+      <blksize>32768</blksize>
+      <blocks>4792</blocks>
+      <modtime>2006-12-31 13:31:34+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:16+00</acctime>
+      <sumtime>2013-12-16 15:47:16+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive01/navigation/HYPACK_DATA_HERCULES</path>
+      <digest algorithm='md5'>589dea8ccf36ef9d5ac9fed210290a81</digest>
+      <digest algorithm='sha1'>51281f580984eeb1b7b629a85942bfec0125ee25</digest>
+      <digest algorithm='sha256'>1097cd93cdc84e446fadaf91085ce60accb117bc541c97fc37600e39abc83f33</digest>
+      <digest algorithm='sha384'>145fe2a61312c370b8322b745dc377ac09d2bf4f6076d634c2858cb3827fad5f413c3ac85e165e6256d33416fd491bb6</digest>
+      <digest algorithm='sha512'>a80b98314176d3c4d00cfc4c14110b5f9128c212d4de7a64de7a75a479c339f25f171287d2b90edaae066dd9790d84f4230b89bfa4f43eb22eae2333530b4250</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2446706</size>
+      <blksize>32768</blksize>
+      <blocks>4792</blocks>
+      <modtime>2006-12-31 13:31:34+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:16+00</acctime>
+      <sumtime>2013-12-16 15:47:16+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive01/navigation/allArgusNav</path>
+      <digest algorithm='md5'>83e7cbde75f5011d5e5d3dde1ebfa44e</digest>
+      <digest algorithm='sha1'>ca89738e099042184310758a81ec6192fb327689</digest>
+      <digest algorithm='sha256'>d5e5ba1d762e13686ed76127dd91ad05424c33e100cee6227b8d16057af9d8d1</digest>
+      <digest algorithm='sha384'>04ac4083b8ce956925d9729ad8d7675986575d9b811b3e59d07ffba9e86ab7792ef296001fb8b66a355c44f4adcaa443</digest>
+      <digest algorithm='sha512'>9f8f500f79505bc82bc3f5a9eebfe42907bb63efee427e0b635d578f70320f33db25e9f46d5dfdebe37023457f9d00b7631e7be791aad323cab342bc602eca0e</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3461064</size>
+      <blksize>32768</blksize>
+      <blocks>6768</blocks>
+      <modtime>2006-12-31 19:49:12+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:16+00</acctime>
+      <sumtime>2013-12-16 15:47:16+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive01/navigation/allHerculesNav</path>
+      <digest algorithm='md5'>b8d897119d8b9e25fdf13847c04f338c</digest>
+      <digest algorithm='sha1'>1f9a6a7049bf3bec19f3964eca484b895882c47d</digest>
+      <digest algorithm='sha256'>52ad3a8b7fbb23481abb2572a7c37fc72d4494e3336d647f080576e13034fd8d</digest>
+      <digest algorithm='sha384'>7e822a2e3b05491b8c3593bd2c284b7c6db936980b0ed2b51db55cae0d1d3b21676ee13722e275b72ec4a300a6d27bcc</digest>
+      <digest algorithm='sha512'>5c398346cf1f498148c065dc435bf7b17d8d52e1bd23573e20891997ad3e2a7aed3ac87565e3073de807f54b14f934bd40fd0016cc8f93726232d866134c54bc</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3796170</size>
+      <blksize>32768</blksize>
+      <blocks>7424</blocks>
+      <modtime>2006-12-31 19:49:30+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:16+00</acctime>
+      <sumtime>2013-12-16 15:47:16+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive01/navigation/nav_file_descriptions.txt</path>
+      <digest algorithm='md5'>0510ad9973ca9498c538605a9234f407</digest>
+      <digest algorithm='sha1'>f867ae1470dcf8e3bfd7d5f2fef445f66555474a</digest>
+      <digest algorithm='sha256'>9899b604cfb8500182d32f97712496aa0ba325da8e3c1de37a0e4aee783d801d</digest>
+      <digest algorithm='sha384'>229102d33a65872774831e9829b116502c7e3a2ffd7215c2bef15211040f8c7f6b18c2755b2008b53c1462b146ae0668</digest>
+      <digest algorithm='sha512'>7b95900932de8fedc306c766f369df4bcfb98b7015f14faaa346503622d112abc4d5fad8645f53ca9692b40de6675e81c493039ce273d28983ce83417ea60c03</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2000</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:24:40+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:17+00</acctime>
+      <sumtime>2013-12-16 15:47:17+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive02</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:57:14+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:17+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive02/navigation</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:22:23+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:17+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive02/navigation/HYPACK_DATA_ARGUS</path>
+      <digest algorithm='md5'>88ff119c6b2aa032abf976a286c4311b</digest>
+      <digest algorithm='sha1'>fc5710d822d95e94c791e219134f6ff5533d34d2</digest>
+      <digest algorithm='sha256'>4adb16c77f514e00a96c3d2f05ff4f6c59b86fa6594d08bf5211a933c694df7d</digest>
+      <digest algorithm='sha384'>41d2df7becee596c2dff8376193bb59e37d7bd4c74c13074b5d2efdbd38a173058dd9fc21c2bb588c8ce4f42ce03ee72</digest>
+      <digest algorithm='sha512'>7953d638e01f794c44af7505b6d61cf24bb26cc5f6c0cadfe3265e02d54d7f238ea0f2874384d5fbbd1583a87945becbbfbe4fb351176fa0fc0ac8f48aa5658d</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1524384</size>
+      <blksize>32768</blksize>
+      <blocks>2992</blocks>
+      <modtime>2006-12-31 13:38:58+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:17+00</acctime>
+      <sumtime>2013-12-16 15:47:17+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive02/navigation/HYPACK_DATA_HERCULES</path>
+      <digest algorithm='md5'>28dee7a068aec3ecd070ad8f9b986e0c</digest>
+      <digest algorithm='sha1'>aac381cea7d643c170e1e8e033cbc337ca10a981</digest>
+      <digest algorithm='sha256'>5ce1c49ee75d29c1fb2cc41a7645c47f8eb693fbd7f1f0b46876ce3a5f2ea963</digest>
+      <digest algorithm='sha384'>972f3e329d9e8d22ac80ed9f09faadf643c25d2ed3e54517ab4cc1f1d1469e987055076035d535841f83dc7a4d8007c1</digest>
+      <digest algorithm='sha512'>a35e032e7b6581059d8b95199ab525cfda9a3fe9a2f577cee60c8ab0e9a092b60324227fa5ec686b4a4a221e4d47f2b5aa7801b471b5267f6b24df39bccb3446</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1524652</size>
+      <blksize>32768</blksize>
+      <blocks>2992</blocks>
+      <modtime>2006-12-31 13:38:58+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:17+00</acctime>
+      <sumtime>2013-12-16 15:47:17+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive02/navigation/allArgusNav</path>
+      <digest algorithm='md5'>52920c2a203af25d78eb309a5891523a</digest>
+      <digest algorithm='sha1'>ab9996cd76ca51bca59b128b6c16e1ef658d12fb</digest>
+      <digest algorithm='sha256'>cd02947b799e78e51f11baa9fc89966503ef30e549f3c96bc8906e3f72e6cdac</digest>
+      <digest algorithm='sha384'>0282a70e6846a3e1986a4ba26ec7eeeb3c0a909d9d0e9caf72f43274a5a4feef78450ae497595536dec6d3d526c1f64b</digest>
+      <digest algorithm='sha512'>b602f5a85e13d8ee58798f6dd2bdb9652d0e5c70c3fa646858fc5dd8f6007951e0b154dc223eec06ba67aaa1ec07bd9b6ca4c995b15fde4cba4c224c16616e31</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2130623</size>
+      <blksize>32768</blksize>
+      <blocks>4176</blocks>
+      <modtime>2006-12-31 19:47:32+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:17+00</acctime>
+      <sumtime>2013-12-16 15:47:17+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive02/navigation/allHerculesNav</path>
+      <digest algorithm='md5'>863dd221f1f70090782350a549b1b3c3</digest>
+      <digest algorithm='sha1'>2203e6666d77e18eb449ba2542ecdd0bde4c0fcd</digest>
+      <digest algorithm='sha256'>66f64fc0d0521e87553bd74e1428e8a438908de64f4021d3a2708e3b7cd011de</digest>
+      <digest algorithm='sha384'>b91a8c97d3818eae855e7ec439ea6ef161dbc28dec97ea70361b69af66bea3709abb13144626eef7e8ee28eccd1ab139</digest>
+      <digest algorithm='sha512'>119149c7ca4ac8aba35a7e36c908e4cb6cf396dc8fd9efbeb3945059e4233985a8e81b536f21d888bc2266fd20ffb4dbccf5a804634c4994755618156f2103bb</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1524713</size>
+      <blksize>32768</blksize>
+      <blocks>2992</blocks>
+      <modtime>2006-12-31 19:30:18+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:17+00</acctime>
+      <sumtime>2013-12-16 15:47:17+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive02/navigation/nav_file_descriptions.txt</path>
+      <digest algorithm='md5'>0510ad9973ca9498c538605a9234f407</digest>
+      <digest algorithm='sha1'>f867ae1470dcf8e3bfd7d5f2fef445f66555474a</digest>
+      <digest algorithm='sha256'>9899b604cfb8500182d32f97712496aa0ba325da8e3c1de37a0e4aee783d801d</digest>
+      <digest algorithm='sha384'>229102d33a65872774831e9829b116502c7e3a2ffd7215c2bef15211040f8c7f6b18c2755b2008b53c1462b146ae0668</digest>
+      <digest algorithm='sha512'>7b95900932de8fedc306c766f369df4bcfb98b7015f14faaa346503622d112abc4d5fad8645f53ca9692b40de6675e81c493039ce273d28983ce83417ea60c03</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2000</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:24:42+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:17+00</acctime>
+      <sumtime>2013-12-16 15:47:17+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive03</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:57:12+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:17+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive03/navigation</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:23:32+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:17+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive03/navigation/HYPACK_DATA_ARGUS</path>
+      <digest algorithm='md5'>20227f03bcadfa689b1116976d265d97</digest>
+      <digest algorithm='sha1'>da2345d88580fae9744c76d3a4aeda47504750cb</digest>
+      <digest algorithm='sha256'>2abfd0533b62caef2cbffac59687ace742dac5c4e799741d30f548f072d93de5</digest>
+      <digest algorithm='sha384'>817fb5ecc30acd32ec2462b843b4aa5f721ccf18d2f80143613929ac685624948332b5f8b21593aa36c88a5574f9d86e</digest>
+      <digest algorithm='sha512'>2a098ef9316aaf6d7165a6a18ce79b7d39b97ee8af6d69dd1487f66c33748c4085ea3e2797077908147ebc66cc60a374e7b809df4765b765bd21dde082dd3655</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3659942</size>
+      <blksize>32768</blksize>
+      <blocks>7160</blocks>
+      <modtime>2006-12-31 13:46:56+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:17+00</acctime>
+      <sumtime>2013-12-16 15:47:18+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive03/navigation/HYPACK_DATA_HERCULES</path>
+      <digest algorithm='md5'>29f8f06b7d5b6e96aef6e8c9335c3b07</digest>
+      <digest algorithm='sha1'>94ac696fc07b1d2ccc786cbc12dc32e203ecfd50</digest>
+      <digest algorithm='sha256'>0353c4df8f6ed36e76b32bd271a0f4ca8c053c0975bc2e41589e99bbfc6bf030</digest>
+      <digest algorithm='sha384'>bd5a52216ffebc2d4019ac07813341a2f7f0f9dc663ca23685494b0c24de448c61bdc185d7804e52d92d016fd05e74b4</digest>
+      <digest algorithm='sha512'>f28576fbae3633621823b5f0e2e53fff07358529860bbbe2d883ae32306651f0400db113ac3ff736808cc75287ed28a2a290e4cc753b610c93fe89cca3e71758</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3591468</size>
+      <blksize>32768</blksize>
+      <blocks>7024</blocks>
+      <modtime>2006-12-31 13:46:56+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:18+00</acctime>
+      <sumtime>2013-12-16 15:47:18+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive03/navigation/allArgusNav</path>
+      <digest algorithm='md5'>5391744ff15678141b327e4b7d550b64</digest>
+      <digest algorithm='sha1'>870e371a4301810e20550cba6240b40702da626b</digest>
+      <digest algorithm='sha256'>9eb4dec22834c55c53aa7ea6ba656ad2a7a4c29cc96f49a69fbd286a8c72b510</digest>
+      <digest algorithm='sha384'>6045d88589b0d0406f2be92493793704d45fd70de00e440ed42996aa2508bf8d947f2a4b711dc682a374dfd2940c2083</digest>
+      <digest algorithm='sha512'>5875db6bed6d9f3994dd6f0beaffa10ae8605335ba8cd8bae0aed9da3ad6c6fd3bb3e4758bc355e75a5996ed332de23e19739f8a5c10cb168f6a8efee4be2832</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4222830</size>
+      <blksize>32768</blksize>
+      <blocks>8256</blocks>
+      <modtime>2007-01-01 10:57:16+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:18+00</acctime>
+      <sumtime>2013-12-16 15:47:18+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive03/navigation/allHerculesNav</path>
+      <digest algorithm='md5'>92cf314de9ab31d498b53af0cee72908</digest>
+      <digest algorithm='sha1'>cff7d06dcfd42f8f6b70c3fa6d2cb900d66b3833</digest>
+      <digest algorithm='sha256'>35db0951ef95ef1bc79d2b708d9e68a6903ebe844b97c0e1ee6fe47e7bb47e99</digest>
+      <digest algorithm='sha384'>4b90ddef8cfdeb205a4072f058ff0de53f72c788f4c735b35907833e1bd8a81742b3936fab5e621eb4818545b03000cc</digest>
+      <digest algorithm='sha512'>b6b214da289ad775f35630b67e2de605eb355ed6dcac245d7a77e5fdb58cb1dbcd08af79629cdd927d07618ce1a1d32d128469f24c3685c31a7914b71d09cf41</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>5600511</size>
+      <blksize>32768</blksize>
+      <blocks>10968</blocks>
+      <modtime>2007-01-01 10:57:04+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:19+00</acctime>
+      <sumtime>2013-12-16 15:47:19+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive03/navigation/nav_file_descriptions.txt</path>
+      <digest algorithm='md5'>0510ad9973ca9498c538605a9234f407</digest>
+      <digest algorithm='sha1'>f867ae1470dcf8e3bfd7d5f2fef445f66555474a</digest>
+      <digest algorithm='sha256'>9899b604cfb8500182d32f97712496aa0ba325da8e3c1de37a0e4aee783d801d</digest>
+      <digest algorithm='sha384'>229102d33a65872774831e9829b116502c7e3a2ffd7215c2bef15211040f8c7f6b18c2755b2008b53c1462b146ae0668</digest>
+      <digest algorithm='sha512'>7b95900932de8fedc306c766f369df4bcfb98b7015f14faaa346503622d112abc4d5fad8645f53ca9692b40de6675e81c493039ce273d28983ce83417ea60c03</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2000</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:24:44+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:19+00</acctime>
+      <sumtime>2013-12-16 15:47:19+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive04</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:57:10+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:19+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive04/navigation</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:24:28+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:19+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive04/navigation/HYPACK_DATA_ARGUS</path>
+      <digest algorithm='md5'>e813ea05e014c4f4b426400dcaae7f4a</digest>
+      <digest algorithm='sha1'>923e1bc17d8166f6a674f8c696f66122752e878d</digest>
+      <digest algorithm='sha256'>06500e63acb3e8a1ee4bbb25ae7352cc6ff8224e4ba823ad79212bebb54ac673</digest>
+      <digest algorithm='sha384'>799f64b8ef14f20c0cb2774d21a332b4db089e5a1fb1fb8ca2dc45caf9194d8c920f8cd1af857e7079474b8add17a27c</digest>
+      <digest algorithm='sha512'>4eb7fdb6b2905324eb7d102747601853d1e1b7975332eaf33331eb10a12e7a3021f2fb121132289da17b0fa3efae9e842ec95b629f387ed18617234d6a8461f1</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2859962</size>
+      <blksize>32768</blksize>
+      <blocks>5600</blocks>
+      <modtime>2006-12-31 13:52:20+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:19+00</acctime>
+      <sumtime>2013-12-16 15:47:19+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive04/navigation/allArgusNav</path>
+      <digest algorithm='md5'>28b036beb0c4070fdab02b41e01d1443</digest>
+      <digest algorithm='sha1'>01d38caa1b0d6089f17c7697a367353c36736df9</digest>
+      <digest algorithm='sha256'>f1a378cdc5b8d88c72c717807337d9ce8f6c8fc955b42da9233887f98444221b</digest>
+      <digest algorithm='sha384'>cd497ac9701782c82bdf18359153c56df325a8bc2a4aec372a3142b3366cb155c0bb725c1a78b84bb982f510a316085a</digest>
+      <digest algorithm='sha512'>270057084560bcb897547b8eeae09ec214c411087f35b75d2e5ceab91fa5586a41f5096a3103a7fea872a24d87568252b13f6d8e916ba6fe90359f38fa110392</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3429659</size>
+      <blksize>32768</blksize>
+      <blocks>6712</blocks>
+      <modtime>2007-01-01 10:57:22+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:19+00</acctime>
+      <sumtime>2013-12-16 15:47:19+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive04/navigation/nav_file_descriptions.txt</path>
+      <digest algorithm='md5'>0510ad9973ca9498c538605a9234f407</digest>
+      <digest algorithm='sha1'>f867ae1470dcf8e3bfd7d5f2fef445f66555474a</digest>
+      <digest algorithm='sha256'>9899b604cfb8500182d32f97712496aa0ba325da8e3c1de37a0e4aee783d801d</digest>
+      <digest algorithm='sha384'>229102d33a65872774831e9829b116502c7e3a2ffd7215c2bef15211040f8c7f6b18c2755b2008b53c1462b146ae0668</digest>
+      <digest algorithm='sha512'>7b95900932de8fedc306c766f369df4bcfb98b7015f14faaa346503622d112abc4d5fad8645f53ca9692b40de6675e81c493039ce273d28983ce83417ea60c03</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2000</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:24:48+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:19+00</acctime>
+      <sumtime>2013-12-16 15:47:19+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive05</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:57:10+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:19+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive05/navigation</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:57:10+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:19+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive05/navigation/allArgusNav</path>
+      <digest algorithm='md5'>45028ba8036d98f22bf15c546bb27350</digest>
+      <digest algorithm='sha1'>df3833d7a5c37bdcf7e00e0c5976b92f9810343d</digest>
+      <digest algorithm='sha256'>69f7c10a7cd8a72f08e88620331ef20ff9cb1b4415fc5f8d162bd538d91c3817</digest>
+      <digest algorithm='sha384'>ed231c10b32aa760c5a0536315ed7200939468ecabfc7587af85c44421ed19e952c782627a4484511cb4bb9290499f4e</digest>
+      <digest algorithm='sha512'>a2529b09384c929a770df91bbc083a32288790a307d477d5b2ac60ec677a7ea8369295b9b18ab3a5aedf69f235c9a1138b85be4d6457fd569778a1847a5f6ed9</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>61</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-01 10:58:06+00</modtime>
+      <changetime>2011-12-28 13:53:14+00</changetime>
+      <acctime>2013-12-16 15:47:19+00</acctime>
+      <sumtime>2013-12-16 15:47:19+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive05/navigation/allHerculesNav</path>
+      <digest algorithm='md5'>45028ba8036d98f22bf15c546bb27350</digest>
+      <digest algorithm='sha1'>df3833d7a5c37bdcf7e00e0c5976b92f9810343d</digest>
+      <digest algorithm='sha256'>69f7c10a7cd8a72f08e88620331ef20ff9cb1b4415fc5f8d162bd538d91c3817</digest>
+      <digest algorithm='sha384'>ed231c10b32aa760c5a0536315ed7200939468ecabfc7587af85c44421ed19e952c782627a4484511cb4bb9290499f4e</digest>
+      <digest algorithm='sha512'>a2529b09384c929a770df91bbc083a32288790a307d477d5b2ac60ec677a7ea8369295b9b18ab3a5aedf69f235c9a1138b85be4d6457fd569778a1847a5f6ed9</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>61</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-01 10:57:50+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:19+00</acctime>
+      <sumtime>2013-12-16 15:47:19+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive05/navigation/nav_file_descriptions.txt</path>
+      <digest algorithm='md5'>0510ad9973ca9498c538605a9234f407</digest>
+      <digest algorithm='sha1'>f867ae1470dcf8e3bfd7d5f2fef445f66555474a</digest>
+      <digest algorithm='sha256'>9899b604cfb8500182d32f97712496aa0ba325da8e3c1de37a0e4aee783d801d</digest>
+      <digest algorithm='sha384'>229102d33a65872774831e9829b116502c7e3a2ffd7215c2bef15211040f8c7f6b18c2755b2008b53c1462b146ae0668</digest>
+      <digest algorithm='sha512'>7b95900932de8fedc306c766f369df4bcfb98b7015f14faaa346503622d112abc4d5fad8645f53ca9692b40de6675e81c493039ce273d28983ce83417ea60c03</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2000</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:24:52+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:19+00</acctime>
+      <sumtime>2013-12-16 15:47:19+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive06</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:57:06+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:19+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive06/navigation</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:25:41+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:19+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive06/navigation/HYPACK_DATA_ARGUS</path>
+      <digest algorithm='md5'>c6b0d515fb7587120ed8e4d797af3dd7</digest>
+      <digest algorithm='sha1'>269bb355c91c7abc4221cce3570fa19c491afad0</digest>
+      <digest algorithm='sha256'>fd9833c98fdf705bb9fb17ae3f6eb3c6dcd4e82b23c11da85fa9863296cabe08</digest>
+      <digest algorithm='sha384'>8a27be7b64bc83268369a5e4132530856c0c5b8d9bf0202625f779fe94b7d2c36d2c3aa9d6eb5900b6695c78505fa2e8</digest>
+      <digest algorithm='sha512'>637c9c1b6677433a06be6dfd3d9e5fd82d1ec2b91842a52dbb40e68d05fffe095c028ad211fdd39c323db8f4492101f7afbb03e77421c9020f432b632d455615</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4809669</size>
+      <blksize>32768</blksize>
+      <blocks>9424</blocks>
+      <modtime>2006-12-31 15:37:10+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:20+00</acctime>
+      <sumtime>2013-12-16 15:47:20+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive06/navigation/HYPACK_DATA_HERCULES</path>
+      <digest algorithm='md5'>176a2b2beeb217cc24a58336c5a77fe1</digest>
+      <digest algorithm='sha1'>6f68b39e6ee11f5cdaa5bdceadd1d39ebea587fe</digest>
+      <digest algorithm='sha256'>7a58231586691ef07e74a76ccfd6997da035c4dcc2d54166bc879ecf71935738</digest>
+      <digest algorithm='sha384'>6b7cace537299ab097dc858d23c651359a32222718868803bfd873850fd2fba19bcbe439a1da2ca8eb568994e4228de6</digest>
+      <digest algorithm='sha512'>7fdb82034e2ee4b9f0d915e20990cdfe1209bbb0ab900f03f0015e022de554b5f4c75eb011bcf5531e71e0f34bea422dfd75caf4d8546ff6d252c5b3ccb615f5</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4801759</size>
+      <blksize>32768</blksize>
+      <blocks>9408</blocks>
+      <modtime>2006-12-31 15:37:10+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:20+00</acctime>
+      <sumtime>2013-12-16 15:47:20+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive06/navigation/allArgusNav</path>
+      <digest algorithm='md5'>4fe0a2521645d94e4927b4967aa827fc</digest>
+      <digest algorithm='sha1'>891254098b3482659b758653e63b420dbfa65552</digest>
+      <digest algorithm='sha256'>e4e82be195ae344b7124a97ce0a6f59fdbf3f10742538ca7a9facdcdced0381a</digest>
+      <digest algorithm='sha384'>5c5021c3df75030856293c9027c447a47b0955fa8203b3718367f88d2207025db51327220e579c3523f13ccf00d49929</digest>
+      <digest algorithm='sha512'>5e46737d016bdc9bba90ac3328ff6a9e856c331889d92ae610f530554f1a5a6fba077a6ad04cb5fa7647ac5a68845c66cdb0a383d25e1f76c244d90ce5373c0f</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>6813540</size>
+      <blksize>32768</blksize>
+      <blocks>13336</blocks>
+      <modtime>2007-01-01 10:58:16+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:21+00</acctime>
+      <sumtime>2013-12-16 15:47:21+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive06/navigation/allHerculesNav</path>
+      <digest algorithm='md5'>3aa6918651bf19796d88f3c3bb79c1cd</digest>
+      <digest algorithm='sha1'>5b5dd3a82493bcb12cdae14686013aeabe33e288</digest>
+      <digest algorithm='sha256'>0cdbf34517173c3416e3cf9004986ce2f2950173f29bf9901470c9554175adb7</digest>
+      <digest algorithm='sha384'>943137bda9dab0c86a268a44bbfb5058e6149d635f9910a3baad0bcd8a06ca183d83ec17a86a4a57a3218a40be117b79</digest>
+      <digest algorithm='sha512'>211d450347e309ec16c53ac6872066fd907e7e742bce6fdacc896916dc995af51f4044469e0c3ac42dbb54fd601f1a15f76c24002dbe0acc6297d2088feafba1</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>7504886</size>
+      <blksize>32768</blksize>
+      <blocks>14688</blocks>
+      <modtime>2007-01-01 10:58:28+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:21+00</acctime>
+      <sumtime>2013-12-16 15:47:22+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Navigation/dive06/navigation/nav_file_descriptions.txt</path>
+      <digest algorithm='md5'>0510ad9973ca9498c538605a9234f407</digest>
+      <digest algorithm='sha1'>f867ae1470dcf8e3bfd7d5f2fef445f66555474a</digest>
+      <digest algorithm='sha256'>9899b604cfb8500182d32f97712496aa0ba325da8e3c1de37a0e4aee783d801d</digest>
+      <digest algorithm='sha384'>229102d33a65872774831e9829b116502c7e3a2ffd7215c2bef15211040f8c7f6b18c2755b2008b53c1462b146ae0668</digest>
+      <digest algorithm='sha512'>7b95900932de8fedc306c766f369df4bcfb98b7015f14faaa346503622d112abc4d5fad8645f53ca9692b40de6675e81c493039ce273d28983ce83417ea60c03</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2000</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:24:54+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:22+00</acctime>
+      <sumtime>2013-12-16 15:47:22+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>8</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:57:00+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:22+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive01</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>4</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:57:06+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:22+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive01/eventlog</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:57:06+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:22+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive01/eventlog/eventlog.txt</path>
+      <digest algorithm='md5'>d9e85cb3c2777dcdd2299c9124c8ab4a</digest>
+      <digest algorithm='sha1'>0a3a732cc0164778da4714881770721af2058ca8</digest>
+      <digest algorithm='sha256'>44051d1ce993fc037e265898638fce394774f5366a2cfe8b986363936efd3a2b</digest>
+      <digest algorithm='sha384'>14e1ce0bbd10feac28f097e8c34d14201016744240df16d2b300bf6d501d0e956af3ee02608e4e6a2ad9004d4d99b107</digest>
+      <digest algorithm='sha512'>1d03d5567a6120262587516043597e42d02feffb5f3fe328cbced97747b0e0ced91f0f2a6a39d5b70714bba988a3f69b06db54aa3860da5ac1cc01f89ddd7214</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>8403</size>
+      <blksize>32768</blksize>
+      <blocks>24</blocks>
+      <modtime>2006-12-19 13:31:56+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:22+00</acctime>
+      <sumtime>2013-12-16 15:47:22+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive01/eventlog/eventlogWithCaptures.txt</path>
+      <digest algorithm='md5'>74ecb251d2bd32f05bb0cc04a91eeabb</digest>
+      <digest algorithm='sha1'>d9c50573a9c861fa2172423f3aec8d6d37dcd3e5</digest>
+      <digest algorithm='sha256'>34dae411fa6970427aa2acb828f2bbdea61ccdb9a73b96775e89a9e46f0419e6</digest>
+      <digest algorithm='sha384'>7654c3419e8a41e37f4e2b663098874cf0e3bff84b0c85d6e2e8c4e140134b3c2959f315bb5382130bac752f562e6794</digest>
+      <digest algorithm='sha512'>28b7330d51e18d9924e9adf814547c7a9828a43e889cfaa3f84e9e312823975dcf78c6cd1da8d803f5834c51fc5242cd6a56ae866d44df5d43bce659f4d89f65</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>15111</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2006-12-19 13:32:30+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:22+00</acctime>
+      <sumtime>2013-12-16 15:47:22+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive01/sensor</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:57:06+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:22+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive01/sensor/ALT_data_proc</path>
+      <digest algorithm='md5'>0472f982f1bd273f90d7dda0a0a52fc0</digest>
+      <digest algorithm='sha1'>e5209e7f867ea3b9c9a42d264843093aeb918071</digest>
+      <digest algorithm='sha256'>ef5993d76bdb5825a0ce173c3e390fff432071f670ce114e43cd67d121ffb213</digest>
+      <digest algorithm='sha384'>d40564f731c6ad254fa161b0d1b6ea8d3490d17eb658cf7943f3891cc8124e10f5561ae53d50de7887d6d43769a474c4</digest>
+      <digest algorithm='sha512'>083f77872495aa4d7a5f57d1a41ac968b4bbe9dfe7d3a3330b24132d35933d61e856cecafdac8ee8083807340519739bdcbedcd8082dda729d302255cf509720</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>811694</size>
+      <blksize>32768</blksize>
+      <blocks>1600</blocks>
+      <modtime>2006-12-31 19:58:30+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:22+00</acctime>
+      <sumtime>2013-12-16 15:47:22+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive01/sensor/APAS_data_proc</path>
+      <digest algorithm='md5'>6bc3753e45c04714530a23c851d680cc</digest>
+      <digest algorithm='sha1'>aecc54e8dccf1f3d36733f6ba81867d23dc93e5c</digest>
+      <digest algorithm='sha256'>d769b9d6c04ad73040435a9ac11656551c061c8bd858a72c9423ded3c99cd73f</digest>
+      <digest algorithm='sha384'>3a523c8023a5fbd7453a813bafae961902858fef7d1ce16b22c451070fa8821d32ffba64d8271b56e5866084e2f3168b</digest>
+      <digest algorithm='sha512'>16af70b48795c75a24fa7e3d7a8933a6db8226b585bd945f7aa6e765fa193b7d58117d50548710d76020ab6c5891d99aaf0058ed2fc9e0d4eeb0f1f19addcc4a</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>816124</size>
+      <blksize>32768</blksize>
+      <blocks>1608</blocks>
+      <modtime>2006-12-31 20:00:52+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:22+00</acctime>
+      <sumtime>2013-12-16 15:47:22+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive01/sensor/APAS_data_raw</path>
+      <digest algorithm='md5'>61895f045bc6462e1b40055aa166fec7</digest>
+      <digest algorithm='sha1'>ccda0f68f9864719c28b515ef30476aff3678a68</digest>
+      <digest algorithm='sha256'>b7b6a49be042679bf9742dd0fb4532e8539a332b79d6e85414f9b89d653688ed</digest>
+      <digest algorithm='sha384'>e4bef1dfbb62135da3d862ab5774a4e735fd54516603e6ddc3f227738dcadad7d51795a0d5a0e8eb72d6f8e28ae7a32d</digest>
+      <digest algorithm='sha512'>f59c1ebad87b6a0c4322a3abaa463aa1a20c365aa6121f7264334810516c3b0c00c3400e4e5a56cfd62cdcdc26fe87c989fb0b5b8d2df2ace1076935233ed421</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>13210674</size>
+      <blksize>32768</blksize>
+      <blocks>25848</blocks>
+      <modtime>2006-12-31 13:30:46+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:23+00</acctime>
+      <sumtime>2013-12-16 15:47:23+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive01/sensor/CT2_data_proc</path>
+      <digest algorithm='md5'>245a2e1dd712db04b4e74834d3a81d80</digest>
+      <digest algorithm='sha1'>945a3f2ba1e3de3e67bbb88d2b28d1bb0e87a374</digest>
+      <digest algorithm='sha256'>93555efe04baa08c4907d59b9611f12e4d8b32ee909efc6e05e6c1f84932d782</digest>
+      <digest algorithm='sha384'>0c5e8497548360530f81c3c893f54f92df4583287e31fd829586582ce52cc0091a28d34ce3fc6d1cc4e5361d6607729c</digest>
+      <digest algorithm='sha512'>86a72778366de9033c1efd774bcaac58e473819c901ccd2ce6dae759838173699384508d90f784cba4508f40961345298c0e295d573b27cee7419366c4565d34</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2538373</size>
+      <blksize>32768</blksize>
+      <blocks>4968</blocks>
+      <modtime>2006-12-31 20:06:04+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:24+00</acctime>
+      <sumtime>2013-12-16 15:47:24+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive01/sensor/CT2_data_raw</path>
+      <digest algorithm='md5'>836cd047e4629027cabffd8fa868723d</digest>
+      <digest algorithm='sha1'>fa7366e221e6fa99c3aac56d2ee264348696111e</digest>
+      <digest algorithm='sha256'>2ff686d085b6cd9dab7cffce5e177319832b393d471579fb27de11cc4d7c13eb</digest>
+      <digest algorithm='sha384'>71a35dd9e0374065b5968aeb964f03048f975e67b750f501901f9510ccc2439db9d20845def11494f40ac949bc431b83</digest>
+      <digest algorithm='sha512'>51f6ad342e5ee6f70d112f2155c2cd819310f560152ae2a1416278bb59a1af837428b68df60e59282f5056f702779698713e057a4b4f661aa9ef0e96e19a7114</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>10308040</size>
+      <blksize>32768</blksize>
+      <blocks>20168</blocks>
+      <modtime>2006-12-31 13:30:46+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:24+00</acctime>
+      <sumtime>2013-12-16 15:47:24+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive01/sensor/JDS_data_proc</path>
+      <digest algorithm='md5'>86fdd8ecbe287e9fa65b9f95b8cc19c3</digest>
+      <digest algorithm='sha1'>3b77304c52c3fcfbc9f05ea81f95e4a90b2db8dd</digest>
+      <digest algorithm='sha256'>97cea52ebfa6a3342dadbf24ce5b7d7cad084887044f596aeb230be7ead3a366</digest>
+      <digest algorithm='sha384'>276986b7ca98465a5de716790b55b84eec1563aa6c18130876379288182647f5722d29888c1c486bb8178f377b67b57f</digest>
+      <digest algorithm='sha512'>e33bf5e493bd6b0af92f133861376598ab1a35f7742abfd1a2c4d0be2f0df68097a777f81707947f66094869fa47b3f79d9277480bf3f3d873b9fccebe81d1c7</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3992966</size>
+      <blksize>32768</blksize>
+      <blocks>7808</blocks>
+      <modtime>2006-12-31 20:08:42+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:25+00</acctime>
+      <sumtime>2013-12-16 15:47:25+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive01/sensor/JDS_data_raw</path>
+      <digest algorithm='md5'>8a3a5b2484c3ba574f8b342f4923537c</digest>
+      <digest algorithm='sha1'>6ef054b2c80dcdcf1e5a427f5d2b037e94b8a1f0</digest>
+      <digest algorithm='sha256'>0407bb1fda314a664ae869882937144ed7d60665a10eff8c227aad340a08fe85</digest>
+      <digest algorithm='sha384'>31c47aacb34b2723f4a60f41e0bfab7a0755a5ed6bb2a05b332a297b36def538bcd0bc0bd1e3142ccb9eb658c8c457fb</digest>
+      <digest algorithm='sha512'>bda040ee1ee52c4f1ccdccf072b1f6dad6932c32cc8d65f6fe96eeac16b669fec16c5e940c17d926bb8aaa8455c84126fbf624be052a1224aeffae0a643d4acc</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>6250204</size>
+      <blksize>32768</blksize>
+      <blocks>12232</blocks>
+      <modtime>2006-12-31 13:30:44+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:25+00</acctime>
+      <sumtime>2013-12-16 15:47:25+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive01/sensor/O2S_data_proc</path>
+      <digest algorithm='md5'>58e2dd0244d8f76d8ee73cba9eeb5ef4</digest>
+      <digest algorithm='sha1'>4d7379d91a00be43ac20677e617564e479a07e86</digest>
+      <digest algorithm='sha256'>302f77cf4774918c7f0ae2bd4cb9ccccf88953f624df739f2f1f5461ecafae8d</digest>
+      <digest algorithm='sha384'>e640a26f0750821f9ca152c896d1205c3f39a5d7c8d2887fd7e0b4bbb0d1183cc3be328b12c6319c2cf54a82c0d2f54b</digest>
+      <digest algorithm='sha512'>033dde4634d06914aa62903747b3ea9effa11bea6110d3648bd33338252938b33e80c9c38485211a96a73fc303a3497e71c0b2387c789ddd8e53ec763390841c</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1635304</size>
+      <blksize>32768</blksize>
+      <blocks>3208</blocks>
+      <modtime>2006-12-31 20:12:06+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:25+00</acctime>
+      <sumtime>2013-12-16 15:47:25+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive01/sensor/O2S_data_raw</path>
+      <digest algorithm='md5'>36896cc1470f17b2ab6059c3386f568f</digest>
+      <digest algorithm='sha1'>cb4e4d4307b1016b02c328140a2bf32efc2a17c9</digest>
+      <digest algorithm='sha256'>c57b1cbd9c7b2e348d6f9cc812791014563a214ced61d886eef4c627f048c5d1</digest>
+      <digest algorithm='sha384'>48ab3842576139d8320e3ce5797f115f67e35a6d1bd2abe935b99d137e4d5c6bcc9890ac5cd72268640b9005caba56a5</digest>
+      <digest algorithm='sha512'>dae99c147dfb52cd8a85ddc58ff70ccf514b5f8946504b98bb0babb489d2c19ee020f07201b1f508ba5f55b2d81f8dad87212b45c02ba1ada175fa0abbf99cb4</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>10512730</size>
+      <blksize>32768</blksize>
+      <blocks>20568</blocks>
+      <modtime>2006-12-31 13:30:44+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:26+00</acctime>
+      <sumtime>2013-12-16 15:47:26+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive01/sensor/proc_file_descriptions.txt</path>
+      <digest algorithm='md5'>0b04161c467b63bd4b7194b4602aff8d</digest>
+      <digest algorithm='sha1'>700aed208540b8203e2442ea4b65112790afda35</digest>
+      <digest algorithm='sha256'>4ac6d5d91d9b823c4b218db9be605d56dd6347a96ceb2b758b50bec6d2b87585</digest>
+      <digest algorithm='sha384'>abf41abbec861ef1c8fbf28866a8d5bc646161b6f670cd08d0a28487fa6b446a8d5728b179128d930f8dd61daf4cf217</digest>
+      <digest algorithm='sha512'>03646b47a95415d37a15c52c366d9622ec61fbb91551bf9fbd9689d7146f56a321430c766ffbaeb1f709a2d43b46b6c6f65ef683c90828f0dac6fe2d5e33a083</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1613</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:26:02+00</modtime>
+      <changetime>2011-12-28 13:53:15+00</changetime>
+      <acctime>2013-12-16 15:47:26+00</acctime>
+      <sumtime>2013-12-16 15:47:26+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive01/sensor/raw_file_descriptions.txt</path>
+      <digest algorithm='md5'>d4d5691cbb61937056b1897c4d6e5de3</digest>
+      <digest algorithm='sha1'>e75f7da5850152ab7aa607164c2d36cc52d935b9</digest>
+      <digest algorithm='sha256'>1e0db7824c5a6ba93ffac3768480497c2a46e2febbfbae35632fbe1b3864dca1</digest>
+      <digest algorithm='sha384'>f6a642fdf8306cc73852b4077be3976c0cd28896147222ba580fc29541c5b7c39285a1222d2fdd5b439a0c809e87141b</digest>
+      <digest algorithm='sha512'>3bc39c863f21b62043b18f0a5c4f45aa479a00783afb7183c3f0013a9a473ba20231d43571acec474fb1aa2bae277d6eb95ec90c4ce036c30a9fac3a56a5c44b</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3727</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:27:50+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:26+00</acctime>
+      <sumtime>2013-12-16 15:47:26+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive02</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>4</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:57:00+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:26+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive02/eventlog</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:57:00+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:26+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive02/eventlog/eventlog.txt</path>
+      <digest algorithm='md5'>5a5360bedeb020a8f591b439769bb497</digest>
+      <digest algorithm='sha1'>92b6f1b7ccfff4bd4474c2666d0c88b23bf256a1</digest>
+      <digest algorithm='sha256'>7c84e08228bb01674af4191837dd7374071be5f24097e6801fedcc2e4a7af14d</digest>
+      <digest algorithm='sha384'>be0afdd52eb9e4980951b292b1f57fed851b9bd251698b058dd16e67888fc492d5a2dfca0d99163e62a6a33d652e0145</digest>
+      <digest algorithm='sha512'>b6e103b312d0f59587f171bf1c8c8defbcfd5858ae7ead292ab5284a406271b2dfb141dfb66f90505c7459cac3d4cf5d87a3b83459027999b37347632d695e7a</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4996</size>
+      <blksize>32768</blksize>
+      <blocks>16</blocks>
+      <modtime>2006-12-19 13:41:40+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:26+00</acctime>
+      <sumtime>2013-12-16 15:47:26+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive02/eventlog/eventlogWithCaptures.txt</path>
+      <digest algorithm='md5'>dc8c4ae70205d34b19e870864b4c224d</digest>
+      <digest algorithm='sha1'>e17ff05d8a48779f7643f4b0e348c9bb7a3572a2</digest>
+      <digest algorithm='sha256'>8ac965493fb5169a0414f0358b72dff878306480080bf156d99909b63d5a64c1</digest>
+      <digest algorithm='sha384'>0363dba38bc5bc9f0cf0d9547761eae98041f25b0296e80a01ec9bbc893042aa3c019f799a2cf5f90fbcf505a40e2487</digest>
+      <digest algorithm='sha512'>6fecbb399bedfe8942fd99b59341484463e549051ba610a8a32bd92c87e30948ca02d7e10df58c4efd5888fbfdc56653aa65c7b869886cedd87fe1d8edf6d617</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>5581</size>
+      <blksize>32768</blksize>
+      <blocks>16</blocks>
+      <modtime>2006-12-19 13:41:40+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:26+00</acctime>
+      <sumtime>2013-12-16 15:47:26+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive02/sensor</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:57:00+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:26+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive02/sensor/AGR_data_raw</path>
+      <digest algorithm='md5'>f17f7cb08339d6e90fa3ea07415792c2</digest>
+      <digest algorithm='sha1'>9a3b77651a4aa7b7936b908ec09265ecc6e4f5fb</digest>
+      <digest algorithm='sha256'>60b43a42d7d8a0906aad98675110f081333d2e04f5231cf60426609d9891d59c</digest>
+      <digest algorithm='sha384'>cc71cec2e63558c802d17403ee7f9767494b18a7529cdfc191350819e43b4f30d3b30d32afa0f9d81d647f335c4c214b</digest>
+      <digest algorithm='sha512'>ba69fbb16e2eb4489afbcd28328dd6a8bec137753d66b151a391818e4daa75e269d4587fa05ce7e9b68d188d27c117515184ecb46cd98857d0ecad7386f711e2</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>47660672</size>
+      <blksize>32768</blksize>
+      <blocks>93192</blocks>
+      <modtime>2006-12-31 16:04:08+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:29+00</acctime>
+      <sumtime>2013-12-16 15:47:29+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive02/sensor/APAS_data_proc</path>
+      <digest algorithm='md5'>59618f40461244cfb524fb56ace509a5</digest>
+      <digest algorithm='sha1'>ca4f5d3b7c36c5aaae0328dc4993e81d7989626a</digest>
+      <digest algorithm='sha256'>70f5b928fa38b15256856c456ae334f0936eecdd60732d04d74a7f5cbb0f18ac</digest>
+      <digest algorithm='sha384'>fb1c3e260d922f1c67344a42c7d56bce86caddf250ca2caf5def02e7e905460c488263814f25243f081b2272010eb483</digest>
+      <digest algorithm='sha512'>ec720e559356fb401f776a72928ad60fbc1c85aed48dc36b180c05836f7130e65f5acd71a9b14e444c70912e7201ad7d49628e52428918accc9ea101eebcce1d</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1469993</size>
+      <blksize>32768</blksize>
+      <blocks>2880</blocks>
+      <modtime>2006-12-31 18:59:10+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:29+00</acctime>
+      <sumtime>2013-12-16 15:47:29+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive02/sensor/APAS_data_raw</path>
+      <digest algorithm='md5'>eb053ac3d0cd76dfe301a90c3e8eeb75</digest>
+      <digest algorithm='sha1'>0d318b858252e75d7424389d46886d6c2de0f565</digest>
+      <digest algorithm='sha256'>b59dcebe6a30cf19bc93c2b6be4f76a3801308ce180a6e90fac599a8f80249e1</digest>
+      <digest algorithm='sha384'>106a8331011c8a2b2e1b001b6ca9e30c3f073d7c1b6d14433356bf908f36c96e246c4739aeeedde2e4e8c28630c20f31</digest>
+      <digest algorithm='sha512'>525f3f0400750ac9e8f159c8aea7faf3979793cebb6525f30d6f575b67f842910b9ba061b9c3859958a56d51e2dc4cfae81f7964c69fd2e88b0908235718f304</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>9483081</size>
+      <blksize>32768</blksize>
+      <blocks>18560</blocks>
+      <modtime>2006-12-31 16:04:10+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:30+00</acctime>
+      <sumtime>2013-12-16 15:47:30+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive02/sensor/CT2_data_proc</path>
+      <digest algorithm='md5'>847c2f72d05bcee5c8cd575127a7bb10</digest>
+      <digest algorithm='sha1'>16491563658ba1de9cf33efff62fe9fa0b5ecd9c</digest>
+      <digest algorithm='sha256'>1213e4dc7a8e67c837bf1f0cf7dacd582957c833187fec1d582afe56bf5eb8df</digest>
+      <digest algorithm='sha384'>de720433b94592be2fbe3891d91e86470f7eb2b5264ba0c471af550874383ddf40e2094a2f5cc1828f3a1ee1477f1245</digest>
+      <digest algorithm='sha512'>958170d24cbd1487d551a4b5d7338cfcdb51d2c081a889974592ed9ad18fb26a2aea02a953f4feebfc808646984596f7e49ad8a76e949360c7cfeab5f5271c26</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>792220</size>
+      <blksize>32768</blksize>
+      <blocks>1560</blocks>
+      <modtime>2006-12-31 19:00:32+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:30+00</acctime>
+      <sumtime>2013-12-16 15:47:30+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive02/sensor/CT2_data_raw</path>
+      <digest algorithm='md5'>bdd5ba5574efa8f14835c25bdf5e2250</digest>
+      <digest algorithm='sha1'>8f4037e9037115f73a8af6769c8f76b642665d28</digest>
+      <digest algorithm='sha256'>e27ae67eb6a0cc37643f4e50677f962ff9d6589cd73004c61db2c24e4e5e1135</digest>
+      <digest algorithm='sha384'>4060ef08beda3b4bccbe154b81a55487539e9a6fc74ae722dbb1fbb12cfb6834d703beab4630d91d1adc7506a77f6222</digest>
+      <digest algorithm='sha512'>ffe630f1a693a912da75c3032768c05aa0219fba1bad426f3b4cb17ade0615a4865419e89b56204bbb2ad33ab96d90913176cd63e22e35addc5ef56a5bf4015c</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3217677</size>
+      <blksize>32768</blksize>
+      <blocks>6296</blocks>
+      <modtime>2006-12-31 16:04:10+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:30+00</acctime>
+      <sumtime>2013-12-16 15:47:30+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive02/sensor/JDS_data_proc</path>
+      <digest algorithm='md5'>d32c8245c319149a47851e29ebc02c80</digest>
+      <digest algorithm='sha1'>45115798044839b7f011f16c874cd2c08cf7ff6f</digest>
+      <digest algorithm='sha256'>1461d4abce9a083700a281d98a22bf84fa1823aee37c12520f67b9860b83ff73</digest>
+      <digest algorithm='sha384'>2d2156962eea846e554e113456d3bfcfeca1e7896aaf3848b83b046ac3cf34be4e5a9de49522398396c1a2a2b88aeb2f</digest>
+      <digest algorithm='sha512'>65be2432f349890efc8d3517dca29f2a33eeaacedc842947849b910f1f0d343dfdb975ac0b27a1b3b544c7ac16bef8bdf79aabf9d9cd552216dcc9babc5ae6d0</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2798519</size>
+      <blksize>32768</blksize>
+      <blocks>5480</blocks>
+      <modtime>2006-12-31 19:01:46+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:31+00</acctime>
+      <sumtime>2013-12-16 15:47:31+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive02/sensor/JDS_data_raw</path>
+      <digest algorithm='md5'>a4e0e3d60496c950fa713714b00da534</digest>
+      <digest algorithm='sha1'>ee26de506663b386a5a2ba47cb5f9f0a3c6855ef</digest>
+      <digest algorithm='sha256'>4f6774ea5528b9fd8360dd83602b1707c95d9f3d877568c8005a82705e5fdf83</digest>
+      <digest algorithm='sha384'>b91d9e75e63eb4c5b0f356f5d6817b8294f41023c78467c6ef92ce663e7afef8ed675a2f8dc671576eb985040daab39d</digest>
+      <digest algorithm='sha512'>96debe0e6f6b158527061e90a24275ee58f0b29048ab8675a95d8285754816977f91df93f7712d3a4cc54d15b3617f897de820b05dbe334107ece9d57788f7c0</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4378056</size>
+      <blksize>32768</blksize>
+      <blocks>8576</blocks>
+      <modtime>2006-12-31 16:04:10+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:31+00</acctime>
+      <sumtime>2013-12-16 15:47:31+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive02/sensor/O2S_data_proc</path>
+      <digest algorithm='md5'>cda246458595c4d834b60c92cb6efe69</digest>
+      <digest algorithm='sha1'>47da8ea9a6261a9e32ca1342e06573bd092a88bc</digest>
+      <digest algorithm='sha256'>f6897c818b1c2db1a649cd2c26a2ccba396c9337f0bd2b225e175d3915e29e70</digest>
+      <digest algorithm='sha384'>c57f21201d19507c54b3f13bef931c600f171f46012a3d6af36333670932b55b0b4d6de4dea9d753fbd7fd05b4a11915</digest>
+      <digest algorithm='sha512'>00d3ebb7cecc5461946c3983229e7faa95ff8d054369b9890cb12505c6f38468147a6be4406551ce8f4b189e4d0898fe722284f10cfc9dc95c27717399eeb999</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>512245</size>
+      <blksize>32768</blksize>
+      <blocks>1016</blocks>
+      <modtime>2006-12-31 19:02:52+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:31+00</acctime>
+      <sumtime>2013-12-16 15:47:31+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive02/sensor/O2S_data_raw</path>
+      <digest algorithm='md5'>317ee79593c69dd36f6cc341a493cc8a</digest>
+      <digest algorithm='sha1'>b0e269c294f2d5273e866ca42e7c57ac2122f49a</digest>
+      <digest algorithm='sha256'>b20e0874b8046ef9e195f60e450ed0a569170944ffdbcfae0500a2deda6a938e</digest>
+      <digest algorithm='sha384'>4e0198730d0e2336899768ef7db348b66c27f567c5c08a8047797ba16c74f7f6442b631accf4cd877d4b84bdb198c131</digest>
+      <digest algorithm='sha512'>ac73c88a2af01f7fae6f16dc3b3f0cc9dbd8c2a3a0168fbdbcfebd3acf78efc83597b92b0a89406737d395cea47ee37a097430bccefa35b296159524f7ac0d3a</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3279310</size>
+      <blksize>32768</blksize>
+      <blocks>6416</blocks>
+      <modtime>2006-12-31 16:04:10+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:31+00</acctime>
+      <sumtime>2013-12-16 15:47:31+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive02/sensor/proc_file_descriptions.txt</path>
+      <digest algorithm='md5'>0b04161c467b63bd4b7194b4602aff8d</digest>
+      <digest algorithm='sha1'>700aed208540b8203e2442ea4b65112790afda35</digest>
+      <digest algorithm='sha256'>4ac6d5d91d9b823c4b218db9be605d56dd6347a96ceb2b758b50bec6d2b87585</digest>
+      <digest algorithm='sha384'>abf41abbec861ef1c8fbf28866a8d5bc646161b6f670cd08d0a28487fa6b446a8d5728b179128d930f8dd61daf4cf217</digest>
+      <digest algorithm='sha512'>03646b47a95415d37a15c52c366d9622ec61fbb91551bf9fbd9689d7146f56a321430c766ffbaeb1f709a2d43b46b6c6f65ef683c90828f0dac6fe2d5e33a083</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1613</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:26:06+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:31+00</acctime>
+      <sumtime>2013-12-16 15:47:31+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive02/sensor/raw_file_descriptions.txt</path>
+      <digest algorithm='md5'>d4d5691cbb61937056b1897c4d6e5de3</digest>
+      <digest algorithm='sha1'>e75f7da5850152ab7aa607164c2d36cc52d935b9</digest>
+      <digest algorithm='sha256'>1e0db7824c5a6ba93ffac3768480497c2a46e2febbfbae35632fbe1b3864dca1</digest>
+      <digest algorithm='sha384'>f6a642fdf8306cc73852b4077be3976c0cd28896147222ba580fc29541c5b7c39285a1222d2fdd5b439a0c809e87141b</digest>
+      <digest algorithm='sha512'>3bc39c863f21b62043b18f0a5c4f45aa479a00783afb7183c3f0013a9a473ba20231d43571acec474fb1aa2bae277d6eb95ec90c4ce036c30a9fac3a56a5c44b</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3727</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:27:52+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:31+00</acctime>
+      <sumtime>2013-12-16 15:47:31+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive03</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>4</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:56:54+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:31+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive03/eventlog</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:56:54+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:31+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive03/eventlog/eventlog.txt</path>
+      <digest algorithm='md5'>134c6b110c20126bb679e713a951d8e5</digest>
+      <digest algorithm='sha1'>f60a1f86b6871a1baf70f0054937bac9f64918b8</digest>
+      <digest algorithm='sha256'>1c34b8098fbf10b7959a1319044808557a188b399515a1ac60787efb2773fe4a</digest>
+      <digest algorithm='sha384'>c3513f459831a6e18b95b739b6992a43a473f5c8e69704e9ceb1bcc5b8a6f8ce4856a066c6c7c6f320269fc5914c31e3</digest>
+      <digest algorithm='sha512'>004f1d79a6bcadd6ea3e6055a1a2b4c3a5a72fe2eec6749b108239849a0dcfa791434f3214a7b66be876b059230b913e9da8efc8b4e3b12a910c95012927eac1</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>14295</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2006-12-19 13:43:06+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:31+00</acctime>
+      <sumtime>2013-12-16 15:47:31+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive03/eventlog/eventlogWithCaptures.txt</path>
+      <digest algorithm='md5'>8114ac3078c3f7b352fd5aebfb6bba86</digest>
+      <digest algorithm='sha1'>22a3c353a06bf0e124427eae08a5f32b6f3e7d77</digest>
+      <digest algorithm='sha256'>0b2fcd3d9a721d6909dfef7efefcaa7af1e295e896a425d42b773b1774fb84af</digest>
+      <digest algorithm='sha384'>23f1316a0515a33de6c0fde0ccf9e5462511a08894cca7c1977887ee8c81f7bcaf51c8ef851bc3ed50f1021409103e3a</digest>
+      <digest algorithm='sha512'>873863d5a500be380d82a2838b0dee2addfafef8db08c809a18684aebc66c9bff1595efacf4887dd4d4d8a3e272812629391b2b01927641dfa1f9eda45c033bb</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>42453</size>
+      <blksize>32768</blksize>
+      <blocks>88</blocks>
+      <modtime>2006-12-19 13:43:06+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:31+00</acctime>
+      <sumtime>2013-12-16 15:47:31+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive03/sensor</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:56:54+00</modtime>
+      <changetime>2011-12-28 13:53:17+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:31+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive03/sensor/APAS_data_proc</path>
+      <digest algorithm='md5'>fc28a26d156a0f0a02edf66d4113b26c</digest>
+      <digest algorithm='sha1'>6bb2df46a67ed87e7832297ee175146696a71189</digest>
+      <digest algorithm='sha256'>7ce8594b5930405926c22379ba6728ed827cb3799e6137af90131af35dcd3576</digest>
+      <digest algorithm='sha384'>c86341836260be99a007f4e6433b74564da1d87c46365c06a3ecd6aec37cc4ac66ed1c01851a4a44511b2e7f7c8257b2</digest>
+      <digest algorithm='sha512'>60b40beba682db113b57affe049daf27668da15b89ceec2596ad81adb970b3434688d786acf1c16f2b4a62bb4e6e5fcb615a0d57563dc28001132f98240288d0</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>797579</size>
+      <blksize>32768</blksize>
+      <blocks>1568</blocks>
+      <modtime>2007-01-01 10:49:36+00</modtime>
+      <changetime>2011-12-28 13:53:16+00</changetime>
+      <acctime>2013-12-16 15:47:31+00</acctime>
+      <sumtime>2013-12-16 15:47:31+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive03/sensor/APAS_data_raw</path>
+      <digest algorithm='md5'>65091ecab430ae944c793b90e0dd6a0e</digest>
+      <digest algorithm='sha1'>c039e5cdbf5d0ddae49391a16e71b9a5b63b7c01</digest>
+      <digest algorithm='sha256'>641e52726208be1cee32f25486b4afd2486015f0d38087677075393324b2911b</digest>
+      <digest algorithm='sha384'>bb6ee5e8eaba007c8f1cdd26f2bd733aa19b7ce67d44edc2082ddf0dbc2d885303065fd77f80941dcead1ad69ef37a65</digest>
+      <digest algorithm='sha512'>ed3770afb8a9c63e4017e55c25a8243ed591238343216ba501a27df61b7c3e8bd4485a02f640efa3f25c2d2a47b7711cf0c7fdd51eca6fb07553180ba5de27f7</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>16776127</size>
+      <blksize>32768</blksize>
+      <blocks>32808</blocks>
+      <modtime>2006-12-31 20:50:34+00</modtime>
+      <changetime>2011-12-28 13:53:17+00</changetime>
+      <acctime>2013-12-16 15:47:33+00</acctime>
+      <sumtime>2013-12-16 15:47:33+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive03/sensor/CT2_data_proc</path>
+      <digest algorithm='md5'>a0ad4900bad425453f41c78702725456</digest>
+      <digest algorithm='sha1'>460c08ab3afe6820bfc36fdde8b7d7eb0deb8d17</digest>
+      <digest algorithm='sha256'>cbdda6a94eca5848c7bea66d08adcc72ca56d0f0426d2bb3a38fd53dbba325b5</digest>
+      <digest algorithm='sha384'>598c3dc428f883ed71956df393e3e949048f1d0cc68843af03702831c953d9218ffbdeda5702f8b8cb16ff3fe5620218</digest>
+      <digest algorithm='sha512'>ee070db59cdf329d9160b37bc4c9db44037811501e70e32467d42e9b44561411a7627121774b9239e7aeb59e06dd269b824ff97978d36533f8382c760db270be</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3470976</size>
+      <blksize>32768</blksize>
+      <blocks>6792</blocks>
+      <modtime>2007-01-01 10:52:12+00</modtime>
+      <changetime>2011-12-28 13:53:17+00</changetime>
+      <acctime>2013-12-16 15:47:34+00</acctime>
+      <sumtime>2013-12-16 15:47:34+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive03/sensor/CT2_data_raw</path>
+      <digest algorithm='md5'>297f0215505007dca39c67ea692b5374</digest>
+      <digest algorithm='sha1'>b01c5df361511d15d39d1f12c2da2d2f55c3bd10</digest>
+      <digest algorithm='sha256'>b7b5b659b35dd49c02fa35d33c8f3c8e350bd0c84e8dfb56ab7e64defffd5384</digest>
+      <digest algorithm='sha384'>b3d1707ca41991361dd67275d0a16324c6d707da4e7a05ebd07e5235c6a65ed171a16597ea6d2267b1d826a08fc66726</digest>
+      <digest algorithm='sha512'>ecd40f24254ddba38a0e41b72ab2b05d8b4d5f2cf6f08f198254a5185a92c620a69e6bd5fa2fffc4c28c4541d093dc2d0c08ea92646a6a7fdacfc87132a3aa4d</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>14110989</size>
+      <blksize>32768</blksize>
+      <blocks>27608</blocks>
+      <modtime>2006-12-31 20:50:34+00</modtime>
+      <changetime>2011-12-28 13:53:17+00</changetime>
+      <acctime>2013-12-16 15:47:35+00</acctime>
+      <sumtime>2013-12-16 15:47:35+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive03/sensor/JDS_data_proc</path>
+      <digest algorithm='md5'>ac284aedec82ca09b472c8fdc691f33c</digest>
+      <digest algorithm='sha1'>83495cf1c046c3ee362cfc173481396ea1b1369e</digest>
+      <digest algorithm='sha256'>1f05627d1b69454bd3e1e1ac00c643c7811f108e3f4074ada84a43237a19d552</digest>
+      <digest algorithm='sha384'>49afb7dda981593da7c7657b4af0684e62445bf7b4c209105e2db12f6d85a1ff21b69d7ca57364ca468176bef7dcb7d1</digest>
+      <digest algorithm='sha512'>d6180a4e07d154b9a8edb0ab19fa81b6de9c0bc382d633679969c5061e613728873a9f9304b8786954c81c189637ac4fd62f4d47b466eb1f24ad90e52c89113c</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>5123802</size>
+      <blksize>32768</blksize>
+      <blocks>10032</blocks>
+      <modtime>2007-01-01 10:53:24+00</modtime>
+      <changetime>2011-12-28 13:53:17+00</changetime>
+      <acctime>2013-12-16 15:47:35+00</acctime>
+      <sumtime>2013-12-16 15:47:35+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive03/sensor/JDS_data_raw</path>
+      <digest algorithm='md5'>f7a3b9e78115608cd34519ccc054f992</digest>
+      <digest algorithm='sha1'>a59b3798808faff2e94914ec561e725a6f5f4037</digest>
+      <digest algorithm='sha256'>a40f815b8c5b880341f637391ce868e5a204c4b7e4e6a489ebb11b42eaadb27d</digest>
+      <digest algorithm='sha384'>25f2795d526263cfabe78444797248e98d9149b604a400907c9fa3352ac7ac28ab5b1846059b230a10cc0ab2d1a07d2a</digest>
+      <digest algorithm='sha512'>8a264104f3e8ce55296dbdf5f3792f41ce8a4acd8c382979cc2133be8216fc83a249d5af5ec415f4ed7fa3b42ca8012bc07200da3f09dcff380906943a61d8cf</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>7941545</size>
+      <blksize>32768</blksize>
+      <blocks>15536</blocks>
+      <modtime>2006-12-31 20:50:32+00</modtime>
+      <changetime>2011-12-28 13:53:17+00</changetime>
+      <acctime>2013-12-16 15:47:36+00</acctime>
+      <sumtime>2013-12-16 15:47:36+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive03/sensor/O2S_data_proc</path>
+      <digest algorithm='md5'>c959807a374bc02114a97e9dab4b8173</digest>
+      <digest algorithm='sha1'>3c1b50d23cadfef9264c164b7367d9036aa4d5c1</digest>
+      <digest algorithm='sha256'>cc243277b8a72b8573f89f0cd4c16b6921ce292beda45eb73704ba85df6b2202</digest>
+      <digest algorithm='sha384'>a5bec8da78aab2505a2588ba158bccd31e0483c6217524b4f4568371104d5b5f0a594bd4a2ebdb16a8013c8ead823d50</digest>
+      <digest algorithm='sha512'>baf16488c5010f72152594cf62186c1f4dce25d957d146e9f631bd08ec1aacd428d6e4ac7b7327de6069bc090dcdbc1d7bcbb16979b39cd344460bebce367eba</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2237096</size>
+      <blksize>32768</blksize>
+      <blocks>4384</blocks>
+      <modtime>2007-01-01 10:54:58+00</modtime>
+      <changetime>2011-12-28 13:53:17+00</changetime>
+      <acctime>2013-12-16 15:47:36+00</acctime>
+      <sumtime>2013-12-16 15:47:36+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive03/sensor/O2S_data_raw</path>
+      <digest algorithm='md5'>e91616b87f9ed333db250835963873e3</digest>
+      <digest algorithm='sha1'>344505dcba5462218228dae3fb70a4bcd1b6eae8</digest>
+      <digest algorithm='sha256'>3e0108fdbd6218dee4dede337a8d0195cf7a7d976c6a21856038e498c44820bb</digest>
+      <digest algorithm='sha384'>d64e75399b3519cd385af49cdd38e3f724c3e8f614560825b9e56514adee849c13cfc4cfb0e2571b8ccebaf5873b7208</digest>
+      <digest algorithm='sha512'>59af9aca0d6c5783ff9216c2e39ea90e3c3d21fa6c74b594c8fe3574cb66763bc0899a678623a51c24d2430018246fac4fd2a5de02306d8ff390bdacc91977bd</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>14385774</size>
+      <blksize>32768</blksize>
+      <blocks>28144</blocks>
+      <modtime>2006-12-31 20:50:32+00</modtime>
+      <changetime>2011-12-28 13:53:17+00</changetime>
+      <acctime>2013-12-16 15:47:37+00</acctime>
+      <sumtime>2013-12-16 15:47:37+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive03/sensor/proc_file_descriptions.txt</path>
+      <digest algorithm='md5'>0b04161c467b63bd4b7194b4602aff8d</digest>
+      <digest algorithm='sha1'>700aed208540b8203e2442ea4b65112790afda35</digest>
+      <digest algorithm='sha256'>4ac6d5d91d9b823c4b218db9be605d56dd6347a96ceb2b758b50bec6d2b87585</digest>
+      <digest algorithm='sha384'>abf41abbec861ef1c8fbf28866a8d5bc646161b6f670cd08d0a28487fa6b446a8d5728b179128d930f8dd61daf4cf217</digest>
+      <digest algorithm='sha512'>03646b47a95415d37a15c52c366d9622ec61fbb91551bf9fbd9689d7146f56a321430c766ffbaeb1f709a2d43b46b6c6f65ef683c90828f0dac6fe2d5e33a083</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1613</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:26:10+00</modtime>
+      <changetime>2011-12-28 13:53:17+00</changetime>
+      <acctime>2013-12-16 15:47:37+00</acctime>
+      <sumtime>2013-12-16 15:47:37+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive03/sensor/raw_file_descriptions.txt</path>
+      <digest algorithm='md5'>d4d5691cbb61937056b1897c4d6e5de3</digest>
+      <digest algorithm='sha1'>e75f7da5850152ab7aa607164c2d36cc52d935b9</digest>
+      <digest algorithm='sha256'>1e0db7824c5a6ba93ffac3768480497c2a46e2febbfbae35632fbe1b3864dca1</digest>
+      <digest algorithm='sha384'>f6a642fdf8306cc73852b4077be3976c0cd28896147222ba580fc29541c5b7c39285a1222d2fdd5b439a0c809e87141b</digest>
+      <digest algorithm='sha512'>3bc39c863f21b62043b18f0a5c4f45aa479a00783afb7183c3f0013a9a473ba20231d43571acec474fb1aa2bae277d6eb95ec90c4ce036c30a9fac3a56a5c44b</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3727</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:27:54+00</modtime>
+      <changetime>2011-12-28 13:53:17+00</changetime>
+      <acctime>2013-12-16 15:47:37+00</acctime>
+      <sumtime>2013-12-16 15:47:37+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive04</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>4</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:56:48+00</modtime>
+      <changetime>2011-12-28 13:53:17+00</changetime>
+      <acctime>2013-12-16 08:25:47+00</acctime>
+      <sumtime>2013-12-16 15:47:37+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive04/eventlog</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:56:48+00</modtime>
+      <changetime>2011-12-28 13:53:17+00</changetime>
+      <acctime>2013-12-16 08:25:47+00</acctime>
+      <sumtime>2013-12-16 15:47:37+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive04/eventlog/eventlog.txt</path>
+      <digest algorithm='md5'>7c7ba4728b74d1f02a0372bab04ac191</digest>
+      <digest algorithm='sha1'>67d6cdfb9843be3a62340551880eaa0a2ddfb481</digest>
+      <digest algorithm='sha256'>b8246541cb744c6823e4c30ef7c300012404e195c82f5b01ea9de8a4fe4437f3</digest>
+      <digest algorithm='sha384'>103350e262bfdef23e983e71af748ae9f7095d64a97ce50c972adc7e80120c4735ea7aa11095adc57504f09205439e2c</digest>
+      <digest algorithm='sha512'>d0bb128ee96e39b7be765f2f771dfb8c4326eabe098a5a4582b3ecf9b76f098c2dff55a305b165e12f85d649915577dea3044355782f15d978215d2b04ec0da1</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>11147</size>
+      <blksize>32768</blksize>
+      <blocks>24</blocks>
+      <modtime>2006-12-19 13:44:08+00</modtime>
+      <changetime>2011-12-28 13:53:17+00</changetime>
+      <acctime>2013-12-16 15:47:37+00</acctime>
+      <sumtime>2013-12-16 15:47:37+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive04/eventlog/eventlogWithCaptures.txt</path>
+      <digest algorithm='md5'>2d7c1aed726138a48aaee685a1539255</digest>
+      <digest algorithm='sha1'>d33105b97b8868a30975f1c40d65d00cd6bdcbf9</digest>
+      <digest algorithm='sha256'>a899cb171b70badc04c712b3b046e8c02d27c776681c31903b117d07e7c760cd</digest>
+      <digest algorithm='sha384'>91d90391a01c428849251dc76deea665884a5a275926e8a0f0363609c38d9c71a24625ad2051075ce7664433a3136daa</digest>
+      <digest algorithm='sha512'>fd36196f3e5bf293acde687979f72488416cf7d2dc17e1c9ef795db5c4108d701b02555a218b722acd1592dd2ec914c0b32879ebe87d85165619810fcdc4c6d1</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>67775</size>
+      <blksize>32768</blksize>
+      <blocks>144</blocks>
+      <modtime>2006-12-19 13:44:08+00</modtime>
+      <changetime>2011-12-28 13:53:17+00</changetime>
+      <acctime>2013-12-16 15:47:37+00</acctime>
+      <sumtime>2013-12-16 15:47:37+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive04/sensor</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:56:48+00</modtime>
+      <changetime>2011-12-28 13:53:18+00</changetime>
+      <acctime>2013-12-16 08:25:47+00</acctime>
+      <sumtime>2013-12-16 15:47:37+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive04/sensor/APAS_data_proc</path>
+      <digest algorithm='md5'>6469f05feee3b0c6fe351ed90be53b0e</digest>
+      <digest algorithm='sha1'>4b95895db5cb20f6f3b9cec639660ed7129125c6</digest>
+      <digest algorithm='sha256'>da5d65861331ea9d1657bd8c0e7367c3d5aae89827cc35b3eb4b9b97f2ae72a9</digest>
+      <digest algorithm='sha384'>14da13bb4148b7effb875b4896c6afcdbc935d7b0ffcd3fb40992ed59019da4b851c5a5e564e9fd88ab47548e7035792</digest>
+      <digest algorithm='sha512'>25c83fdca0f47ec79450b35b2f1631f6c396f60addf7a1fe2c30910093e94f94d795ec20c4c21b88a22606004d53798db5cdcac75bcc55b60a2511b301536528</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>804259</size>
+      <blksize>32768</blksize>
+      <blocks>1584</blocks>
+      <modtime>2006-12-31 20:54:22+00</modtime>
+      <changetime>2011-12-28 13:53:18+00</changetime>
+      <acctime>2013-12-16 15:47:37+00</acctime>
+      <sumtime>2013-12-16 15:47:37+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive04/sensor/APAS_data_raw</path>
+      <digest algorithm='md5'>99ec6c2e687b3a9566eca9126100c1f7</digest>
+      <digest algorithm='sha1'>665d43875d5c5455368f9b3b0c38e1c3977aff9b</digest>
+      <digest algorithm='sha256'>d7fb6ea263444063c76274ff164aa3227223c3aec984763730b4c3e4dd9622d0</digest>
+      <digest algorithm='sha384'>574da13aeeaf82af3f3e8d22044553d47771c0dc7d6805c2d2bac14b28b9b3898af1c7a7acb8450aab64fe9e26202543</digest>
+      <digest algorithm='sha512'>c348ff04302685874c29e9cb2fb027635faac42e264222bf1b7c4214307ed5487cbacbbb19087d735b4794f75f2901eedad5b8c484bdf842bb2ad02b070cd03b</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>13674592</size>
+      <blksize>32768</blksize>
+      <blocks>26752</blocks>
+      <modtime>2006-12-31 18:42:04+00</modtime>
+      <changetime>2011-12-28 13:53:18+00</changetime>
+      <acctime>2013-12-16 15:47:38+00</acctime>
+      <sumtime>2013-12-16 15:47:39+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive04/sensor/CT2_data_proc</path>
+      <digest algorithm='md5'>59af08987d9903057084928dda27fa23</digest>
+      <digest algorithm='sha1'>779fba59fe20610264eb07ebc313261a71763fc8</digest>
+      <digest algorithm='sha256'>7b68ba8f2e6dbb694eb712e855c82aad3d623b06dba1f34e5f9c57ae5a8aa914</digest>
+      <digest algorithm='sha384'>6daabf1325dc364b47c68815b94f7db1b27f74bcbf69d583931136dd33c77a6aeb06e7960c35a50d15f28cf182d0ed45</digest>
+      <digest algorithm='sha512'>9754987aed168685c9851ec11b4562104f6b1fca74892de340c8bbe3c716e3e493080ee5e82880767f2b0cafcd4a452741233940a36c028f1fdd65bab2b00ac2</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2778737</size>
+      <blksize>32768</blksize>
+      <blocks>5440</blocks>
+      <modtime>2006-12-31 20:55:54+00</modtime>
+      <changetime>2011-12-28 13:53:18+00</changetime>
+      <acctime>2013-12-16 15:47:39+00</acctime>
+      <sumtime>2013-12-16 15:47:39+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive04/sensor/CT2_data_raw</path>
+      <digest algorithm='md5'>1a0896c4f7f9a28441a7acbd5ed26198</digest>
+      <digest algorithm='sha1'>eb0f991f9b45854f8aa2387ee5f3685dea19e017</digest>
+      <digest algorithm='sha256'>ebe9ec44277d9cb9ba53063e3bb5aaf7313366a5d8779f44c76a8dd542822673</digest>
+      <digest algorithm='sha384'>15e83017c90a5d342bbe07bfc72f003cc9c8c9200bd877df673f8869e52a73f5abfb5b10a6d1ea5f00905234b7fb2754</digest>
+      <digest algorithm='sha512'>58b341bc9a86cea108d26923282b7742a331645b5ff2ba433e36e9743c91f51eb9402eba10aaaa01fcd5de675a5d72a78933bd13fffa61b7dd9b07f7b6bb5b97</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>11403016</size>
+      <blksize>32768</blksize>
+      <blocks>22304</blocks>
+      <modtime>2006-12-31 18:42:04+00</modtime>
+      <changetime>2011-12-28 13:53:18+00</changetime>
+      <acctime>2013-12-16 15:47:40+00</acctime>
+      <sumtime>2013-12-16 15:47:40+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive04/sensor/JDS_data_proc</path>
+      <digest algorithm='md5'>e20235018555aeb897fc01e6d136ba31</digest>
+      <digest algorithm='sha1'>ca26b54c248bf858e8b49cb73c679e87a58dba22</digest>
+      <digest algorithm='sha256'>d4e8acc50e97263532b40d3808062c349be7ac463803a32cea219e7334fef25d</digest>
+      <digest algorithm='sha384'>17c535cc1a2109e5f816fb47c36cde2722a9408b181728aeec9720780011634b5a20f844e2f640b4a4531e32b979bfc8</digest>
+      <digest algorithm='sha512'>e1e133d359fcd61f8079648ed53337b65ae46afaa94b6d977bb7a0da91cb35a3ee8802792e76d76a5d95c4475ec8a5dc3bc487baf884de0586e46a1590786fba</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4196755</size>
+      <blksize>32768</blksize>
+      <blocks>8208</blocks>
+      <modtime>2006-12-31 20:58:44+00</modtime>
+      <changetime>2011-12-28 13:53:18+00</changetime>
+      <acctime>2013-12-16 15:47:40+00</acctime>
+      <sumtime>2013-12-16 15:47:40+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive04/sensor/JDS_data_raw</path>
+      <digest algorithm='md5'>c69d7ecf80136ea24f3cdf3387f216ac</digest>
+      <digest algorithm='sha1'>a5425f753be053b3ef5d79a18f6ef443c6dd0463</digest>
+      <digest algorithm='sha256'>df97163950186e093dc480d46c32911049aeb600edc32aff32bc4b75644c4b8a</digest>
+      <digest algorithm='sha384'>07f756d38720026a1da4b89abeb3266a70bb981e6c08803da0064bb455473df7dde7fb8ed1d56fb6a161d9da9c5c0ca8</digest>
+      <digest algorithm='sha512'>7d8fe72a750c0c0a89686bb31cb30e976de9a7c6e7ed5b80925d5f23b0a3ec1a73fc35747b4157981042cb4b16bd7dcfd35ce884059aac24e8356e2a768d2cc6</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>6520548</size>
+      <blksize>32768</blksize>
+      <blocks>12760</blocks>
+      <modtime>2006-12-31 18:42:02+00</modtime>
+      <changetime>2011-12-28 13:53:18+00</changetime>
+      <acctime>2013-12-16 15:47:41+00</acctime>
+      <sumtime>2013-12-16 15:47:41+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive04/sensor/O2S_data_proc</path>
+      <digest algorithm='md5'>7839164f2d185191413a2e864c1d2e38</digest>
+      <digest algorithm='sha1'>8d07dc50a2a6a5207b853e93660f6d11ade94fde</digest>
+      <digest algorithm='sha256'>66f6d0a7f323e9c9df655aaee5e307813e114df49a07f8f85fe94cce9a6e393f</digest>
+      <digest algorithm='sha384'>bc5a87860e5160f96a234913e8bd3e80379d3b1ad39b15f5ecc111f2b68342e02b939014a2b2ee710e57e527f70022f0</digest>
+      <digest algorithm='sha512'>26a1e8d44e7ed04d2cf56b24b23277b64825d8361c38913982ea87cdf640b4effc71b6551251306bcc06ef1fb4f5df79460eeb9c77b60a1d5cda6f06252fcd5f</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1805441</size>
+      <blksize>32768</blksize>
+      <blocks>3536</blocks>
+      <modtime>2006-12-31 21:02:36+00</modtime>
+      <changetime>2011-12-28 13:53:18+00</changetime>
+      <acctime>2013-12-16 15:47:41+00</acctime>
+      <sumtime>2013-12-16 15:47:41+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive04/sensor/O2S_data_raw</path>
+      <digest algorithm='md5'>f4bdd421598bde5101e282079ccfa6f2</digest>
+      <digest algorithm='sha1'>cfe18a0ce7cd42def430c5c8d85c30f3eea0bc78</digest>
+      <digest algorithm='sha256'>91fc3d9a55615d1b933dfa16cf5a0bca24ac07ed70196c7e06444006b7baa72d</digest>
+      <digest algorithm='sha384'>c9fb42e61bcd15295f88dc6fa83a29daa568ec66d82daa5e8722a48b951ec23c3829d845438aee8a25aca3052ef98149</digest>
+      <digest algorithm='sha512'>bf941572e3ee979c672179f1210734a083220c673c6513b6e165edb18a223f88c87e0b4a0a65d7a36324e5d2dae6b01c81f5205af82edff428b13f696e565306</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>11620641</size>
+      <blksize>32768</blksize>
+      <blocks>22736</blocks>
+      <modtime>2006-12-31 18:42:02+00</modtime>
+      <changetime>2011-12-28 13:53:18+00</changetime>
+      <acctime>2013-12-16 15:47:42+00</acctime>
+      <sumtime>2013-12-16 15:47:42+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive04/sensor/proc_file_descriptions.txt</path>
+      <digest algorithm='md5'>0b04161c467b63bd4b7194b4602aff8d</digest>
+      <digest algorithm='sha1'>700aed208540b8203e2442ea4b65112790afda35</digest>
+      <digest algorithm='sha256'>4ac6d5d91d9b823c4b218db9be605d56dd6347a96ceb2b758b50bec6d2b87585</digest>
+      <digest algorithm='sha384'>abf41abbec861ef1c8fbf28866a8d5bc646161b6f670cd08d0a28487fa6b446a8d5728b179128d930f8dd61daf4cf217</digest>
+      <digest algorithm='sha512'>03646b47a95415d37a15c52c366d9622ec61fbb91551bf9fbd9689d7146f56a321430c766ffbaeb1f709a2d43b46b6c6f65ef683c90828f0dac6fe2d5e33a083</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1613</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:26:12+00</modtime>
+      <changetime>2011-12-28 13:53:18+00</changetime>
+      <acctime>2013-12-16 15:47:42+00</acctime>
+      <sumtime>2013-12-16 15:47:42+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive04/sensor/raw_file_descriptions.txt</path>
+      <digest algorithm='md5'>d4d5691cbb61937056b1897c4d6e5de3</digest>
+      <digest algorithm='sha1'>e75f7da5850152ab7aa607164c2d36cc52d935b9</digest>
+      <digest algorithm='sha256'>1e0db7824c5a6ba93ffac3768480497c2a46e2febbfbae35632fbe1b3864dca1</digest>
+      <digest algorithm='sha384'>f6a642fdf8306cc73852b4077be3976c0cd28896147222ba580fc29541c5b7c39285a1222d2fdd5b439a0c809e87141b</digest>
+      <digest algorithm='sha512'>3bc39c863f21b62043b18f0a5c4f45aa479a00783afb7183c3f0013a9a473ba20231d43571acec474fb1aa2bae277d6eb95ec90c4ce036c30a9fac3a56a5c44b</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3727</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:27:56+00</modtime>
+      <changetime>2011-12-28 13:53:18+00</changetime>
+      <acctime>2013-12-16 15:47:42+00</acctime>
+      <sumtime>2013-12-16 15:47:42+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive05</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>4</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:56:46+00</modtime>
+      <changetime>2011-12-28 13:53:18+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:42+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive05/eventlog</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:56:46+00</modtime>
+      <changetime>2011-12-28 13:53:18+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:42+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive05/eventlog/eventlog.txt</path>
+      <digest algorithm='md5'>e824751e17f1da43dc91f5e005267999</digest>
+      <digest algorithm='sha1'>827f36a8db4c3d0f09b64335c3b94df9138ce687</digest>
+      <digest algorithm='sha256'>83e1816831ec9b189dbadf2c101d2004144f724b5dd8f85d3f5abc7ccc64ee47</digest>
+      <digest algorithm='sha384'>c3c5a9cce6f9bd00f0700b7b1a39b91d1ba4cb196924fc73fd7374781c9cec7f6deac2707e0553854d2f5bc67e1aae43</digest>
+      <digest algorithm='sha512'>b668c7f0365228e9bfec3063243c4b251aa72c4850e4dc476e91fdcf243229d0c1f5a52b86cdfdf7470861792cf59afe8f251ed19d50d0458ec3b691dc1157bb</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>35623</size>
+      <blksize>32768</blksize>
+      <blocks>72</blocks>
+      <modtime>2006-12-19 14:07:30+00</modtime>
+      <changetime>2011-12-28 13:53:18+00</changetime>
+      <acctime>2013-12-16 15:47:42+00</acctime>
+      <sumtime>2013-12-16 15:47:42+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive05/eventlog/eventlogWithCaptures.txt</path>
+      <digest algorithm='md5'>d4e5f5e3e28bbf4499294ad95e9854c7</digest>
+      <digest algorithm='sha1'>5c2b9a6f126703267138da7e5950c1c8d986f37c</digest>
+      <digest algorithm='sha256'>3d71d6fda4c65b45637f14f2b1d77513e5475d5fed774a6a831b21ddf99e400a</digest>
+      <digest algorithm='sha384'>ed2b59b475cf737c56c39faa2588fa0bf49bec8900056226f19223c0df26b796f4e90b7d6b95f13baa378fc1e4589e4b</digest>
+      <digest algorithm='sha512'>9aaeda970eff2bfc47da2107d167cd7ef1b23a8f6a969f176fb3f6ccbeb921032901340e6463f7fd6faefbbaf7ef9f3f449fedd6cb6a63e6b270d34ab794075f</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>175204</size>
+      <blksize>32768</blksize>
+      <blocks>352</blocks>
+      <modtime>2006-12-19 14:07:30+00</modtime>
+      <changetime>2011-12-28 13:53:18+00</changetime>
+      <acctime>2013-12-16 15:47:42+00</acctime>
+      <sumtime>2013-12-16 15:47:42+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive05/sensor</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:56:46+00</modtime>
+      <changetime>2011-12-28 13:53:21+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:47:42+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive05/sensor/APAS_data_proc</path>
+      <digest algorithm='md5'>9fc836ffa764afec4e2e50b5d509bfed</digest>
+      <digest algorithm='sha1'>e07e857303afd082783665bfcfc40e7d257827b2</digest>
+      <digest algorithm='sha256'>bf7554c4830fdda34614652007566ec5a2480cec6bdadf86464ee9f9bb7487bc</digest>
+      <digest algorithm='sha384'>5040fa1a6218a259e879ede2cae09906aa28323089c648ee63e4c33aa5f6cf2e11166b0d36f1b5c17260ebdd897cee84</digest>
+      <digest algorithm='sha512'>bf930bfc636608cae3b0f2a7c8844fbf955ab05269ef8cdf42d5c101665fe484b3193fd6b9048013d77fbb0a2261ac9cf28fed799da6c46e7d396c09e87988eb</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>8655604</size>
+      <blksize>32768</blksize>
+      <blocks>16944</blocks>
+      <modtime>2007-01-01 10:33:00+00</modtime>
+      <changetime>2011-12-28 13:53:18+00</changetime>
+      <acctime>2013-12-16 15:47:43+00</acctime>
+      <sumtime>2013-12-16 15:47:43+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive05/sensor/APAS_data_raw</path>
+      <digest algorithm='md5'>eb10bae0afe490a703e9544d9b03cd57</digest>
+      <digest algorithm='sha1'>ccd61e9bbd891de7ea7a6322ca7be40074524103</digest>
+      <digest algorithm='sha256'>9804598a8ff6b24cad16cbe81f17988fab29426ce41bf490de888c929bf2403c</digest>
+      <digest algorithm='sha384'>7fecd3e1e0725c6e5419670dd5b956739655a18b58c0f7bb8374bb7226d44d172bb34c4d34bd67ca5d66412c17a52857</digest>
+      <digest algorithm='sha512'>9e48b8da1ceffd31c2ff79c4fd88d0ddb5f587b8a3f7ccbfd76d71dce266498ebca757f4fe5d9b565ef42bbf64e815af0c7edfe2ce7cdc95fa550b3952e52410</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>53665650</size>
+      <blksize>32768</blksize>
+      <blocks>104928</blocks>
+      <modtime>2007-01-01 02:32:08+00</modtime>
+      <changetime>2011-12-28 13:53:19+00</changetime>
+      <acctime>2013-12-16 15:47:49+00</acctime>
+      <sumtime>2013-12-16 15:47:49+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive05/sensor/CT2_data_proc</path>
+      <digest algorithm='md5'>11f1c7d2d9b2826f68698e9e6630e33e</digest>
+      <digest algorithm='sha1'>1c3dd9ae0e8a869a9d6a879811664cbf2e2b2053</digest>
+      <digest algorithm='sha256'>6d316f38a54cb353fdac927cd79dca5bd666119a3333a278247cfd1249998504</digest>
+      <digest algorithm='sha384'>a17cba73f10e99703a1b604129d8e0e76772c746e2ac77a886ce511883be59ef9a4d4a1cb5c0747be93254ace3d387ae</digest>
+      <digest algorithm='sha512'>a4025c84190899db613d2103d84a11420ef1e090e33bad3bf822d811cd3c546f5fee86bc3cc59eb9816978f9ab62ac1d14719bc004200ee6c639cb188bc6dc35</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>10434998</size>
+      <blksize>32768</blksize>
+      <blocks>20416</blocks>
+      <modtime>2007-01-01 10:38:40+00</modtime>
+      <changetime>2011-12-28 13:53:19+00</changetime>
+      <acctime>2013-12-16 15:47:50+00</acctime>
+      <sumtime>2013-12-16 15:47:50+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive05/sensor/CT2_data_raw</path>
+      <digest algorithm='md5'>34e55ff3896769b6f0a58003d10a743e</digest>
+      <digest algorithm='sha1'>9a44a7bb2018455480edcf4640f5399b96e83f09</digest>
+      <digest algorithm='sha256'>1c19eccd6c203dc32d1fae4b733146a35e3d743bd6e4bb6ce8761fc1354f3635</digest>
+      <digest algorithm='sha384'>e29659b7392ec9b7afd06a04554281aef43001caf1e2a780498be51ae646768170f7d4bf72effeb9c9bb77db6d2aca2a</digest>
+      <digest algorithm='sha512'>4cbeeb9fdccfd022d38d2ac90e436169606e2e507960e540a5c951e539b9a5aedc888794fc316155524649a7c2aa8df56418912e657e1899eb7a0476facfe107</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>42342981</size>
+      <blksize>32768</blksize>
+      <blocks>82800</blocks>
+      <modtime>2007-01-01 02:32:06+00</modtime>
+      <changetime>2011-12-28 13:53:20+00</changetime>
+      <acctime>2013-12-16 15:47:53+00</acctime>
+      <sumtime>2013-12-16 15:47:53+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive05/sensor/JDS_data_proc</path>
+      <digest algorithm='md5'>d8b0c83c5dab186f92da6613b890b7bc</digest>
+      <digest algorithm='sha1'>5476954ef8cfde3800cda61951e49328c99e7f7e</digest>
+      <digest algorithm='sha256'>11d244a3d548d044eddadb7035c32d053aeaeb46cbdbab9ee31b662b2f9201ff</digest>
+      <digest algorithm='sha384'>02e2ddb8afecf75d223aa9a8744ef9f083ced900e969ca9759498083233ab770d67389f6c954c98f2f37b5656aed8985</digest>
+      <digest algorithm='sha512'>3d9592025c4170b2da84e57f12d82a8c4c40e53e46099dc183d6e7364c6ffd2639126508d4bbc28d8dfb77f5922b40dd5d97e6fe149bbdabc4a1f7bfea08d877</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>16620288</size>
+      <blksize>32768</blksize>
+      <blocks>32504</blocks>
+      <modtime>2007-01-01 10:42:02+00</modtime>
+      <changetime>2011-12-28 13:53:20+00</changetime>
+      <acctime>2013-12-16 15:47:54+00</acctime>
+      <sumtime>2013-12-16 15:47:54+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive05/sensor/JDS_data_raw</path>
+      <digest algorithm='md5'>15e29016b7dde9480b041e8c1ee5583b</digest>
+      <digest algorithm='sha1'>8762fafc56d5c8eeb8caf2d70a51d6ff314ac423</digest>
+      <digest algorithm='sha256'>31d690bee7d4bf69cd7d90c87aea4ed2d84e19ad63819b9576cc5847fbc88789</digest>
+      <digest algorithm='sha384'>8cfee06347e5947047d8861afcda9c34cbb7802f14133995080b12d1139450caa053deb82fdc66a45f7ab05ffb1735cc</digest>
+      <digest algorithm='sha512'>34a91a5a443976caf373587bb3ed64e5aae0832aa85c0bd6771c261f5f7e22c5ad4134547ea49b17a7a77a08f9bd6c50680ba47d8291c163c3781f1f4e7a708f</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>25669237</size>
+      <blksize>32768</blksize>
+      <blocks>50200</blocks>
+      <modtime>2007-01-01 02:32:00+00</modtime>
+      <changetime>2011-12-28 13:53:20+00</changetime>
+      <acctime>2013-12-16 15:47:56+00</acctime>
+      <sumtime>2013-12-16 15:47:56+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive05/sensor/O2S_data_proc</path>
+      <digest algorithm='md5'>e94affe76fa5f4709d201a833001a2ae</digest>
+      <digest algorithm='sha1'>25eba4eeedf1788c1cb87f76f54e7670c9534ef3</digest>
+      <digest algorithm='sha256'>9a1bbc5ba24cc5201acd2a0d81e13f1647b794475bed2be5a1036c2d03facd8b</digest>
+      <digest algorithm='sha384'>265fc2b68f4ba21a835fc435ef1278a0914c86278331a7b29dc366ee8fec9b10d8f6c1def5b6fa0621fc96da4cb9b3d8</digest>
+      <digest algorithm='sha512'>c2bd822c9774cb52e3b9966c843c4ae6f0850aeb9161c920f091dfedce1ef93c536ead1ff98e9a24421f7d9981fd436fd4366d20706a83fdf48687c629711b1e</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>6683106</size>
+      <blksize>32768</blksize>
+      <blocks>13080</blocks>
+      <modtime>2007-01-01 10:46:24+00</modtime>
+      <changetime>2011-12-28 13:53:21+00</changetime>
+      <acctime>2013-12-16 15:47:57+00</acctime>
+      <sumtime>2013-12-16 15:47:57+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive05/sensor/O2S_data_raw</path>
+      <digest algorithm='md5'>1b6b95ee20aba8c0b752ae044a70369d</digest>
+      <digest algorithm='sha1'>4a95d9fbc9065b814277faba5645a73d414b5acb</digest>
+      <digest algorithm='sha256'>7c815f0c7f616229d1db671946dea47d349c6799e702cb9e6ad79c08ea849d72</digest>
+      <digest algorithm='sha384'>84d643dacfd2353caa0c83aac945a3ffd6a6120324bf71da4743b605715c39cb5babb966da45338af09cc88ca40bc2c1</digest>
+      <digest algorithm='sha512'>fa68cd5a077eda1738e2d9b1d7ab6f237fccf9d6409fcc46dc9bba5bc365cc4521af28f8aebff26ad8e32aa1a2821628e2ab31b5ddd087e6259ded7956fdf807</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>43024228</size>
+      <blksize>32768</blksize>
+      <blocks>84128</blocks>
+      <modtime>2007-01-01 02:31:58+00</modtime>
+      <changetime>2011-12-28 13:53:21+00</changetime>
+      <acctime>2013-12-16 15:48:00+00</acctime>
+      <sumtime>2013-12-16 15:48:00+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive05/sensor/proc_file_descriptions.txt</path>
+      <digest algorithm='md5'>0b04161c467b63bd4b7194b4602aff8d</digest>
+      <digest algorithm='sha1'>700aed208540b8203e2442ea4b65112790afda35</digest>
+      <digest algorithm='sha256'>4ac6d5d91d9b823c4b218db9be605d56dd6347a96ceb2b758b50bec6d2b87585</digest>
+      <digest algorithm='sha384'>abf41abbec861ef1c8fbf28866a8d5bc646161b6f670cd08d0a28487fa6b446a8d5728b179128d930f8dd61daf4cf217</digest>
+      <digest algorithm='sha512'>03646b47a95415d37a15c52c366d9622ec61fbb91551bf9fbd9689d7146f56a321430c766ffbaeb1f709a2d43b46b6c6f65ef683c90828f0dac6fe2d5e33a083</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1613</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:26:14+00</modtime>
+      <changetime>2011-12-28 13:53:21+00</changetime>
+      <acctime>2013-12-16 15:48:00+00</acctime>
+      <sumtime>2013-12-16 15:48:00+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive05/sensor/raw_file_descriptions.txt</path>
+      <digest algorithm='md5'>d4d5691cbb61937056b1897c4d6e5de3</digest>
+      <digest algorithm='sha1'>e75f7da5850152ab7aa607164c2d36cc52d935b9</digest>
+      <digest algorithm='sha256'>1e0db7824c5a6ba93ffac3768480497c2a46e2febbfbae35632fbe1b3864dca1</digest>
+      <digest algorithm='sha384'>f6a642fdf8306cc73852b4077be3976c0cd28896147222ba580fc29541c5b7c39285a1222d2fdd5b439a0c809e87141b</digest>
+      <digest algorithm='sha512'>3bc39c863f21b62043b18f0a5c4f45aa479a00783afb7183c3f0013a9a473ba20231d43571acec474fb1aa2bae277d6eb95ec90c4ce036c30a9fac3a56a5c44b</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3727</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:28:00+00</modtime>
+      <changetime>2011-12-28 13:53:21+00</changetime>
+      <acctime>2013-12-16 15:48:00+00</acctime>
+      <sumtime>2013-12-16 15:48:00+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive06</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>4</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:56:34+00</modtime>
+      <changetime>2011-12-28 13:53:21+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:48:00+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive06/eventlog</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:56:34+00</modtime>
+      <changetime>2011-12-28 13:53:21+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:48:00+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive06/eventlog/eventlog.txt</path>
+      <digest algorithm='md5'>8bc929addd372dc2699b6a86cce97701</digest>
+      <digest algorithm='sha1'>e206052400290b1b44233d4a43c1b1b025fd5ae8</digest>
+      <digest algorithm='sha256'>3c2464f6437d6b4fbad1637ae7ed480129e9b359bf03eb7a38aa0a6b56159c37</digest>
+      <digest algorithm='sha384'>d48afa721d9529f328ac515af48321310c633719bbf90e228377eff38eaf15cdeadbd31da66a83ba1afac0473b73ca3d</digest>
+      <digest algorithm='sha512'>61726f05e9ff1a3db3568664fe1e92b3b5c3bfec426b89e6fac9f099510d0689dd11d4f55be107d6f0d138031bdbd1af6af6ad8c8abc43117ebf524138980dbb</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>8165</size>
+      <blksize>32768</blksize>
+      <blocks>16</blocks>
+      <modtime>2006-12-19 14:08:10+00</modtime>
+      <changetime>2011-12-28 13:53:21+00</changetime>
+      <acctime>2013-12-16 15:48:00+00</acctime>
+      <sumtime>2013-12-16 15:48:00+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive06/eventlog/eventlogWithCaptures.txt</path>
+      <digest algorithm='md5'>13933982e2083f843afc7c309475b14c</digest>
+      <digest algorithm='sha1'>14cb57b41c97a2025fbd836d77c2d37985e76d00</digest>
+      <digest algorithm='sha256'>c224f08ac976b8fb5373e477d6649d2bb46e4c3f19d8910ed8fb8dfdeefd71ca</digest>
+      <digest algorithm='sha384'>e6db9c92423265af664c5c8e8a054f1a6d0fda13613fa1f8656d6fd8a0bbee9f9ee47476af30cbe256d75f4e94f3554a</digest>
+      <digest algorithm='sha512'>db5f2078d130dede71f9ae73c69b63d9e4bc36d0ca2f9619b632bd89e24373d8d770e592c6c7d52c5c9f120e6049f107f3c6aece1aa1f6fc6fb81c861dc4a1ec</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>105665</size>
+      <blksize>32768</blksize>
+      <blocks>216</blocks>
+      <modtime>2006-12-19 14:08:10+00</modtime>
+      <changetime>2011-12-28 13:53:21+00</changetime>
+      <acctime>2013-12-16 15:48:00+00</acctime>
+      <sumtime>2013-12-16 15:48:00+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive06/sensor</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-03-30 13:56:34+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:48:00+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive06/sensor/APAS_data_proc</path>
+      <digest algorithm='md5'>d81886272278aa56164ad861fa371a68</digest>
+      <digest algorithm='sha1'>5ed940f1599ff00fd93044ba71748ea2e8f3be8f</digest>
+      <digest algorithm='sha256'>d79b9deacf45904331c2980fec37d6941eceb4b38db141e5cdfe05199836f69e</digest>
+      <digest algorithm='sha384'>ab793676aef64d3d7d72ebeec2668608a9ac3175c1cd82272893b5f1e2bba39039d1d7951c7e935090da394bf2c07bfc</digest>
+      <digest algorithm='sha512'>fc4c9c896c165fa4a95e8cdd540657641ea0a03ea30ee4aaa4858c8e80593e4732ac00e4e9d765910729b2811e28c47c1197b632b23b49c702903a24e843880c</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2875092</size>
+      <blksize>32768</blksize>
+      <blocks>5624</blocks>
+      <modtime>2007-01-01 10:51:40+00</modtime>
+      <changetime>2011-12-28 13:53:22+00</changetime>
+      <acctime>2013-12-16 15:48:00+00</acctime>
+      <sumtime>2013-12-16 15:48:00+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive06/sensor/APAS_data_raw</path>
+      <digest algorithm='md5'>c61409b50c76298d7d70d5ae161d85c8</digest>
+      <digest algorithm='sha1'>fa0ce4a72049bdd39ed00d14c38e212fac338fa9</digest>
+      <digest algorithm='sha256'>090c24e6b0453509aa74e97b7102064315fd41a5a6495f395405d040bd0b8308</digest>
+      <digest algorithm='sha384'>0a9f7d043361620f5c372963d9f9112f9aa456a360ecbd027ef89fb0e9c8c7b900c7bb68a8c3f15f78428e2aeca7adb5</digest>
+      <digest algorithm='sha512'>a29410ac1dfa5bc1623333550f3ae654142d353bcce56cae754e651d9d3ff485d45873c54d1539b131e264036b392d4f766953119201ba1ea8b66a4224d3e7ee</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>17569055</size>
+      <blksize>32768</blksize>
+      <blocks>34368</blocks>
+      <modtime>2007-01-01 00:04:06+00</modtime>
+      <changetime>2011-12-28 13:53:22+00</changetime>
+      <acctime>2013-12-16 15:48:02+00</acctime>
+      <sumtime>2013-12-16 15:48:02+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive06/sensor/CT2_data_proc</path>
+      <digest algorithm='md5'>746aef23f1030a7e4042ad1bf84ef078</digest>
+      <digest algorithm='sha1'>d69c2af4e976d017c581338b67354be4b8ee7a9a</digest>
+      <digest algorithm='sha256'>c2d52cfe46969213a0999f6b4d1116100fb824581e2235b8dacb9ebd35d93b49</digest>
+      <digest algorithm='sha384'>9b8009a6249133f1395d002025933dd66fa04f29331fce590fe9872b4cfcd292f5d84ce9fc8fa24d2d8e7a7884ff6476</digest>
+      <digest algorithm='sha512'>dc9853f3fcf2a68287eb32afd504567ec9cc65f5df4ff86a24d1f5694fbda2ae0985861a6fae8649de30fbffa33f26927e4de8c0313e234039bfdfe357c82f59</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3686026</size>
+      <blksize>32768</blksize>
+      <blocks>7208</blocks>
+      <modtime>2007-01-01 10:52:56+00</modtime>
+      <changetime>2011-12-28 13:53:22+00</changetime>
+      <acctime>2013-12-16 15:48:02+00</acctime>
+      <sumtime>2013-12-16 15:48:03+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive06/sensor/CT2_data_raw</path>
+      <digest algorithm='md5'>088cbe0751723aa97871672082475d0f</digest>
+      <digest algorithm='sha1'>98206c037c48d12aae9cbac00e1c80ae963d751c</digest>
+      <digest algorithm='sha256'>325afa91c062d31df343274fb610c78395be23faefe66a06131adcbf7c877eda</digest>
+      <digest algorithm='sha384'>1c780a47245a804789932fa07dbdcb5aeec395d6deffd227c733cace5a4a95756aa0d10d18cafdd0a163cd1d218c14a6</digest>
+      <digest algorithm='sha512'>ce59e53f91691ab0effbe28a4f911d3bcbce49984aff23726e8d7e867c0e8f7d1f278244fc38ca81a847efa8d5e50f0f9a5c9e4a49e326b4be5137bea1fffd40</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>14964915</size>
+      <blksize>32768</blksize>
+      <blocks>29272</blocks>
+      <modtime>2007-01-01 00:04:04+00</modtime>
+      <changetime>2011-12-28 13:53:22+00</changetime>
+      <acctime>2013-12-16 15:48:04+00</acctime>
+      <sumtime>2013-12-16 15:48:04+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive06/sensor/JDS_data_proc</path>
+      <digest algorithm='md5'>6efb78112033f82ff634a3507950bf83</digest>
+      <digest algorithm='sha1'>8371ef912047567e6ec20b31219807ea18204a99</digest>
+      <digest algorithm='sha256'>05d0ebca368ee7d854d8886ffa40c758b09e80e038cd794ad524cfa105d663f9</digest>
+      <digest algorithm='sha384'>0d1bbf5c43f117034bbf840cba2134a016c5c88dbb84272cef5c296332889dd31a8589a395bb32ac92c03bec8ab41407</digest>
+      <digest algorithm='sha512'>7e7f9da985ff98c9e39ce36b1d89df163394ce93d19af7ac21bef20edf42dd55a7b0f014d3ec551960e39a46ea8be65fa7ec4c33c3fff9345f7f5c67421e4be8</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>5438209</size>
+      <blksize>32768</blksize>
+      <blocks>10648</blocks>
+      <modtime>2007-01-01 10:54:10+00</modtime>
+      <changetime>2011-12-28 13:53:22+00</changetime>
+      <acctime>2013-12-16 15:48:04+00</acctime>
+      <sumtime>2013-12-16 15:48:04+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive06/sensor/JDS_data_raw</path>
+      <digest algorithm='md5'>ba3db4aaf9250fb11d4e9a5be24be2b3</digest>
+      <digest algorithm='sha1'>6d34412b9adbbe4c677686e3cbc5eb1125244515</digest>
+      <digest algorithm='sha256'>718309c952e49a75574f41d64b8eb7431115903e9b98c10fe45882b9a0249d9e</digest>
+      <digest algorithm='sha384'>629cbfb821a72c13c462641340394fa89c6782a6229a0a59c777347dc89f03efab127ca60f3382099556a65fad0ff5dd</digest>
+      <digest algorithm='sha512'>d97745b306fb690108e3bb03549e686d89135685ac5f951e3b5521a59a2a459924162084b45790b2b243a8691eb4cf9ff66975086ecaf3c6b35f2f5602186b86</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>8392489</size>
+      <blksize>32768</blksize>
+      <blocks>16416</blocks>
+      <modtime>2007-01-01 00:04:02+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 15:48:05+00</acctime>
+      <sumtime>2013-12-16 15:48:05+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive06/sensor/O2S_data_proc</path>
+      <digest algorithm='md5'>dd5b219c25e13994d7eaefa665e087a5</digest>
+      <digest algorithm='sha1'>0d300aa3d1e6c3d09855b69b4255cc195f24fe1c</digest>
+      <digest algorithm='sha256'>d7c433c3bd8822b04db716fbd08486b17efbe3b5624a24c958c37303a3499e74</digest>
+      <digest algorithm='sha384'>1a87bb1004a69ebae6ccee54c629f722093fc741a81f2c755052ab3b7d62e3a79c5103bbae06a6c4599ca7670690eb54</digest>
+      <digest algorithm='sha512'>41a9a0b4a4f33ccd802d3eb1ce040fa249b5a69451dc620d387ac0d6f4bbb61dfcebdc4c32d07915638a714d7a4b589286dca97e7053e30028212907a0b0d2d7</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2363681</size>
+      <blksize>32768</blksize>
+      <blocks>4632</blocks>
+      <modtime>2007-01-01 10:55:46+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 15:48:05+00</acctime>
+      <sumtime>2013-12-16 15:48:05+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive06/sensor/O2S_data_raw</path>
+      <digest algorithm='md5'>ebedea0649146a965c0a08b53cbc5d95</digest>
+      <digest algorithm='sha1'>956090b614354c7401fe19b67b596471e197c055</digest>
+      <digest algorithm='sha256'>9f889e6963865cf6f573e3e370e5526275a5bcd14de14e0d90dc332d4009d5c2</digest>
+      <digest algorithm='sha384'>f4e3300c23a241b7ef03efd9502820516e40b46bb2d5dc8669793caa7f195f59eef79e32c85018355445f8e829663ecc</digest>
+      <digest algorithm='sha512'>821c76f786670596cb607ab79c83abc0d9f24313e411c4ad8e555c68a8a03ce32639b216377ced653b1caeba60b5cfdb483552022acf81fb070cd3a77330619a</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>15217336</size>
+      <blksize>32768</blksize>
+      <blocks>29768</blocks>
+      <modtime>2007-01-01 00:04:02+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 15:48:06+00</acctime>
+      <sumtime>2013-12-16 15:48:06+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive06/sensor/proc_file_descriptions.txt</path>
+      <digest algorithm='md5'>0b04161c467b63bd4b7194b4602aff8d</digest>
+      <digest algorithm='sha1'>700aed208540b8203e2442ea4b65112790afda35</digest>
+      <digest algorithm='sha256'>4ac6d5d91d9b823c4b218db9be605d56dd6347a96ceb2b758b50bec6d2b87585</digest>
+      <digest algorithm='sha384'>abf41abbec861ef1c8fbf28866a8d5bc646161b6f670cd08d0a28487fa6b446a8d5728b179128d930f8dd61daf4cf217</digest>
+      <digest algorithm='sha512'>03646b47a95415d37a15c52c366d9622ec61fbb91551bf9fbd9689d7146f56a321430c766ffbaeb1f709a2d43b46b6c6f65ef683c90828f0dac6fe2d5e33a083</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1613</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:26:18+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 15:48:06+00</acctime>
+      <sumtime>2013-12-16 15:48:06+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/submersible/Submersible_Sensor_Raw_Data/dive06/sensor/raw_file_descriptions.txt</path>
+      <digest algorithm='md5'>d4d5691cbb61937056b1897c4d6e5de3</digest>
+      <digest algorithm='sha1'>e75f7da5850152ab7aa607164c2d36cc52d935b9</digest>
+      <digest algorithm='sha256'>1e0db7824c5a6ba93ffac3768480497c2a46e2febbfbae35632fbe1b3864dca1</digest>
+      <digest algorithm='sha384'>f6a642fdf8306cc73852b4077be3976c0cd28896147222ba580fc29541c5b7c39285a1222d2fdd5b439a0c809e87141b</digest>
+      <digest algorithm='sha512'>3bc39c863f21b62043b18f0a5c4f45aa479a00783afb7183c3f0013a9a473ba20231d43571acec474fb1aa2bae277d6eb95ec90c4ce036c30a9fac3a56a5c44b</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3727</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2007-01-04 09:28:02+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 15:48:06+00</acctime>
+      <sumtime>2013-12-16 15:48:06+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:18:10+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:48:06+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>7</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:25:13+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:48:06+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive01</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:19:05+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:48:06+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive01/navigation</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:21:33+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:48:06+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive01/navigation/HYPACK_DATA_VESSEL</path>
+      <digest algorithm='md5'>5496840220d8e579b4bd982570841f40</digest>
+      <digest algorithm='sha1'>50adfa89daf015e9de083aff611cef44e0f670f3</digest>
+      <digest algorithm='sha256'>c6b1cd29c2c653dc4081de1a2cc6ffd3c471b10162418241d141426168e896f1</digest>
+      <digest algorithm='sha384'>7e67f98fe257cc6ddd75e1f4546874625008d13a1d751f50ec7a8f980819917af39c85682c556b4276f3bf7cb6e5c16c</digest>
+      <digest algorithm='sha512'>9bd68b9638a2f25f349cbc9912de89b9a25a183696a835990748e85093baca822bd7a53e6b434c25bcc54d415cc94fd3f79d1dfa2bc36d0f05edb6a9ebbf90bb</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3852781</size>
+      <blksize>32768</blksize>
+      <blocks>7536</blocks>
+      <modtime>2006-12-31 13:31:34+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 15:48:06+00</acctime>
+      <sumtime>2013-12-16 15:48:07+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive01/navigation/nav_file_descriptions.txt</path>
+      <digest algorithm='md5'>0510ad9973ca9498c538605a9234f407</digest>
+      <digest algorithm='sha1'>f867ae1470dcf8e3bfd7d5f2fef445f66555474a</digest>
+      <digest algorithm='sha256'>9899b604cfb8500182d32f97712496aa0ba325da8e3c1de37a0e4aee783d801d</digest>
+      <digest algorithm='sha384'>229102d33a65872774831e9829b116502c7e3a2ffd7215c2bef15211040f8c7f6b18c2755b2008b53c1462b146ae0668</digest>
+      <digest algorithm='sha512'>7b95900932de8fedc306c766f369df4bcfb98b7015f14faaa346503622d112abc4d5fad8645f53ca9692b40de6675e81c493039ce273d28983ce83417ea60c03</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2000</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:21:33+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 15:48:07+00</acctime>
+      <sumtime>2013-12-16 15:48:07+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive02</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:21:54+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:48:07+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive02/navigation</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:22:34+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:48:07+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive02/navigation/HYPACK_DATA_VESSEL</path>
+      <digest algorithm='md5'>ee2d12989b2abc5bde682ac8ace30ffd</digest>
+      <digest algorithm='sha1'>ea43a439142a73f8372ae26bdaf908e7a062ff91</digest>
+      <digest algorithm='sha256'>0aab1d741d299b6278d0770227820907feecaed58b600274d8da52ce3a3c3dd9</digest>
+      <digest algorithm='sha384'>29a3cbf98507c9fc69e908751c2789232e302bb5917430c3d9b652a1379affa67038d07ee8145cd5fd968904c3039c5a</digest>
+      <digest algorithm='sha512'>646f7bdecb25790152f40e51367bc866ed87a9ec84ca3b90ff33d6c3440479ca598a09c5df05b2583adc3493750b8cbaaf11eba2ef974930d84ab9fce57e1b25</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2593209</size>
+      <blksize>32768</blksize>
+      <blocks>5080</blocks>
+      <modtime>2006-12-31 13:38:58+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 15:48:07+00</acctime>
+      <sumtime>2013-12-16 15:48:07+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive02/navigation/nav_file_descriptions.txt</path>
+      <digest algorithm='md5'>0510ad9973ca9498c538605a9234f407</digest>
+      <digest algorithm='sha1'>f867ae1470dcf8e3bfd7d5f2fef445f66555474a</digest>
+      <digest algorithm='sha256'>9899b604cfb8500182d32f97712496aa0ba325da8e3c1de37a0e4aee783d801d</digest>
+      <digest algorithm='sha384'>229102d33a65872774831e9829b116502c7e3a2ffd7215c2bef15211040f8c7f6b18c2755b2008b53c1462b146ae0668</digest>
+      <digest algorithm='sha512'>7b95900932de8fedc306c766f369df4bcfb98b7015f14faaa346503622d112abc4d5fad8645f53ca9692b40de6675e81c493039ce273d28983ce83417ea60c03</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2000</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:22:34+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 15:48:07+00</acctime>
+      <sumtime>2013-12-16 15:48:07+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive03</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:23:19+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:48:07+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive03/navigation</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:23:40+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:48:07+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive03/navigation/HYPACK_DATA_VESSEL</path>
+      <digest algorithm='md5'>9a40e9af5e813e1828912af287722ab9</digest>
+      <digest algorithm='sha1'>6f6828819a400738331f82866e4d49a5a4a28549</digest>
+      <digest algorithm='sha256'>c54cf8e0ad14a4461a07e4f736c353f30083ff4664f4259a9457abb4a05b3701</digest>
+      <digest algorithm='sha384'>7d339fc0ea6ba37d3b2dd40cbac1418212607500cfa9a60ffef087802b3a17a2b172c94b7899d536149a7f582c790cce</digest>
+      <digest algorithm='sha512'>e79cc30e8f3b25b3ff7bcc73aebc1981429143bdad4fde6170cff6f5eaa6a9e8e1ee1429ca7d26f3e24bf132e93fb9a60ae3bb4d21453c07f5deeb7450056ffa</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>931434</size>
+      <blksize>32768</blksize>
+      <blocks>1832</blocks>
+      <modtime>2006-12-31 13:46:56+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 15:48:07+00</acctime>
+      <sumtime>2013-12-16 15:48:07+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive03/navigation/nav_file_descriptions.txt</path>
+      <digest algorithm='md5'>0510ad9973ca9498c538605a9234f407</digest>
+      <digest algorithm='sha1'>f867ae1470dcf8e3bfd7d5f2fef445f66555474a</digest>
+      <digest algorithm='sha256'>9899b604cfb8500182d32f97712496aa0ba325da8e3c1de37a0e4aee783d801d</digest>
+      <digest algorithm='sha384'>229102d33a65872774831e9829b116502c7e3a2ffd7215c2bef15211040f8c7f6b18c2755b2008b53c1462b146ae0668</digest>
+      <digest algorithm='sha512'>7b95900932de8fedc306c766f369df4bcfb98b7015f14faaa346503622d112abc4d5fad8645f53ca9692b40de6675e81c493039ce273d28983ce83417ea60c03</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2000</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:23:40+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 15:48:07+00</acctime>
+      <sumtime>2013-12-16 15:48:07+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive04</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:24:09+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:48:07+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive04/navigation</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:24:34+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:48:07+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive04/navigation/HYPACK_DATA_VESSEL</path>
+      <digest algorithm='md5'>fe232a68f686ba5715dfbe93b36ef523</digest>
+      <digest algorithm='sha1'>4e9f95e757398a14f366d0ac5622858606e2e959</digest>
+      <digest algorithm='sha256'>bb85ab7e219cf5ab4642edae0145c146e47244cf5939d5068c81f87348864fba</digest>
+      <digest algorithm='sha384'>fc19d06d2de8b692f3c7052bda1769a6bfd2ee3b62ff58c28b7d049206aaa3f8a7e193e199f4597e80b42619b88d4187</digest>
+      <digest algorithm='sha512'>54b051a6221db5dd21ce97ed2ec58927a87a724df01c06da16b0b5220c233e99d5f721866390e94864817e8f7d7ab924ace220ad0c34d389ba872abf8f81649a</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>3871126</size>
+      <blksize>32768</blksize>
+      <blocks>7576</blocks>
+      <modtime>2006-12-31 13:52:20+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 15:48:07+00</acctime>
+      <sumtime>2013-12-16 15:48:07+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive04/navigation/nav_file_descriptions.txt</path>
+      <digest algorithm='md5'>0510ad9973ca9498c538605a9234f407</digest>
+      <digest algorithm='sha1'>f867ae1470dcf8e3bfd7d5f2fef445f66555474a</digest>
+      <digest algorithm='sha256'>9899b604cfb8500182d32f97712496aa0ba325da8e3c1de37a0e4aee783d801d</digest>
+      <digest algorithm='sha384'>229102d33a65872774831e9829b116502c7e3a2ffd7215c2bef15211040f8c7f6b18c2755b2008b53c1462b146ae0668</digest>
+      <digest algorithm='sha512'>7b95900932de8fedc306c766f369df4bcfb98b7015f14faaa346503622d112abc4d5fad8645f53ca9692b40de6675e81c493039ce273d28983ce83417ea60c03</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2000</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:24:34+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 15:48:07+00</acctime>
+      <sumtime>2013-12-16 15:48:07+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive06</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:25:20+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:48:07+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive06/navigation</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxr-xr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:25:47+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 08:25:48+00</acctime>
+      <sumtime>2013-12-16 15:48:07+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive06/navigation/HYPACK_DATA_VESSEL</path>
+      <digest algorithm='md5'>e891b0c4a23b4aff962ec6c29afdf9f5</digest>
+      <digest algorithm='sha1'>5b0fde43a3479fb671c0591745a0a3872f6f8dca</digest>
+      <digest algorithm='sha256'>80530dd5eca9883ec46b73ffb288b3d68db48487b045ce269a6db56fbad25c76</digest>
+      <digest algorithm='sha384'>363e00a7163b1db39a8e19993f6af2b8f703a127b6923459a5b8a1548b3b7fe6eda5baf40ff4b780b22634babeb28f0c</digest>
+      <digest algorithm='sha512'>58ad2dcd84b15897a12b0aec4b0fd40931d885d7faa597d26b1d4a098449fca2b3a12af4cc73c7b7e3cd888a5effcd5755eb6af3547ebc2179c240b05116fad7</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4948402</size>
+      <blksize>32768</blksize>
+      <blocks>9696</blocks>
+      <modtime>2006-12-31 15:37:10+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 15:48:08+00</acctime>
+      <sumtime>2013-12-16 15:48:08+00</sumtime>
+    </file>
+    <file>
+      <path>data/0-data/vessel/Ship_Navigation/dive06/navigation/nav_file_descriptions.txt</path>
+      <digest algorithm='md5'>0510ad9973ca9498c538605a9234f407</digest>
+      <digest algorithm='sha1'>f867ae1470dcf8e3bfd7d5f2fef445f66555474a</digest>
+      <digest algorithm='sha256'>9899b604cfb8500182d32f97712496aa0ba325da8e3c1de37a0e4aee783d801d</digest>
+      <digest algorithm='sha384'>229102d33a65872774831e9829b116502c7e3a2ffd7215c2bef15211040f8c7f6b18c2755b2008b53c1462b146ae0668</digest>
+      <digest algorithm='sha512'>7b95900932de8fedc306c766f369df4bcfb98b7015f14faaa346503622d112abc4d5fad8645f53ca9692b40de6675e81c493039ce273d28983ce83417ea60c03</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2000</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2011-12-21 20:25:47+00</modtime>
+      <changetime>2011-12-28 13:53:23+00</changetime>
+      <acctime>2013-12-16 15:48:08+00</acctime>
+      <sumtime>2013-12-16 15:48:08+00</sumtime>
+    </file>
+  </files>
+</accession>

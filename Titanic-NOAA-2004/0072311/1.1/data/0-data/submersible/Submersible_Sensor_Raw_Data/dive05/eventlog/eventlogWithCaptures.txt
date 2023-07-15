@@ -1,0 +1,4399 @@
+1086392025 Prepared for Dive #5
+1086392075 pole down, ship northwest of wreck
+1086392096 will drive southeast while vehicles descend
+1086392134 herc being lifted
+1086392188 herc power on; vehicle hitting water
+1086392228 herc butt cam'
+1086392271 herc butt cam
+1086392283 vehicle free
+1086392290 driving aft
+1086392299 ready to launch argus
+1086392354 frame grabs of argus SD
+1086392420 argus being lifted, aframe going out
+1086392469 vehicles going down, 10m deep
+1086392522 20m wire out
+1086392549 30m
+1086392620 50m , transfer control
+1086392661 tracking is good on both vehicles
+1086392902 150m down
+1086393001 170m 
+1086393080 200m
+1086393367 Hercules @ 300m
+1086393622 Herc @ 400m
+1086393900 Herc @ 500m
+1086394199 Herc @ 600m
+1086394479 Herfc @ 700m
+1086394819 Herc @  830m
+1086395291 Herc @ 1000m
+1086395573 Herc @ 1100m
+1086395597 Hercules, Day 566  The pilots continue to throw me over the side of the boat.  
+1086395653 I continue to live in a constant state of stickiness, due to their instistence to coat me with some blue-green goop.
+1086395831 Herc @ 1200m
+1086395838 Testing Kraft manipulator
+1086395894 Working fine, stowing arm
+1086396127 Herc @ 1300m
+1086396410 Herc @ 1400m
+1086396703 Herc @ 1500m
+1086396974 Herc @ 1600m
+1086398142 Herc @ 2000m
+1086398440 Herc @ 2100m
+1086398728 Herc @ 2200m
+1086399024 Herc @ 2300m
+1086399313 Herc @ 2400m
+1086399618 Herc @ 2500m
+1086399917 Herc @ 2600m
+1086400228 Herc @ 2700m
+1086400522 Herc @ 2800m
+1086400597 1st bottom target is "Bob 1986 plaque"
+1086400762 Testing Kraft manipulator again... looks good
+1086400827 Herc @ 2900m
+1086401137 Herc @ 3000m
+1086401448 Herc @ 3100m
+1086401763 Herc @ 3200m
+1086402092 Herc @ 3300m
+1086402387 Herc @ 3400m
+1086402708 Herc @ 3500m
+1086402745 Ship holding position until vehicles settle out
+1086403027 Herc @ 3600m
+1086403346 Herc @ 3700m
+1086403360 About 70 m to bottom
+1086403458 Altimeter reading bottom @ 55m
+1086403547 Herc @ 3760m
+1086403601 Altimeter @ 10m
+1086403607 Bottom in sight
+1086403712 Bottom is 3784m
+1086403783 Preparing move towards bow
+1086403833 Standby on calling ship move
+1086404132 framegrab -> 1086404132.tif
+1086404180 framegrab -> 1086404180.tif
+1086404202 framegrab -> 1086404202.tif
+1086404367 Heading towards bow
+1086404747 Called ship move 100m @ 070 degrees, 0.2 knots
+1086405003 Slowly closing in on bow...
+1086405163 Distance to target 160m
+1086405185 Target is forward bow
+1086405324 Currently doing live broadcast for Immersion Project
+1086405575 Range 150m
+1086405595 Sub tracks visible
+1086405929 Ship move complete
+1086406068 Zooming in on small debris
+1086406172 framegrab -> 1086406172.tif
+1086406208 framegrab -> 1086406208.tif
+1086406224 framegrab -> 1086406224.tif
+1086406228 Boulder w  coral
+1086406294 framegrab -> 1086406294.tif
+1086406356 framegrab -> 1086406356.tif
+1086406361 Range to target 110m
+1086406376 framegrab -> 1086406376.tif
+1086406493 Looking at some metal debris
+1086406502 framegrab -> 1086406502.tif
+1086406512 Possibly tile
+1086406516 framegrab -> 1086406516.tif
+1086406786 framegrab -> 1086406786.tif
+1086406789 Piece of porcelain
+1086406796 framegrab -> 1086406796.tif
+1086406802 framegrab -> 1086406802.tif
+1086406854 Range is 90m
+1086406927 Calling ship move 30m @ 095 degrees at 0.295 knots
+1086406989 Watch change
+1086407180 framegrab -> 1086407180.tif
+1086407258 framegrab -> 1086407258.tif
+1086407270 framegrab -> 1086407270.tif
+1086407436 framegrab -> 1086407436.tif
+1086407450 framegrab -> 1086407450.tif
+1086407470 framegrab -> 1086407470.tif
+1086407481 bedframe with bamboo coral
+1086407490 framegrab -> 1086407490.tif
+1086407502 framegrab -> 1086407502.tif
+1086407508 framegrab -> 1086407508.tif
+1086407512 framegrab -> 1086407512.tif
+1086407536 framegrab -> 1086407536.tif
+1086407542 framegrab -> 1086407542.tif
+1086407590 framegrab -> 1086407590.tif
+1086407596 framegrab -> 1086407596.tif
+1086407604 framegrab -> 1086407604.tif
+1086407672 framegrab -> 1086407672.tif
+1086407704 framegrab -> 1086407704.tif
+1086407710 framegrab -> 1086407710.tif
+1086407716 framegrab -> 1086407716.tif
+1086407815 piece of tile?
+1086407874 framegrab -> 1086407874.tif
+1086407880 framegrab -> 1086407880.tif
+1086407884 framegrab -> 1086407884.tif
+1086407890 framegrab -> 1086407890.tif
+1086407968 framegrab -> 1086407968.tif
+1086407976 framegrab -> 1086407976.tif
+1086407984 framegrab -> 1086407984.tif
+1086407992 framegrab -> 1086407992.tif
+1086408052 framegrab -> 1086408052.tif
+1086408058 framegrab -> 1086408058.tif
+1086408127 closing in on the port side of bow section
+1086408258 framegrab -> 1086408258.tif
+1086408286 framegrab -> 1086408286.tif
+1086408323 Immersion program at Mystic to begin
+1086408362 framegrab -> 1086408362.tif
+1086408368 framegrab -> 1086408368.tif
+1086408380 framegrab -> 1086408380.tif
+1086408382 plaque and bio platform in view and Herc is picking them up
+1086408390 framegrab -> 1086408390.tif
+1086408412 framegrab -> 1086408412.tif
+1086408428 Herc and Argus stabilizing and getting into position to pick items up for Immersion show
+1086408432 framegrab -> 1086408432.tif
+1086408460 framegrab -> 1086408460.tif
+1086408541 Herc picking up plaque
+1086408606 framegrab -> 1086408606.tif
+1086408612 framegrab -> 1086408612.tif
+1086408618 framegrab -> 1086408618.tif
+1086408624 framegrab -> 1086408624.tif
+1086408628 framegrab -> 1086408628.tif
+1086408634 framegrab -> 1086408634.tif
+1086408640 framegrab -> 1086408640.tif
+1086408645 placing plaque into bio box
+1086408783 Herc maneuvering to pick up bio platform
+1086408790 framegrab -> 1086408790.tif
+1086408906 framegrab -> 1086408906.tif
+1086409078 framegrab -> 1086409078.tif
+1086409088 framegrab -> 1086409088.tif
+1086409134 bio platform picked up
+1086409166 At the bow and can see Roy's bio platform placed here in 1998
+1086409178 framegrab -> 1086409178.tif
+1086409184 framegrab -> 1086409184.tif
+1086409190 framegrab -> 1086409190.tif
+1086409200 framegrab -> 1086409200.tif
+1086409224 framegrab -> 1086409224.tif
+1086409236 framegrab -> 1086409236.tif
+1086409241 bio platform C
+1086409242 framegrab -> 1086409242.tif
+1086409252 framegrab -> 1086409252.tif
+1086409256 framegrab -> 1086409256.tif
+1086409262 framegrab -> 1086409262.tif
+1086409268 framegrab -> 1086409268.tif
+1086409272 framegrab -> 1086409272.tif
+1086409278 framegrab -> 1086409278.tif
+1086409284 framegrab -> 1086409284.tif
+1086409288 framegrab -> 1086409288.tif
+1086409294 framegrab -> 1086409294.tif
+1086409296 objective is to video document and not retrieve 
+1086409300 framegrab -> 1086409300.tif
+1086409306 framegrab -> 1086409306.tif
+1086409310 framegrab -> 1086409310.tif
+1086409316 framegrab -> 1086409316.tif
+1086409322 framegrab -> 1086409322.tif
+1086409326 framegrab -> 1086409326.tif
+1086409364 framegrab -> 1086409364.tif
+1086409367 moving up bow
+1086409370 framegrab -> 1086409370.tif
+1086409376 framegrab -> 1086409376.tif
+1086409382 framegrab -> 1086409382.tif
+1086409386 framegrab -> 1086409386.tif
+1086409392 framegrab -> 1086409392.tif
+1086409398 framegrab -> 1086409398.tif
+1086409402 framegrab -> 1086409402.tif
+1086409408 framegrab -> 1086409408.tif
+1086409412 framegrab -> 1086409412.tif
+1086409418 framegrab -> 1086409418.tif
+1086409424 framegrab -> 1086409424.tif
+1086409428 framegrab -> 1086409428.tif
+1086409434 framegrab -> 1086409434.tif
+1086409440 framegrab -> 1086409440.tif
+1086409444 framegrab -> 1086409444.tif
+1086409450 framegrab -> 1086409450.tif
+1086409456 framegrab -> 1086409456.tif
+1086409460 framegrab -> 1086409460.tif
+1086409466 framegrab -> 1086409466.tif
+1086409472 framegrab -> 1086409472.tif
+1086409476 framegrab -> 1086409476.tif
+1086409482 framegrab -> 1086409482.tif
+1086409486 framegrab -> 1086409486.tif
+1086409492 framegrab -> 1086409492.tif
+1086409496 framegrab -> 1086409496.tif
+1086409502 framegrab -> 1086409502.tif
+1086409508 framegrab -> 1086409508.tif
+1086409512 framegrab -> 1086409512.tif
+1086409518 framegrab -> 1086409518.tif
+1086409524 framegrab -> 1086409524.tif
+1086409528 framegrab -> 1086409528.tif
+1086409534 framegrab -> 1086409534.tif
+1086409540 framegrab -> 1086409540.tif
+1086409546 framegrab -> 1086409546.tif
+1086409550 framegrab -> 1086409550.tif
+1086409556 framegrab -> 1086409556.tif
+1086409562 framegrab -> 1086409562.tif
+1086409568 framegrab -> 1086409568.tif
+1086409572 framegrab -> 1086409572.tif
+1086409578 framegrab -> 1086409578.tif
+1086409584 framegrab -> 1086409584.tif
+1086409588 framegrab -> 1086409588.tif
+1086409594 framegrab -> 1086409594.tif
+1086409600 framegrab -> 1086409600.tif
+1086409606 framegrab -> 1086409606.tif
+1086409610 framegrab -> 1086409610.tif
+1086409616 framegrab -> 1086409616.tif
+1086409622 framegrab -> 1086409622.tif
+1086409626 framegrab -> 1086409626.tif
+1086409632 framegrab -> 1086409632.tif
+1086409638 framegrab -> 1086409638.tif
+1086409642 framegrab -> 1086409642.tif
+1086409648 framegrab -> 1086409648.tif
+1086409652 framegrab -> 1086409652.tif
+1086409658 framegrab -> 1086409658.tif
+1086409664 framegrab -> 1086409664.tif
+1086409668 framegrab -> 1086409668.tif
+1086409674 framegrab -> 1086409674.tif
+1086409678 framegrab -> 1086409678.tif
+1086409684 framegrab -> 1086409684.tif
+1086409690 framegrab -> 1086409690.tif
+1086409696 framegrab -> 1086409696.tif
+1086409702 framegrab -> 1086409702.tif
+1086409706 framegrab -> 1086409706.tif
+1086409712 framegrab -> 1086409712.tif
+1086409718 framegrab -> 1086409718.tif
+1086409722 framegrab -> 1086409722.tif
+1086409728 framegrab -> 1086409728.tif
+1086409734 framegrab -> 1086409734.tif
+1086409743 moving down port side to anchor to place plaque near anchor
+1086409744 framegrab -> 1086409744.tif
+1086409754 framegrab -> 1086409754.tif
+1086409788 framegrab -> 1086409788.tif
+1086409901 bio platform that was picked up is still in Herc manipulator
+1086409947 plan is to put bio platform down, place plaque, and then pick up bio platform again and try to place in bio box
+1086410366 Requesting ship to move 15 meters at course of 210
+1086410390 framegrab -> 1086410390.tif
+1086410396 framegrab -> 1086410396.tif
+1086410406 framegrab -> 1086410406.tif
+1086410420 framegrab -> 1086410420.tif
+1086410440 framegrab -> 1086410440.tif
+1086410452 framegrab -> 1086410452.tif
+1086410474 framegrab -> 1086410474.tif
+1086410704 framegrab -> 1086410704.tif
+1086410728 framegrab -> 1086410728.tif
+1086410776 framegrab -> 1086410776.tif
+1086410993 ship move completed
+1086411002 bringing Herc under Argus to point of bow
+1086411066 framegrab -> 1086411066.tif
+1086411070 framegrab -> 1086411070.tif
+1086411106 framegrab -> 1086411106.tif
+1086411112 framegrab -> 1086411112.tif
+1086411116 framegrab -> 1086411116.tif
+1086411122 framegrab -> 1086411122.tif
+1086411128 framegrab -> 1086411128.tif
+1086411138 framegrab -> 1086411138.tif
+1086411142 framegrab -> 1086411142.tif
+1086411148 framegrab -> 1086411148.tif
+1086411154 framegrab -> 1086411154.tif
+1086411164 framegrab -> 1086411164.tif
+1086411168 framegrab -> 1086411168.tif
+1086411175 Amazing shot of bow from above
+1086411200 framegrab -> 1086411200.tif
+1086411206 framegrab -> 1086411206.tif
+1086411210 framegrab -> 1086411210.tif
+1086411216 framegrab -> 1086411216.tif
+1086411222 framegrab -> 1086411222.tif
+1086411226 framegrab -> 1086411226.tif
+1086411232 framegrab -> 1086411232.tif
+1086411238 framegrab -> 1086411238.tif
+1086411242 framegrab -> 1086411242.tif
+1086411248 framegrab -> 1086411248.tif
+1086411252 framegrab -> 1086411252.tif
+1086411258 framegrab -> 1086411258.tif
+1086411264 framegrab -> 1086411264.tif
+1086411268 framegrab -> 1086411268.tif
+1086411274 framegrab -> 1086411274.tif
+1086411280 framegrab -> 1086411280.tif
+1086411286 framegrab -> 1086411286.tif
+1086411290 framegrab -> 1086411290.tif
+1086411296 framegrab -> 1086411296.tif
+1086411302 framegrab -> 1086411302.tif
+1086411306 framegrab -> 1086411306.tif
+1086411312 framegrab -> 1086411312.tif
+1086411316 framegrab -> 1086411316.tif
+1086411322 framegrab -> 1086411322.tif
+1086411328 framegrab -> 1086411328.tif
+1086411334 framegrab -> 1086411334.tif
+1086411338 framegrab -> 1086411338.tif
+1086411346 framegrab -> 1086411346.tif
+1086411350 framegrab -> 1086411350.tif
+1086411356 framegrab -> 1086411356.tif
+1086411362 framegrab -> 1086411362.tif
+1086411366 framegrab -> 1086411366.tif
+1086411372 framegrab -> 1086411372.tif
+1086411376 framegrab -> 1086411376.tif
+1086411382 framegrab -> 1086411382.tif
+1086411388 framegrab -> 1086411388.tif
+1086411392 framegrab -> 1086411392.tif
+1086411398 framegrab -> 1086411398.tif
+1086411404 framegrab -> 1086411404.tif
+1086411408 framegrab -> 1086411408.tif
+1086411414 framegrab -> 1086411414.tif
+1086411418 framegrab -> 1086411418.tif
+1086411424 framegrab -> 1086411424.tif
+1086411430 framegrab -> 1086411430.tif
+1086411446 framegrab -> 1086411446.tif
+1086411454 framegrab -> 1086411454.tif
+1086411458 framegrab -> 1086411458.tif
+1086411464 framegrab -> 1086411464.tif
+1086411470 framegrab -> 1086411470.tif
+1086411474 framegrab -> 1086411474.tif
+1086411518 framegrab -> 1086411518.tif
+1086411522 framegrab -> 1086411522.tif
+1086411528 framegrab -> 1086411528.tif
+1086411534 framegrab -> 1086411534.tif
+1086411803 waiting for Argus to realize ship's move
+1086411815 keeping vehicles above deck for safety
+1086411892 framegrab -> 1086411892.tif
+1086411898 framegrab -> 1086411898.tif
+1086411936 framegrab -> 1086411936.tif
+1086411946 framegrab -> 1086411946.tif
+1086411952 framegrab -> 1086411952.tif
+1086411958 framegrab -> 1086411958.tif
+1086411970 framegrab -> 1086411970.tif
+1086411980 framegrab -> 1086411980.tif
+1086411988 framegrab -> 1086411988.tif
+1086411996 framegrab -> 1086411996.tif
+1086412072 framegrab -> 1086412072.tif
+1086412078 framegrab -> 1086412078.tif
+1086412084 framegrab -> 1086412084.tif
+1086412118 framegrab -> 1086412118.tif
+1086412122 framegrab -> 1086412122.tif
+1086412130 framegrab -> 1086412130.tif
+1086412142 framegrab -> 1086412142.tif
+1086412150 framegrab -> 1086412150.tif
+1086412186 framegrab -> 1086412186.tif
+1086412258 framegrab -> 1086412258.tif
+1086412274 framegrab -> 1086412274.tif
+1086412288 framegrab -> 1086412288.tif
+1086412326 framegrab -> 1086412326.tif
+1086412362 framegrab -> 1086412362.tif
+1086412366 framegrab -> 1086412366.tif
+1086412372 framegrab -> 1086412372.tif
+1086412378 framegrab -> 1086412378.tif
+1086412384 framegrab -> 1086412384.tif
+1086412390 framegrab -> 1086412390.tif
+1086412400 framegrab -> 1086412400.tif
+1086412412 framegrab -> 1086412412.tif
+1086412420 framegrab -> 1086412420.tif
+1086412430 framegrab -> 1086412430.tif
+1086412434 framegrab -> 1086412434.tif
+1086412458 framegrab -> 1086412458.tif
+1086412538 framegrab -> 1086412538.tif
+1086412558 framegrab -> 1086412558.tif
+1086412580 framegrab -> 1086412580.tif
+1086412584 framegrab -> 1086412584.tif
+1086412590 framegrab -> 1086412590.tif
+1086412602 framegrab -> 1086412602.tif
+1086412608 framegrab -> 1086412608.tif
+1086412614 framegrab -> 1086412614.tif
+1086412618 framegrab -> 1086412618.tif
+1086412624 framegrab -> 1086412624.tif
+1086412630 framegrab -> 1086412630.tif
+1086412638 framegrab -> 1086412638.tif
+1086412644 framegrab -> 1086412644.tif
+1086412650 framegrab -> 1086412650.tif
+1086412654 framegrab -> 1086412654.tif
+1086412662 close up of delicate purple coral on tip of bow railing
+1086412662 framegrab -> 1086412662.tif
+1086412667 close up of bow crinoid
+1086412678 framegrab -> 1086412678.tif
+1086412686 framegrab -> 1086412686.tif
+1086412692 framegrab -> 1086412692.tif
+1086412696 framegrab -> 1086412696.tif
+1086412708 framegrab -> 1086412708.tif
+1086412716 framegrab -> 1086412716.tif
+1086412722 gastropod above crinoid?
+1086412726 framegrab -> 1086412726.tif
+1086412736 framegrab -> 1086412736.tif
+1086412750 framegrab -> 1086412750.tif
+1086412794 framegrab -> 1086412794.tif
+1086412798 framegrab -> 1086412798.tif
+1086412804 framegrab -> 1086412804.tif
+1086412810 framegrab -> 1086412810.tif
+1086412816 framegrab -> 1086412816.tif
+1086412820 framegrab -> 1086412820.tif
+1086412830 framegrab -> 1086412830.tif
+1086412844 framegrab -> 1086412844.tif
+1086412856 framegrab -> 1086412856.tif
+1086412872 framegrab -> 1086412872.tif
+1086412982 framegrab -> 1086412982.tif
+1086412988 framegrab -> 1086412988.tif
+1086412996 framegrab -> 1086412996.tif
+1086413083 dropping off bio platform near port side of bow
+1086413136 taking plaque out of bio box to position near port anchor
+1086413240 framegrab -> 1086413240.tif
+1086413250 framegrab -> 1086413250.tif
+1086413258 framegrab -> 1086413258.tif
+1086413270 framegrab -> 1086413270.tif
+1086413288 framegrab -> 1086413288.tif
+1086413388 bio platform position
+1086413396 positioning plaque
+1086413406 framegrab -> 1086413406.tif
+1086413464 framegrab -> 1086413464.tif
+1086413468 framegrab -> 1086413468.tif
+1086413530 framegrab -> 1086413530.tif
+1086413535 weather update from bridge - winds from NW at 7 knts; sea state is 5-6 ft swell from 200; barometer steady past hour at 1018
+1086413546 framegrab -> 1086413546.tif
+1086413566 framegrab -> 1086413566.tif
+1086413600 framegrab -> 1086413600.tif
+1086413616 framegrab -> 1086413616.tif
+1086413628 framegrab -> 1086413628.tif
+1086413633 argus HD flickered
+1086413650 framegrab -> 1086413650.tif
+1086413658 framegrab -> 1086413658.tif
+1086413666 framegrab -> 1086413666.tif
+1086413680 framegrab -> 1086413680.tif
+1086413694 framegrab -> 1086413694.tif
+1086413712 framegrab -> 1086413712.tif
+1086413742 framegrab -> 1086413742.tif
+1086413772 framegrab -> 1086413772.tif
+1086413778 framegrab -> 1086413778.tif
+1086413782 framegrab -> 1086413782.tif
+1086413788 framegrab -> 1086413788.tif
+1086413792 framegrab -> 1086413792.tif
+1086413798 framegrab -> 1086413798.tif
+1086413801 rusticle dust coming off plaque as it's placed in sediment
+1086413804 framegrab -> 1086413804.tif
+1086413808 framegrab -> 1086413808.tif
+1086413814 framegrab -> 1086413814.tif
+1086413818 framegrab -> 1086413818.tif
+1086413824 framegrab -> 1086413824.tif
+1086413830 framegrab -> 1086413830.tif
+1086413836 framegrab -> 1086413836.tif
+1086413840 framegrab -> 1086413840.tif
+1086413846 framegrab -> 1086413846.tif
+1086413852 framegrab -> 1086413852.tif
+1086413856 framegrab -> 1086413856.tif
+1086413880 framegrab -> 1086413880.tif
+1086413888 framegrab -> 1086413888.tif
+1086413894 framegrab -> 1086413894.tif
+1086413906 framegrab -> 1086413906.tif
+1086413910 framegrab -> 1086413910.tif
+1086413920 framegrab -> 1086413920.tif
+1086413924 framegrab -> 1086413924.tif
+1086413930 framegrab -> 1086413930.tif
+1086413944 framegrab -> 1086413944.tif
+1086413950 framegrab -> 1086413950.tif
+1086413980 framegrab -> 1086413980.tif
+1086414006 framegrab -> 1086414006.tif
+1086414028 framegrab -> 1086414028.tif
+1086414034 framegrab -> 1086414034.tif
+1086414040 framegrab -> 1086414040.tif
+1086414044 framegrab -> 1086414044.tif
+1086414050 framegrab -> 1086414050.tif
+1086414056 framegrab -> 1086414056.tif
+1086414060 framegrab -> 1086414060.tif
+1086414066 framegrab -> 1086414066.tif
+1086414072 framegrab -> 1086414072.tif
+1086414076 framegrab -> 1086414076.tif
+1086414082 framegrab -> 1086414082.tif
+1086414088 framegrab -> 1086414088.tif
+1086414094 framegrab -> 1086414094.tif
+1086414098 framegrab -> 1086414098.tif
+1086414104 framegrab -> 1086414104.tif
+1086414110 framegrab -> 1086414110.tif
+1086414114 framegrab -> 1086414114.tif
+1086414122 framegrab -> 1086414122.tif
+1086414128 framegrab -> 1086414128.tif
+1086414132 framegrab -> 1086414132.tif
+1086414138 framegrab -> 1086414138.tif
+1086414144 framegrab -> 1086414144.tif
+1086414150 framegrab -> 1086414150.tif
+1086414188 got the final hollywood shot of bow with plaque
+1086414308 framegrab -> 1086414308.tif
+1086414314 framegrab -> 1086414314.tif
+1086414320 framegrab -> 1086414320.tif
+1086414326 framegrab -> 1086414326.tif
+1086414330 framegrab -> 1086414330.tif
+1086414347 thruster faring from a submersible?
+1086414424 framegrab -> 1086414424.tif
+1086414494 framegrab -> 1086414494.tif
+1086414570 framegrab -> 1086414570.tif
+1086414581 Beautiful full moon off fantail
+1086414588 framegrab -> 1086414588.tif
+1086414594 framegrab -> 1086414594.tif
+1086414598 framegrab -> 1086414598.tif
+1086414608 framegrab -> 1086414608.tif
+1086414616 framegrab -> 1086414616.tif
+1086414636 framegrab -> 1086414636.tif
+1086414639 trying to get size perspective on thruster faring with Herc manipulator
+1086414640 framegrab -> 1086414640.tif
+1086414646 framegrab -> 1086414646.tif
+1086414652 framegrab -> 1086414652.tif
+1086414656 framegrab -> 1086414656.tif
+1086414662 framegrab -> 1086414662.tif
+1086414733 thruster faring about 25-30 feet off bow in SE direction
+1086414790 framegrab -> 1086414790.tif
+1086414803 going towards port bow to pick up bio sampler
+1086414824 framegrab -> 1086414824.tif
+1086414834 framegrab -> 1086414834.tif
+1086414992 framegrab -> 1086414992.tif
+1086415000 framegrab -> 1086415000.tif
+1086415269 picking up bio platform B 
+1086415320 weather update from bridge  winds have shifted from NW to SW coming at 240 but speed remained same and wave height same; surface currents running to SE at 1.5 knts; Barometer same
+1086415339 test
+1086415404 framegrab -> 1086415404.tif
+1086415544 Requesting ship to move 20 m at course of 230
+1086415714 plan is to move the vehicles to port side of bow
+1086415945 position move to SW is complete
+1086417134 Requesting ship to move 20 m on course of 265
+1086417152 ship changed heading to balance wind and current
+1086417689 getting shot of hull paint on bow
+1086417716 framegrab -> 1086417716.tif
+1086417722 framegrab -> 1086417722.tif
+1086417746 framegrab -> 1086417746.tif
+1086417826 not realizing much movement in the vehicles from ship movements
+1086418078 framegrab -> 1086418078.tif
+1086418084 framegrab -> 1086418084.tif
+1086418090 framegrab -> 1086418090.tif
+1086418094 framegrab -> 1086418094.tif
+1086418106 framegrab -> 1086418106.tif
+1086418110 framegrab -> 1086418110.tif
+1086418180 Requesting ship to move 20 m on course of 270 West
+1086418274 framegrab -> 1086418274.tif
+1086418314 framegrab -> 1086418314.tif
+1086418330 framegrab -> 1086418330.tif
+1086418373 zoomed in on tiny bamboo coral near plaque
+1086418426 framegrab -> 1086418426.tif
+1086418452 framegrab -> 1086418452.tif
+1086418460 framegrab -> 1086418460.tif
+1086418487 close up of red hull paint on bow
+1086418488 framegrab -> 1086418488.tif
+1086418502 framegrab -> 1086418502.tif
+1086418508 framegrab -> 1086418508.tif
+1086418512 framegrab -> 1086418512.tif
+1086418548 framegrab -> 1086418548.tif
+1086418592 framegrab -> 1086418592.tif
+1086418600 framegrab -> 1086418600.tif
+1086418606 framegrab -> 1086418606.tif
+1086418612 framegrab -> 1086418612.tif
+1086418616 framegrab -> 1086418616.tif
+1086418616 ship just started to make last move requested - 20 m to west
+1086418628 framegrab -> 1086418628.tif
+1086418636 framegrab -> 1086418636.tif
+1086418649 computer glitch on bridge
+1086418654 framegrab -> 1086418654.tif
+1086418680 back on port bow'
+1086418718 framegrab -> 1086418718.tif
+1086418793 Requesting ship to extend 20 meter move to 35 meters west
+1086418844 framegrab -> 1086418844.tif
+1086418850 framegrab -> 1086418850.tif
+1086418856 framegrab -> 1086418856.tif
+1086418934 framegrab -> 1086418934.tif
+1086418940 framegrab -> 1086418940.tif
+1086418944 framegrab -> 1086418944.tif
+1086418950 framegrab -> 1086418950.tif
+1086418956 framegrab -> 1086418956.tif
+1086418960 framegrab -> 1086418960.tif
+1086418966 framegrab -> 1086418966.tif
+1086418972 framegrab -> 1086418972.tif
+1086418982 framegrab -> 1086418982.tif
+1086418992 framegrab -> 1086418992.tif
+1086419000 framegrab -> 1086419000.tif
+1086419006 framegrab -> 1086419006.tif
+1086419014 framegrab -> 1086419014.tif
+1086419018 framegrab -> 1086419018.tif
+1086419028 framegrab -> 1086419028.tif
+1086419050 framegrab -> 1086419050.tif
+1086419062 framegrab -> 1086419062.tif
+1086419068 framegrab -> 1086419068.tif
+1086419078 framegrab -> 1086419078.tif
+1086419083 position move is complete and no significant change to weather except continual backing wind out of 200
+1086419096 framegrab -> 1086419096.tif
+1086419106 framegrab -> 1086419106.tif
+1086419129 still waiting for vehicles to realize moves from ship
+1086419144 framegrab -> 1086419144.tif
+1086419164 framegrab -> 1086419164.tif
+1086419180 framegrab -> 1086419180.tif
+1086419262 framegrab -> 1086419262.tif
+1086419268 framegrab -> 1086419268.tif
+1086419280 framegrab -> 1086419280.tif
+1086419286 framegrab -> 1086419286.tif
+1086419292 framegrab -> 1086419292.tif
+1086419298 framegrab -> 1086419298.tif
+1086419312 framegrab -> 1086419312.tif
+1086419318 framegrab -> 1086419318.tif
+1086419604 framegrab -> 1086419604.tif
+1086419610 framegrab -> 1086419610.tif
+1086419644 framegrab -> 1086419644.tif
+1086419660 port side anchor
+1086419662 framegrab -> 1086419662.tif
+1086419674 framegrab -> 1086419674.tif
+1086419686 framegrab -> 1086419686.tif
+1086419694 framegrab -> 1086419694.tif
+1086419706 framegrab -> 1086419706.tif
+1086419712 Requesting ship to move 25 m at course of 235
+1086419712 framegrab -> 1086419712.tif
+1086419746 framegrab -> 1086419746.tif
+1086419800 framegrab -> 1086419800.tif
+1086419838 framegrab -> 1086419838.tif
+1086419842 framegrab -> 1086419842.tif
+1086419854 framegrab -> 1086419854.tif
+1086419908 framegrab -> 1086419908.tif
+1086419914 framegrab -> 1086419914.tif
+1086419926 framegrab -> 1086419926.tif
+1086419927 Placing Roy's bio platform on top of mound on port side bow
+1086419942 framegrab -> 1086419942.tif
+1086420008 framegrab -> 1086420008.tif
+1086420042 framegrab -> 1086420042.tif
+1086420070 framegrab -> 1086420070.tif
+1086420098 framegrab -> 1086420098.tif
+1086420108 framegrab -> 1086420108.tif
+1086420130 framegrab -> 1086420130.tif
+1086420200 framegrab -> 1086420200.tif
+1086420336 ship has completed their position move
+1086420534 Roy in van to assist with positioning of bio sampler on sediment mound
+1086420608 framegrab -> 1086420608.tif
+1086420618 framegrab -> 1086420618.tif
+1086420630 framegrab -> 1086420630.tif
+1086420638 framegrab -> 1086420638.tif
+1086420644 framegrab -> 1086420644.tif
+1086420684 framegrab -> 1086420684.tif
+1086420694 framegrab -> 1086420694.tif
+1086420740 framegrab -> 1086420740.tif
+1086420754 framegrab -> 1086420754.tif
+1086420805 positioning bio platform on edge of sediment mound on port side of bow
+1086420826 framegrab -> 1086420826.tif
+1086421114 framegrab -> 1086421114.tif
+1086421140 framegrab -> 1086421140.tif
+1086421150 framegrab -> 1086421150.tif
+1086421226 framegrab -> 1086421226.tif
+1086421236 framegrab -> 1086421236.tif
+1086421476 shift change
+1086421584 framegrab -> 1086421584.tif
+1086421604 framegrab -> 1086421604.tif
+1086421668 framegrab -> 1086421668.tif
+1086421674 "letters"
+1086421674 framegrab -> 1086421674.tif
+1086421696 framegrab -> 1086421696.tif
+1086421714 piece of wood that says "letters" - close up
+1086421717 on tile
+1086421718 framegrab -> 1086421718.tif
+1086421722 framegrab -> 1086421722.tif
+1086421728 framegrab -> 1086421728.tif
+1086421730 positioning of roy's sample complete
+1086421734 framegrab -> 1086421734.tif
+1086421738 framegrab -> 1086421738.tif
+1086421744 framegrab -> 1086421744.tif
+1086421750 framegrab -> 1086421750.tif
+1086421824 framegrab -> 1086421824.tif
+1086421872 framegrab -> 1086421872.tif
+1086421886 framegrab -> 1086421886.tif
+1086421892 framegrab -> 1086421892.tif
+1086421934 spotted roy's next sampler
+1086421959 just going to image it
+1086421998 framegrab -> 1086421998.tif
+1086422002 and leave it as-is
+1086422050 framegrab -> 1086422050.tif
+1086422056 framegrab -> 1086422056.tif
+1086422060 zooming in on sampler
+1086422064 framegrab -> 1086422064.tif
+1086422076 framegrab -> 1086422076.tif
+1086422080 framegrab -> 1086422080.tif
+1086422086 framegrab -> 1086422086.tif
+1086422092 framegrab -> 1086422092.tif
+1086422096 framegrab -> 1086422096.tif
+1086422102 framegrab -> 1086422102.tif
+1086422234 framegrab -> 1086422234.tif
+1086422242 framegrab -> 1086422242.tif
+1086422250 framegrab -> 1086422250.tif
+1086422260 framegrab -> 1086422260.tif
+1086422276 framegrab -> 1086422276.tif
+1086422290 framegrab -> 1086422290.tif
+1086422294 getting another angle on "letters"
+1086422324 framegrab -> 1086422324.tif
+1086422328 framegrab -> 1086422328.tif
+1086422334 framegrab -> 1086422334.tif
+1086422340 framegrab -> 1086422340.tif
+1086422344 framegrab -> 1086422344.tif
+1086422350 framegrab -> 1086422350.tif
+1086422361 looks like wood, but obviously isn't -- what was i thinking?
+1086422388 framegrab -> 1086422388.tif
+1086422412 framegrab -> 1086422412.tif
+1086422416 framegrab -> 1086422416.tif
+1086422424 framegrab -> 1086422424.tif
+1086422430 cookie tin top -- good cookies too -- forelli butter cookies
+1086422430 framegrab -> 1086422430.tif
+1086422464 framegrab -> 1086422464.tif
+1086422470 framegrab -> 1086422470.tif
+1086422476 framegrab -> 1086422476.tif
+1086422482 framegrab -> 1086422482.tif
+1086422492 framegrab -> 1086422492.tif
+1086422500 framegrab -> 1086422500.tif
+1086422530 framegrab -> 1086422530.tif
+1086422554 framegrab -> 1086422554.tif
+1086422560 framegrab -> 1086422560.tif
+1086422588 framegrab -> 1086422588.tif
+1086422594 framegrab -> 1086422594.tif
+1086422598 framegrab -> 1086422598.tif
+1086422646 framegrab -> 1086422646.tif
+1086422666 framegrab -> 1086422666.tif
+1086422673 getting another angle on old cullimore sampler -- through the "tunnel"
+1086422678 framegrab -> 1086422678.tif
+1086422686 framegrab -> 1086422686.tif
+1086422700 framegrab -> 1086422700.tif
+1086422706 framegrab -> 1086422706.tif
+1086422712 framegrab -> 1086422712.tif
+1086422718 framegrab -> 1086422718.tif
+1086422863 maneuvering argus to get away from superstructure
+1086422984 framegrab -> 1086422984.tif
+1086423010 last ship move was an hour ago
+1086423024 framegrab -> 1086423024.tif
+1086423032 framegrab -> 1086423032.tif
+1086423042 framegrab -> 1086423042.tif
+1086423054 framegrab -> 1086423054.tif
+1086423064 looking at well deck
+1086423066 framegrab -> 1086423066.tif
+1086423076 framegrab -> 1086423076.tif
+1086423082 framegrab -> 1086423082.tif
+1086423104 framegrab -> 1086423104.tif
+1086423108 framegrab -> 1086423108.tif
+1086423114 framegrab -> 1086423114.tif
+1086423120 framegrab -> 1086423120.tif
+1086423126 framegrab -> 1086423126.tif
+1086423130 framegrab -> 1086423130.tif
+1086423133 nice shot of  well deck crushed bridge area?
+1086423136 framegrab -> 1086423136.tif
+1086423142 framegrab -> 1086423142.tif
+1086423146 framegrab -> 1086423146.tif
+1086423152 framegrab -> 1086423152.tif
+1086423156 framegrab -> 1086423156.tif
+1086423166 framegrab -> 1086423166.tif
+1086423166 port side bridge wing, series of A B C deck
+1086423170 framegrab -> 1086423170.tif
+1086423176 framegrab -> 1086423176.tif
+1086423198 framegrab -> 1086423198.tif
+1086423204 framegrab -> 1086423204.tif
+1086423228 framegrab -> 1086423228.tif
+1086423238 framegrab -> 1086423238.tif
+1086423260 framegrab -> 1086423260.tif
+1086423285 still feeling effects of southerly ship move an hour ago?
+1086423286 framegrab -> 1086423286.tif
+1086423290 framegrab -> 1086423290.tif
+1086423295 getting shot of davit
+1086423298 framegrab -> 1086423298.tif
+1086423318 framegrab -> 1086423318.tif
+1086423322 framegrab -> 1086423322.tif
+1086423328 framegrab -> 1086423328.tif
+1086423332 framegrab -> 1086423332.tif
+1086423338 framegrab -> 1086423338.tif
+1086423344 framegrab -> 1086423344.tif
+1086423348 framegrab -> 1086423348.tif
+1086423398 framegrab -> 1086423398.tif
+1086423406 framegrab -> 1086423406.tif
+1086423448 pilot change -- todd and webb taking over
+1086423452 framegrab -> 1086423452.tif
+1086423496 framegrab -> 1086423496.tif
+1086423620 framegrab -> 1086423620.tif
+1086423860 framegrab -> 1086423860.tif
+1086423860 sweeping shot of davit
+1086423868 framegrab -> 1086423868.tif
+1086423878 framegrab -> 1086423878.tif
+1086423884 framegrab -> 1086423884.tif
+1086423888 framegrab -> 1086423888.tif
+1086423894 framegrab -> 1086423894.tif
+1086423900 framegrab -> 1086423900.tif
+1086423904 framegrab -> 1086423904.tif
+1086423910 framegrab -> 1086423910.tif
+1086423916 framegrab -> 1086423916.tif
+1086423920 framegrab -> 1086423920.tif
+1086423926 framegrab -> 1086423926.tif
+1086423932 framegrab -> 1086423932.tif
+1086423936 framegrab -> 1086423936.tif
+1086423942 framegrab -> 1086423942.tif
+1086423948 framegrab -> 1086423948.tif
+1086423950 collapseed decks, port side
+1086423959 lots o' rusticles
+1086423960 framegrab -> 1086423960.tif
+1086423964 framegrab -> 1086423964.tif
+1086423970 framegrab -> 1086423970.tif
+1086423976 framegrab -> 1086423976.tif
+1086423980 framegrab -> 1086423980.tif
+1086423986 framegrab -> 1086423986.tif
+1086423992 framegrab -> 1086423992.tif
+1086423998 framegrab -> 1086423998.tif
+1086424002 framegrab -> 1086424002.tif
+1086424008 framegrab -> 1086424008.tif
+1086424014 framegrab -> 1086424014.tif
+1086424018 framegrab -> 1086424018.tif
+1086424024 framegrab -> 1086424024.tif
+1086424028 framegrab -> 1086424028.tif
+1086424034 framegrab -> 1086424034.tif
+1086424040 framegrab -> 1086424040.tif
+1086424046 framegrab -> 1086424046.tif
+1086424050 framegrab -> 1086424050.tif
+1086424056 framegrab -> 1086424056.tif
+1086424062 framegrab -> 1086424062.tif
+1086424066 framegrab -> 1086424066.tif
+1086424072 framegrab -> 1086424072.tif
+1086424076 framegrab -> 1086424076.tif
+1086424082 framegrab -> 1086424082.tif
+1086424088 framegrab -> 1086424088.tif
+1086424092 framegrab -> 1086424092.tif
+1086424098 framegrab -> 1086424098.tif
+1086424102 framegrab -> 1086424102.tif
+1086424108 framegrab -> 1086424108.tif
+1086424114 framegrab -> 1086424114.tif
+1086424120 framegrab -> 1086424120.tif
+1086424122 side of hull
+1086424126 framegrab -> 1086424126.tif
+1086424130 framegrab -> 1086424130.tif
+1086424136 framegrab -> 1086424136.tif
+1086424140 deep fold buckle
+1086424140 framegrab -> 1086424140.tif
+1086424146 framegrab -> 1086424146.tif
+1086424152 framegrab -> 1086424152.tif
+1086424162 framegrab -> 1086424162.tif
+1086424168 framegrab -> 1086424168.tif
+1086424188 framegrab -> 1086424188.tif
+1086424192 framegrab -> 1086424192.tif
+1086424202 framegrab -> 1086424202.tif
+1086424210 framegrab -> 1086424210.tif
+1086424216 grate
+1086424222 framegrab -> 1086424222.tif
+1086424223 changing herc HD tape
+1086424226 framegrab -> 1086424226.tif
+1086424232 framegrab -> 1086424232.tif
+1086424240 framegrab -> 1086424240.tif
+1086424244 framegrab -> 1086424244.tif
+1086424317 near squash court laundry room
+1086424326 framegrab -> 1086424326.tif
+1086424330 framegrab -> 1086424330.tif
+1086424336 framegrab -> 1086424336.tif
+1086424342 framegrab -> 1086424342.tif
+1086424346 framegrab -> 1086424346.tif
+1086424372 framegrab -> 1086424372.tif
+1086424380 buckled metal w  grating behind it -- interesting
+1086424382 framegrab -> 1086424382.tif
+1086424386 framegrab -> 1086424386.tif
+1086424392 framegrab -> 1086424392.tif
+1086424398 framegrab -> 1086424398.tif
+1086424406 framegrab -> 1086424406.tif
+1086424412 framegrab -> 1086424412.tif
+1086424418 framegrab -> 1086424418.tif
+1086424422 framegrab -> 1086424422.tif
+1086424428 framegrab -> 1086424428.tif
+1086424434 framegrab -> 1086424434.tif
+1086424438 framegrab -> 1086424438.tif
+1086424444 framegrab -> 1086424444.tif
+1086424450 framegrab -> 1086424450.tif
+1086424454 framegrab -> 1086424454.tif
+1086424460 framegrab -> 1086424460.tif
+1086424466 framegrab -> 1086424466.tif
+1086424470 framegrab -> 1086424470.tif
+1086424476 framegrab -> 1086424476.tif
+1086424480 framegrab -> 1086424480.tif
+1086424486 framegrab -> 1086424486.tif
+1086424492 framegrab -> 1086424492.tif
+1086424496 framegrab -> 1086424496.tif
+1086424498 base of crane & mast
+1086424502 framegrab -> 1086424502.tif
+1086424508 framegrab -> 1086424508.tif
+1086424512 framegrab -> 1086424512.tif
+1086424518 framegrab -> 1086424518.tif
+1086424522 framegrab -> 1086424522.tif
+1086424534 setting up for photomosaicing.  starting over w  color
+1086424562 framegrab -> 1086424562.tif
+1086424689 will experiment w  "flying high" 10m over tallest point of shipwreck
+1086425154 not getting much color detail at this height
+1086425233 moving ship 25m @ 135
+1086425452 altitude 9m, getting decent pictures
+1086425482 good histograms at least;  very good b&w views
+1086425537 testing photomosaic images to see what they look like after post-processing
+1086425658 beginning run across ship
+1086425772 .25 velocity
+1086425942 stopping for a sec
+1086426002 3m step right
+1086426037 run #2
+1086426046 good coverage
+1086426184 framegrab -> 1086426184.tif
+1086426200 coming up 2m; 3m starboard
+1086426246 coming up another .5m
+1086426458 3m move starboard; 2m up
+1086426594 moving ship 8m west
+1086426815 2m up; 3m right
+1086426819 starting 6th run
+1086426897 stepping back 1m to port to increase coverage
+1086427056 starting run #7
+1086427258 run #8
+1086427336 moving ship 5m @ 200
+1086427380 make that move 15m @ 2000
+1086427397 run #9
+1086427542 run 10
+1086427679 run 10
+1086427780 waking up bert
+1086427879 urn 12
+1086428089 stepping to port to make sure we have coverage of the last couple of runs
+1086428357 run 14
+1086428674 run 15
+1086429601 moving ship 15m @ 200
+1086429877 covered 3 5 of bow section deck so far
+1086430110 currently over grand staircase
+1086431210 moving ship 15m @ 200
+1086432510 at the aft section of the bow -- sloping down
+1086433405 almost done with the aft section of the stern
+1086434529 done mosaicing this section of the bow
+1086434661 requesting ship move
+1086434671 to get back to tip of the bow
+1086434706 ship move 100m @ 020, 0.3 knots
+1086434950 boilers at aft section of bow
+1086435034 HD recording started
+1086435056 framegrab -> 1086435056.tif
+1086435064 framegrab -> 1086435064.tif
+1086435070 framegrab -> 1086435070.tif
+1086435084 framegrab -> 1086435084.tif
+1086435090 framegrab -> 1086435090.tif
+1086435104 framegrab -> 1086435104.tif
+1086435146 framegrab -> 1086435146.tif
+1086435149 good views of boiler
+1086435154 framegrab -> 1086435154.tif
+1086435260 framegrab -> 1086435260.tif
+1086435336 framegrab -> 1086435336.tif
+1086435450 back on aft port side of bow section
+1086435561 big pipe
+1086435578 framegrab -> 1086435578.tif
+1086435596 framegrab -> 1086435596.tif
+1086435732 framegrab -> 1086435732.tif
+1086435866 framegrab -> 1086435866.tif
+1086435872 framegrab -> 1086435872.tif
+1086435878 framegrab -> 1086435878.tif
+1086435884 framegrab -> 1086435884.tif
+1086435892 ship moves taking effects
+1086435908 ship move almost complete -- 4m to go
+1086435977 weather update  
+1086436026 steady wind and barometer
+1086436062 framegrab -> 1086436062.tif
+1086436200 framegrab -> 1086436200.tif
+1086436224 framegrab -> 1086436224.tif
+1086436238 framegrab -> 1086436238.tif
+1086436257 HD captures of port side hull -- rivets, windows, etc
+1086436646 framegrab -> 1086436646.tif
+1086436690 framegrab -> 1086436690.tif
+1086436710 framegrab -> 1086436710.tif
+1086436764 framegrab -> 1086436764.tif
+1086436836 framegrab -> 1086436836.tif
+1086436864 framegrab -> 1086436864.tif
+1086436876 framegrab -> 1086436876.tif
+1086436892 framegrab -> 1086436892.tif
+1086436904 framegrab -> 1086436904.tif
+1086436956 framegrab -> 1086436956.tif
+1086436968 framegrab -> 1086436968.tif
+1086437014 Watch change
+1086437032 Continue port side look-around
+1086437054 framegrab -> 1086437054.tif
+1086437110 framegrab -> 1086437110.tif
+1086437170 framegrab -> 1086437170.tif
+1086437206 framegrab -> 1086437206.tif
+1086437324 Current target is mast. Heading to seafloor to look for rocks
+1086437552 framegrab -> 1086437552.tif
+1086437618 On bottom, recon for rocks
+1086437875 Back up to upper decks
+1086437914 In front of port side upper davit
+1086437940 framegrab -> 1086437940.tif
+1086438094 Standing by on Argus stabilization
+1086438204 Mast visible
+1086438425 Lining up for mosaic
+1086438566 framegrab -> 1086438566.tif
+1086438606 Called ship move 40m @ 080 degrees
+1086438721 Back to bottom to look for white rocks
+1086438762 framegrab -> 1086438762.tif
+1086438975 Near new sampler
+1086439010 framegrab -> 1086439010.tif
+1086439070 framegrab -> 1086439070.tif
+1086439238 Ship completed move
+1086439340 framegrab -> 1086439340.tif
+1086439348 framegrab -> 1086439348.tif
+1086439356 framegrab -> 1086439356.tif
+1086439403 Argus closing in on wreck, moving Herc up and away
+1086439436 framegrab -> 1086439436.tif
+1086439442 framegrab -> 1086439442.tif
+1086439468 framegrab -> 1086439468.tif
+1086439500 Back up near davit
+1086439638 framegrab -> 1086439638.tif
+1086439740 framegrab -> 1086439740.tif
+1086439748 framegrab -> 1086439748.tif
+1086439773 Lining up for mosaic
+1086439836 framegrab -> 1086439836.tif
+1086439850 framegrab -> 1086439850.tif
+1086440031 Beginning mosaic
+1086440168 framegrab -> 1086440168.tif
+1086440198 framegrab -> 1086440198.tif
+1086440389 End of first track
+1086440413 Mowing the lawn...
+1086440939 EOF = End of line, SOF= Start of line
+1086440958 EOL 04
+1086441006 SOL 05
+1086441176 EOL 05, repeating line at lower altitude
+1086441188 SOL 05
+1086441254 framegrab -> 1086441254.tif
+1086441264 Calling ship move 25m @ 045 degrees
+1086441264 framegrab -> 1086441264.tif
+1086441302 framegrab -> 1086441302.tif
+1086441322 framegrab -> 1086441322.tif
+1086441336 EOL 05
+1086441379 SOL 06
+1086441567 EOL 06
+1086441569 SOL 07
+1086441682 EOL 07
+1086441726 SOL 08
+1086441754 Distance between tracks is 2.5m
+1086441817 Ship completed move
+1086441881 EOL 08
+1086441902 SOL 09
+1086442039 EOL 09
+1086442094 SOL 10
+1086442232 EOL 10
+1086442280 SOL 11
+1086442415 Completed line 12
+1086442427 SOL 13
+1086442468 Cancel last command, SOL 12
+1086442567 EOL 12
+1086442605 SOL 13
+1086442737 EOL 13
+1086442773 SOL 14
+1086442885 EOL 14
+1086442924 SOL 15
+1086443039 EOL 15
+1086443073 Dropping altitude, re-doing track
+1086443106 SOL 15
+1086443199 EOL 15
+1086443256 SOL 16
+1086443322 EOL 16
+1086443384 framegrab -> 1086443384.tif
+1086443394 framegrab -> 1086443394.tif
+1086443831 Calling ship move 20m @ 030 degrees
+1086443926 Standby for Argus movement
+1086444452 Ship move complete
+1086444953 SOL 17
+1086445019 EOL 17
+1086445115 Backed up on 17, moving over to 18
+1086445199 SOL 18
+1086445267 EOL 18
+1086445283 Backed up on 18, moving to 19
+1086445335 Standby for Argus movement
+1086445546 SOL 19
+1086445609 EOL 19, repeating line
+1086445617 SOL 19
+1086445662 EOL 19
+1086445795 SOL 20
+1086445873 EOL 20
+1086445885 Retracing 20
+1086445897 SOL 20
+1086445931 EOL 20
+1086445936 SOL 20
+1086446013 EOL 20
+1086446039 SOL 21
+1086446114 framegrab -> 1086446114.tif
+1086446152 framegrab -> 1086446152.tif
+1086446178 EOL 21
+1086446239 Heading back to repeat a line; unsure of #, but loaction is where forward deck steps below mast
+1086446276 Most likely Track # 13
+1086446662 SOL
+1086446839 EOL
+1086446881 Doing anothe track directly right to last track
+1086446883 SOL
+1086447015 EOL
+1086447033 Lining up for low-altitude mosaic of mast
+1086447122 framegrab -> 1086447122.tif
+1086447315 SOL "Mast"
+1086447388 framegrab -> 1086447388.tif
+1086447438 framegrab -> 1086447438.tif
+1086447470 framegrab -> 1086447470.tif
+1086447506 framegrab -> 1086447506.tif
+1086447552 framegrab -> 1086447552.tif
+1086447572 framegrab -> 1086447572.tif
+1086447582 framegrab -> 1086447582.tif
+1086447612 framegrab -> 1086447612.tif
+1086447628 framegrab -> 1086447628.tif
+1086447646 framegrab -> 1086447646.tif
+1086447666 framegrab -> 1086447666.tif
+1086447729 EOL "Mast"
+1086447749 Continuing to mosaic destroyed area near aft end of mast
+1086447776 framegrab -> 1086447776.tif
+1086447938 Heading back for beauty shot of mast run
+1086448158 framegrab -> 1086448158.tif
+1086448222 framegrab -> 1086448222.tif
+1086448252 framegrab -> 1086448252.tif
+1086448290 framegrab -> 1086448290.tif
+1086448310 framegrab -> 1086448310.tif
+1086448364 framegrab -> 1086448364.tif
+1086448386 framegrab -> 1086448386.tif
+1086448404 framegrab -> 1086448404.tif
+1086448436 framegrab -> 1086448436.tif
+1086448456 framegrab -> 1086448456.tif
+1086448484 framegrab -> 1086448484.tif
+1086448530 framegrab -> 1086448530.tif
+1086448552 framegrab -> 1086448552.tif
+1086448566 framegrab -> 1086448566.tif
+1086448590 framegrab -> 1086448590.tif
+1086448626 framegrab -> 1086448626.tif
+1086448670 framegrab -> 1086448670.tif
+1086448695 Ran a beauty shot of mast & recorded HD
+1086448720 Turning around and doing same run heading towards bow
+1086448862 framegrab -> 1086448862.tif
+1086448876 framegrab -> 1086448876.tif
+1086448892 framegrab -> 1086448892.tif
+1086448958 Beauty shot heading towards bow down the centerline
+1086448974 framegrab -> 1086448974.tif
+1086449022 framegrab -> 1086449022.tif
+1086449050 framegrab -> 1086449050.tif
+1086449152 framegrab -> 1086449152.tif
+1086449206 framegrab -> 1086449206.tif
+1086449236 framegrab -> 1086449236.tif
+1086449248 framegrab -> 1086449248.tif
+1086449282 framegrab -> 1086449282.tif
+1086449298 framegrab -> 1086449298.tif
+1086449305 Running along mast again
+1086449340 framegrab -> 1086449340.tif
+1086449394 framegrab -> 1086449394.tif
+1086449410 framegrab -> 1086449410.tif
+1086449426 framegrab -> 1086449426.tif
+1086449490 framegrab -> 1086449490.tif
+1086449578 framegrab -> 1086449578.tif
+1086449590 framegrab -> 1086449590.tif
+1086449600 framegrab -> 1086449600.tif
+1086449712 framegrab -> 1086449712.tif
+1086449762 framegrab -> 1086449762.tif
+1086449798 Taking more beauty shots of forward bow
+1086449842 framegrab -> 1086449842.tif
+1086450018 framegrab -> 1086450018.tif
+1086450024 framegrab -> 1086450024.tif
+1086450036 framegrab -> 1086450036.tif
+1086450078 framegrab -> 1086450078.tif
+1086450088 framegrab -> 1086450088.tif
+1086450108 framegrab -> 1086450108.tif
+1086450242 framegrab -> 1086450242.tif
+1086450456 Watch change
+1086450530 framegrab -> 1086450530.tif
+1086450799 down shining light added to peer into hatch
+1086450850 framegrab -> 1086450850.tif
+1086451044 lookinh down hatch
+1086451067 ship moving to new heading to compensate for surface current
+1086451102 framegrab -> 1086451102.tif
+1086451210 framegrab -> 1086451210.tif
+1086451231 skylight or vent, above crew's galley
+1086451264 framegrab -> 1086451264.tif
+1086451290 framegrab -> 1086451290.tif
+1086451346 framegrab -> 1086451346.tif
+1086451388 framegrab -> 1086451388.tif
+1086451488 framegrab -> 1086451488.tif
+1086451698 framegrab -> 1086451698.tif
+1086451766 framegrab -> 1086451766.tif
+1086451800 framegrab -> 1086451800.tif
+1086451850 framegrab -> 1086451850.tif
+1086451879 indise well deck, seeing ladder, wall, openings
+1086451982 framegrab -> 1086451982.tif
+1086452026 framegrab -> 1086452026.tif
+1086452036 sub lna
+1086452053 sub landing site at base of mast, an orange oval
+1086452129 sub landing site
+1086452162 framegrab -> 1086452162.tif
+1086452224 framegrab -> 1086452224.tif
+1086452372 framegrab -> 1086452372.tif
+1086452548 framegrab -> 1086452548.tif
+1086452704 framegrab -> 1086452704.tif
+1086452717 edge of hatch, back edge of forepeak
+1086452744 double hatch, doubled dogged
+1086452854 framegrab -> 1086452854.tif
+1086452895 pivot to right, facing bulkhead at base of bridge
+1086452938 framegrab -> 1086452938.tif
+1086453150 framegrab -> 1086453150.tif
+1086453392 framegrab -> 1086453392.tif
+1086453520 framegrab -> 1086453520.tif
+1086453536 framegrab -> 1086453536.tif
+1086453556 framegrab -> 1086453556.tif
+1086453598 framegrab -> 1086453598.tif
+1086453702 framegrab -> 1086453702.tif
+1086453904 framegrab -> 1086453904.tif
+1086453936 framegrab -> 1086453936.tif
+1086453954 framegrab -> 1086453954.tif
+1086453970 framegrab -> 1086453970.tif
+1086454004 anemone on bulkhead in well deck
+1086454030 framegrab -> 1086454030.tif
+1086454060 framegrab -> 1086454060.tif
+1086454068 framegrab -> 1086454068.tif
+1086454082 framegrab -> 1086454082.tif
+1086454148 framegrab -> 1086454148.tif
+1086454262 windows below bridge, 
+1086454322 framegrab -> 1086454322.tif
+1086454326 framegrab -> 1086454326.tif
+1086454332 framegrab -> 1086454332.tif
+1086454352 framegrab -> 1086454352.tif
+1086454359 vicinity of builders plaque
+1086454376 dwight enters, says all mosaic data good
+1086454392 framegrab -> 1086454392.tif
+1086454402 framegrab -> 1086454402.tif
+1086454416 framegrab -> 1086454416.tif
+1086454422 framegrab -> 1086454422.tif
+1086454426 framegrab -> 1086454426.tif
+1086454432 framegrab -> 1086454432.tif
+1086454438 framegrab -> 1086454438.tif
+1086454588 framegrab -> 1086454588.tif
+1086454632 framegrab -> 1086454632.tif
+1086454688 framegrab -> 1086454688.tif
+1086454704 framegrab -> 1086454704.tif
+1086454726 framegrab -> 1086454726.tif
+1086454730 framegrab -> 1086454730.tif
+1086454738 framegrab -> 1086454738.tif
+1086454746 framegrab -> 1086454746.tif
+1086454756 framegrab -> 1086454756.tif
+1086454768 framegrab -> 1086454768.tif
+1086454772 framegrab -> 1086454772.tif
+1086454778 framegrab -> 1086454778.tif
+1086454796 framegrab -> 1086454796.tif
+1086454800 capstan with plaque, yellow cord floating
+1086454806 framegrab -> 1086454806.tif
+1086454830 framegrab -> 1086454830.tif
+1086454840 framegrab -> 1086454840.tif
+1086454850 framegrab -> 1086454850.tif
+1086454874 framegrab -> 1086454874.tif
+1086454896 framegrab -> 1086454896.tif
+1086454902 framegrab -> 1086454902.tif
+1086454908 framegrab -> 1086454908.tif
+1086454926 framegrab -> 1086454926.tif
+1086454962 framegrab -> 1086454962.tif
+1086454966 framegrab -> 1086454966.tif
+1086454980 framegrab -> 1086454980.tif
+1086454986 framegrab -> 1086454986.tif
+1086454992 framegrab -> 1086454992.tif
+1086455004 framegrab -> 1086455004.tif
+1086455018 framegrab -> 1086455018.tif
+1086455024 framegrab -> 1086455024.tif
+1086455028 framegrab -> 1086455028.tif
+1086455034 framegrab -> 1086455034.tif
+1086455040 framegrab -> 1086455040.tif
+1086455046 framegrab -> 1086455046.tif
+1086455050 framegrab -> 1086455050.tif
+1086455056 framegrab -> 1086455056.tif
+1086455062 framegrab -> 1086455062.tif
+1086455068 framegrab -> 1086455068.tif
+1086455074 framegrab -> 1086455074.tif
+1086455082 framegrab -> 1086455082.tif
+1086455088 framegrab -> 1086455088.tif
+1086455116 framegrab -> 1086455116.tif
+1086455154 framegrab -> 1086455154.tif
+1086455160 framegrab -> 1086455160.tif
+1086455166 framegrab -> 1086455166.tif
+1086455172 framegrab -> 1086455172.tif
+1086455176 framegrab -> 1086455176.tif
+1086455182 framegrab -> 1086455182.tif
+1086455212 framegrab -> 1086455212.tif
+1086455222 framegrab -> 1086455222.tif
+1086455238 framegrab -> 1086455238.tif
+1086455250 framegrab -> 1086455250.tif
+1086455310 framegrab -> 1086455310.tif
+1086455346 framegrab -> 1086455346.tif
+1086455360 framegrab -> 1086455360.tif
+1086455406 framegrab -> 1086455406.tif
+1086455410 framegrab -> 1086455410.tif
+1086455424 framegrab -> 1086455424.tif
+1086455442 framegrab -> 1086455442.tif
+1086455464 framegrab -> 1086455464.tif
+1086455474 framegrab -> 1086455474.tif
+1086455486 framegrab -> 1086455486.tif
+1086455500 framegrab -> 1086455500.tif
+1086455508 framegrab -> 1086455508.tif
+1086455514 framegrab -> 1086455514.tif
+1086455538 framegrab -> 1086455538.tif
+1086455551 risig up, looking for edge of hatch
+1086455570 will make a chain run
+1086455644 framegrab -> 1086455644.tif
+1086455648 framegrab -> 1086455648.tif
+1086455664 framegrab -> 1086455664.tif
+1086455682 framegrab -> 1086455682.tif
+1086455710 framegrab -> 1086455710.tif
+1086455714 trying to get chains in both sides of vehicle
+1086455722 framegrab -> 1086455722.tif
+1086455740 framegrab -> 1086455740.tif
+1086455755 changing herc tape
+1086455762 framegrab -> 1086455762.tif
+1086455768 framegrab -> 1086455768.tif
+1086455774 framegrab -> 1086455774.tif
+1086455810 framegrab -> 1086455810.tif
+1086455828 framegrab -> 1086455828.tif
+1086455878 framegrab -> 1086455878.tif
+1086455884 framegrab -> 1086455884.tif
+1086455900 framegrab -> 1086455900.tif
+1086455906 framegrab -> 1086455906.tif
+1086455924 framegrab -> 1086455924.tif
+1086455946 framegrab -> 1086455946.tif
+1086455962 framegrab -> 1086455962.tif
+1086455972 framegrab -> 1086455972.tif
+1086455978 framegrab -> 1086455978.tif
+1086455988 framegrab -> 1086455988.tif
+1086455992 framegrab -> 1086455992.tif
+1086455998 framegrab -> 1086455998.tif
+1086456004 framegrab -> 1086456004.tif
+1086456016 framegrab -> 1086456016.tif
+1086456018 bridge says position ove is complete
+1086456035 move is complete
+1086456048 framegrab -> 1086456048.tif
+1086456084 framegrab -> 1086456084.tif
+1086456094 framegrab -> 1086456094.tif
+1086456102 framegrab -> 1086456102.tif
+1086456108 framegrab -> 1086456108.tif
+1086456114 framegrab -> 1086456114.tif
+1086456120 framegrab -> 1086456120.tif
+1086456126 framegrab -> 1086456126.tif
+1086456130 framegrab -> 1086456130.tif
+1086456136 framegrab -> 1086456136.tif
+1086456142 framegrab -> 1086456142.tif
+1086456148 framegrab -> 1086456148.tif
+1086456154 framegrab -> 1086456154.tif
+1086456158 framegrab -> 1086456158.tif
+1086456469 while waiting for move to take effect, will try to grab one of roy's rocks
+1086456876 framegrab -> 1086456876.tif
+1086456880 framegrab -> 1086456880.tif
+1086456888 framegrab -> 1086456888.tif
+1086456894 framegrab -> 1086456894.tif
+1086456904 framegrab -> 1086456904.tif
+1086456908 framegrab -> 1086456908.tif
+1086456916 framegrab -> 1086456916.tif
+1086456949 nautile lead weights, chains near bow
+1086457116 framegrab -> 1086457116.tif
+1086457122 framegrab -> 1086457122.tif
+1086457178 framegrab -> 1086457178.tif
+1086457228 framegrab -> 1086457228.tif
+1086457250 looks like a lateral scrape on port bow, across porthole
+1086457252 framegrab -> 1086457252.tif
+1086457258 framegrab -> 1086457258.tif
+1086457264 framegrab -> 1086457264.tif
+1086457268 framegrab -> 1086457268.tif
+1086457306 framegrab -> 1086457306.tif
+1086457312 framegrab -> 1086457312.tif
+1086457334 framegrab -> 1086457334.tif
+1086457344 framegrab -> 1086457344.tif
+1086457354 framegrab -> 1086457354.tif
+1086457374 framegrab -> 1086457374.tif
+1086457396 framegrab -> 1086457396.tif
+1086457444 framegrab -> 1086457444.tif
+1086457452 framegrab -> 1086457452.tif
+1086457476 framegrab -> 1086457476.tif
+1086457488 framegrab -> 1086457488.tif
+1086457516 framegrab -> 1086457516.tif
+1086457521 fiberglass pole, yellow
+1086457526 framegrab -> 1086457526.tif
+1086457534 framegrab -> 1086457534.tif
+1086457540 framegrab -> 1086457540.tif
+1086457540 looks like it might be aluminum pole, not fiberglass
+1086457546 framegrab -> 1086457546.tif
+1086457576 framegrab -> 1086457576.tif
+1086457582 framegrab -> 1086457582.tif
+1086457594 framegrab -> 1086457594.tif
+1086457608 framegrab -> 1086457608.tif
+1086457612 framegrab -> 1086457612.tif
+1086457618 framegrab -> 1086457618.tif
+1086457624 framegrab -> 1086457624.tif
+1086457630 framegrab -> 1086457630.tif
+1086457634 framegrab -> 1086457634.tif
+1086457716 framegrab -> 1086457716.tif
+1086457778 framegrab -> 1086457778.tif
+1086457800 framegrab -> 1086457800.tif
+1086457804 framegrab -> 1086457804.tif
+1086457810 framegrab -> 1086457810.tif
+1086457842 framegrab -> 1086457842.tif
+1086457872 framegrab -> 1086457872.tif
+1086457892 framegrab -> 1086457892.tif
+1086457900 framegrab -> 1086457900.tif
+1086457903 looks like impact marks, two of them, next to bow portholes
+1086457910 framegrab -> 1086457910.tif
+1086457916 framegrab -> 1086457916.tif
+1086457922 framegrab -> 1086457922.tif
+1086457946 framegrab -> 1086457946.tif
+1086458002 framegrab -> 1086458002.tif
+1086458022 framegrab -> 1086458022.tif
+1086458078 framegrab -> 1086458078.tif
+1086458084 framegrab -> 1086458084.tif
+1086458130 framegrab -> 1086458130.tif
+1086458136 framegrab -> 1086458136.tif
+1086458144 framegrab -> 1086458144.tif
+1086458156 framegrab -> 1086458156.tif
+1086458164 framegrab -> 1086458164.tif
+1086458220 framegrab -> 1086458220.tif
+1086458250 framegrab -> 1086458250.tif
+1086458288 framegrab -> 1086458288.tif
+1086458316 framegrab -> 1086458316.tif
+1086458880 framegrab -> 1086458880.tif
+1086458890 framegrab -> 1086458890.tif
+1086458898 framegrab -> 1086458898.tif
+1086458910 framegrab -> 1086458910.tif
+1086459105 bridge says position move is complete
+1086459168 framegrab -> 1086459168.tif
+1086459570 live immersion show, broadcast of bollards
+1086461052 framegrab -> 1086461052.tif
+1086461068 framegrab -> 1086461068.tif
+1086461176 framegrab -> 1086461176.tif
+1086461276 framegrab -> 1086461276.tif
+1086461292 framegrab -> 1086461292.tif
+1086461306 framegrab -> 1086461306.tif
+1086461324 framegrab -> 1086461324.tif
+1086461342 framegrab -> 1086461342.tif
+1086461414 framegrab -> 1086461414.tif
+1086461486 framegrab -> 1086461486.tif
+1086461542 framegrab -> 1086461542.tif
+1086461598 framegrab -> 1086461598.tif
+1086461648 framegrab -> 1086461648.tif
+1086461690 framegrab -> 1086461690.tif
+1086461740 framegrab -> 1086461740.tif
+1086461780 framegrab -> 1086461780.tif
+1086461816 framegrab -> 1086461816.tif
+1086461920 framegrab -> 1086461920.tif
+1086462000 framegrab -> 1086462000.tif
+1086462016 framegrab -> 1086462016.tif
+1086462034 framegrab -> 1086462034.tif
+1086462040 framegrab -> 1086462040.tif
+1086462060 framegrab -> 1086462060.tif
+1086462066 framegrab -> 1086462066.tif
+1086462076 framegrab -> 1086462076.tif
+1086462082 framegrab -> 1086462082.tif
+1086462088 framegrab -> 1086462088.tif
+1086462102 framegrab -> 1086462102.tif
+1086462108 framegrab -> 1086462108.tif
+1086462112 framegrab -> 1086462112.tif
+1086462118 framegrab -> 1086462118.tif
+1086462136 framegrab -> 1086462136.tif
+1086462176 framegrab -> 1086462176.tif
+1086462224 framegrab -> 1086462224.tif
+1086462282 framegrab -> 1086462282.tif
+1086462316 framegrab -> 1086462316.tif
+1086462380 framegrab -> 1086462380.tif
+1086462400 framegrab -> 1086462400.tif
+1086462436 framegrab -> 1086462436.tif
+1086462446 framegrab -> 1086462446.tif
+1086462482 framegrab -> 1086462482.tif
+1086462532 framegrab -> 1086462532.tif
+1086462562 framegrab -> 1086462562.tif
+1086462582 framegrab -> 1086462582.tif
+1086462734 framegrab -> 1086462734.tif
+1086462764 framegrab -> 1086462764.tif
+1086462824 data logger back from several minutes at capture station in mclean absence for interview
+1086462900 wanto to examine chief officer's quarters
+1086463186 framegrab -> 1086463186.tif
+1086463476 framegrab -> 1086463476.tif
+1086463545 changing herc tape before beginning high def mosaicing of chief offiercs cabin
+1086463557 dang cold in this van
+1086463806 framegrab -> 1086463806.tif
+1086464268 webb and dwight in to set up high def mosaic
+1086464853 heading down toward roys rocks
+1086464861 roy in van
+1086464894 framegrab -> 1086464894.tif
+1086464910 framegrab -> 1086464910.tif
+1086464948 framegrab -> 1086464948.tif
+1086464982 framegrab -> 1086464982.tif
+1086465000 framegrab -> 1086465000.tif
+1086465006 framegrab -> 1086465006.tif
+1086465014 framegrab -> 1086465014.tif
+1086465022 framegrab -> 1086465022.tif
+1086465028 framegrab -> 1086465028.tif
+1086465068 framegrab -> 1086465068.tif
+1086465086 framegrab -> 1086465086.tif
+1086465128 framegrab -> 1086465128.tif
+1086465142 framegrab -> 1086465142.tif
+1086465156 framegrab -> 1086465156.tif
+1086465166 framegrab -> 1086465166.tif
+1086465172 framegrab -> 1086465172.tif
+1086465204 framegrab -> 1086465204.tif
+1086465208 framegrab -> 1086465208.tif
+1086465224 framegrab -> 1086465224.tif
+1086465238 framegrab -> 1086465238.tif
+1086465250 framegrab -> 1086465250.tif
+1086465256 framegrab -> 1086465256.tif
+1086465276 framegrab -> 1086465276.tif
+1086465294 framegrab -> 1086465294.tif
+1086465300 framegrab -> 1086465300.tif
+1086465308 framegrab -> 1086465308.tif
+1086465312 framegrab -> 1086465312.tif
+1086465318 framegrab -> 1086465318.tif
+1086465324 framegrab -> 1086465324.tif
+1086465326 heater on edge of deck
+1086465328 framegrab -> 1086465328.tif
+1086465334 framegrab -> 1086465334.tif
+1086465340 framegrab -> 1086465340.tif
+1086465346 framegrab -> 1086465346.tif
+1086465358 framegrab -> 1086465358.tif
+1086465368 framegrab -> 1086465368.tif
+1086465374 framegrab -> 1086465374.tif
+1086465380 framegrab -> 1086465380.tif
+1086465386 framegrab -> 1086465386.tif
+1086465390 framegrab -> 1086465390.tif
+1086465398 framegrab -> 1086465398.tif
+1086465418 heater on well deck portside foreward
+1086465432 framegrab -> 1086465432.tif
+1086465462 framegrab -> 1086465462.tif
+1086465468 framegrab -> 1086465468.tif
+1086465473 waiting for mosaic cameras to boot up
+1086465474 framegrab -> 1086465474.tif
+1086465486 framegrab -> 1086465486.tif
+1086465500 framegrab -> 1086465500.tif
+1086465504 framegrab -> 1086465504.tif
+1086465510 framegrab -> 1086465510.tif
+1086465516 framegrab -> 1086465516.tif
+1086465520 framegrab -> 1086465520.tif
+1086465526 framegrab -> 1086465526.tif
+1086465532 framegrab -> 1086465532.tif
+1086465546 framegrab -> 1086465546.tif
+1086465552 framegrab -> 1086465552.tif
+1086465570 framegrab -> 1086465570.tif
+1086465614 framegrab -> 1086465614.tif
+1086465624 framegrab -> 1086465624.tif
+1086465640 framegrab -> 1086465640.tif
+1086465650 framegrab -> 1086465650.tif
+1086465656 framegrab -> 1086465656.tif
+1086465662 framegrab -> 1086465662.tif
+1086465666 framegrab -> 1086465666.tif
+1086465672 framegrab -> 1086465672.tif
+1086465678 framegrab -> 1086465678.tif
+1086465688 framegrab -> 1086465688.tif
+1086465696 framegrab -> 1086465696.tif
+1086465706 framegrab -> 1086465706.tif
+1086465714 framegrab -> 1086465714.tif
+1086465720 framegrab -> 1086465720.tif
+1086465738 framegrab -> 1086465738.tif
+1086465746 framegrab -> 1086465746.tif
+1086465752 framegrab -> 1086465752.tif
+1086465788 framegrab -> 1086465788.tif
+1086465816 framegrab -> 1086465816.tif
+1086466736 framegrab -> 1086466736.tif
+1086466742 framegrab -> 1086466742.tif
+1086466748 framegrab -> 1086466748.tif
+1086467054 framegrab -> 1086467054.tif
+1086467062 framegrab -> 1086467062.tif
+1086467078 framegrab -> 1086467078.tif
+1086467132 framegrab -> 1086467132.tif
+1086467199 Turning hercules to unwind tether
+1086467224 framegrab -> 1086467224.tif
+1086467320 framegrab -> 1086467320.tif
+1086467355 Looking over port side bow davit screw
+1086467510 framegrab -> 1086467510.tif
+1086467550 framegrab -> 1086467550.tif
+1086467558 framegrab -> 1086467558.tif
+1086467593 Captains bathtub
+1086467658 framegrab -> 1086467658.tif
+1086467730 framegrab -> 1086467730.tif
+1086467834 framegrab -> 1086467834.tif
+1086467848 framegrab -> 1086467848.tif
+1086467860 framegrab -> 1086467860.tif
+1086467900 framegrab -> 1086467900.tif
+1086467906 framegrab -> 1086467906.tif
+1086467938 framegrab -> 1086467938.tif
+1086467998 framegrab -> 1086467998.tif
+1086468022 framegrab -> 1086468022.tif
+1086468064 framegrab -> 1086468064.tif
+1086468086 framegrab -> 1086468086.tif
+1086468104 framegrab -> 1086468104.tif
+1086468154 framegrab -> 1086468154.tif
+1086468200 framegrab -> 1086468200.tif
+1086468234 framegrab -> 1086468234.tif
+1086468252 framegrab -> 1086468252.tif
+1086468262 framegrab -> 1086468262.tif
+1086468321 Telemotor tight shots
+1086468348 framegrab -> 1086468348.tif
+1086468374 framegrab -> 1086468374.tif
+1086468472 framegrab -> 1086468472.tif
+1086468622 framegrab -> 1086468622.tif
+1086468646 framegrab -> 1086468646.tif
+1086468654 framegrab -> 1086468654.tif
+1086468678 framegrab -> 1086468678.tif
+1086468684 framegrab -> 1086468684.tif
+1086468739 Doing live feed to Oregon Science group
+1086468762 framegrab -> 1086468762.tif
+1086468770 framegrab -> 1086468770.tif
+1086468776 framegrab -> 1086468776.tif
+1086468850 framegrab -> 1086468850.tif
+1086468912 framegrab -> 1086468912.tif
+1086468938 framegrab -> 1086468938.tif
+1086468951 Bow davit
+1086469020 spinning Hercules to loosen tether
+1086469168 framegrab -> 1086469168.tif
+1086469186 framegrab -> 1086469186.tif
+1086469250 framegrab -> 1086469250.tif
+1086469292 framegrab -> 1086469292.tif
+1086469346 framegrab -> 1086469346.tif
+1086469430 framegrab -> 1086469430.tif
+1086469456 framegrab -> 1086469456.tif
+1086469464 framegrab -> 1086469464.tif
+1086469512 framegrab -> 1086469512.tif
+1086469536 framegrab -> 1086469536.tif
+1086469542 framegrab -> 1086469542.tif
+1086469555 back to captains tub 
+1086469596 framegrab -> 1086469596.tif
+1086469602 framegrab -> 1086469602.tif
+1086469658 framegrab -> 1086469658.tif
+1086469666 framegrab -> 1086469666.tif
+1086469680 framegrab -> 1086469680.tif
+1086469758 framegrab -> 1086469758.tif
+1086469782 framegrab -> 1086469782.tif
+1086469798 framegrab -> 1086469798.tif
+1086469814 framegrab -> 1086469814.tif
+1086469832 framegrab -> 1086469832.tif
+1086469846 framegrab -> 1086469846.tif
+1086469858 framegrab -> 1086469858.tif
+1086469866 framegrab -> 1086469866.tif
+1086469892 framegrab -> 1086469892.tif
+1086469910 framegrab -> 1086469910.tif
+1086469924 framegrab -> 1086469924.tif
+1086469966 framegrab -> 1086469966.tif
+1086469984 framegrab -> 1086469984.tif
+1086470000 framegrab -> 1086470000.tif
+1086470127 tether to Hercules has a couple of loops
+1086470152 framegrab -> 1086470152.tif
+1086470168 framegrab -> 1086470168.tif
+1086470200 framegrab -> 1086470200.tif
+1086470216 framegrab -> 1086470216.tif
+1086470240 framegrab -> 1086470240.tif
+1086470252 framegrab -> 1086470252.tif
+1086470274 framegrab -> 1086470274.tif
+1086470292 framegrab -> 1086470292.tif
+1086470348 framegrab -> 1086470348.tif
+1086470372 framegrab -> 1086470372.tif
+1086470398 framegrab -> 1086470398.tif
+1086470418 framegrab -> 1086470418.tif
+1086470440 framegrab -> 1086470440.tif
+1086470456 framegrab -> 1086470456.tif
+1086470464 framegrab -> 1086470464.tif
+1086470538 framegrab -> 1086470538.tif
+1086470560 framegrab -> 1086470560.tif
+1086470566 framegrab -> 1086470566.tif
+1086470580 framegrab -> 1086470580.tif
+1086470696 Hercules spinning to unwind tether
+1086470721 End of live show with Oregon
+1086471222 framegrab -> 1086471222.tif
+1086471228 framegrab -> 1086471228.tif
+1086471242 framegrab -> 1086471242.tif
+1086471266 framegrab -> 1086471266.tif
+1086471274 framegrab -> 1086471274.tif
+1086471278 framegrab -> 1086471278.tif
+1086471308 framegrab -> 1086471308.tif
+1086471328 framegrab -> 1086471328.tif
+1086471340 framegrab -> 1086471340.tif
+1086471368 framegrab -> 1086471368.tif
+1086471380 framegrab -> 1086471380.tif
+1086471388 framegrab -> 1086471388.tif
+1086471436 framegrab -> 1086471436.tif
+1086471452 framegrab -> 1086471452.tif
+1086471462 framegrab -> 1086471462.tif
+1086471480 framegrab -> 1086471480.tif
+1086471518 poort side officers quarters imaging
+1086471788 framegrab -> 1086471788.tif
+1086471802 framegrab -> 1086471802.tif
+1086471816 gymnasium view
+1086471922 framegrab -> 1086471922.tif
+1086471998 framegrab -> 1086471998.tif
+1086472008 framegrab -> 1086472008.tif
+1086472113 looking fore over stack 1
+1086472272 framegrab -> 1086472272.tif
+1086472288 framegrab -> 1086472288.tif
+1086472294 framegrab -> 1086472294.tif
+1086472314 framegrab -> 1086472314.tif
+1086472354 framegrab -> 1086472354.tif
+1086472412 framegrab -> 1086472412.tif
+1086472456 framegrab -> 1086472456.tif
+1086472462 framegrab -> 1086472462.tif
+1086472470 framegrab -> 1086472470.tif
+1086472482 framegrab -> 1086472482.tif
+1086472490 framegrab -> 1086472490.tif
+1086472542 framegrab -> 1086472542.tif
+1086472556 framegrab -> 1086472556.tif
+1086472574 framegrab -> 1086472574.tif
+1086472586 framegrab -> 1086472586.tif
+1086472654 framegrab -> 1086472654.tif
+1086472676 framegrab -> 1086472676.tif
+1086472718 framegrab -> 1086472718.tif
+1086472738 framegrab -> 1086472738.tif
+1086472758 framegrab -> 1086472758.tif
+1086472810 framegrab -> 1086472810.tif
+1086472820 framegrab -> 1086472820.tif
+1086472852 framegrab -> 1086472852.tif
+1086472870 framegrab -> 1086472870.tif
+1086472910 framegrab -> 1086472910.tif
+1086473092 framegrab -> 1086473092.tif
+1086473100 framegrab -> 1086473100.tif
+1086473110 framegrab -> 1086473110.tif
+1086473116 framegrab -> 1086473116.tif
+1086473126 framegrab -> 1086473126.tif
+1086473160 framegrab -> 1086473160.tif
+1086473176 framegrab -> 1086473176.tif
+1086473192 starboard side expansion joing
+1086473230 framegrab -> 1086473230.tif
+1086473244 framegrab -> 1086473244.tif
+1086473318 following expansion joint
+1086473358 framegrab -> 1086473358.tif
+1086473374 framegrab -> 1086473374.tif
+1086473380 framegrab -> 1086473380.tif
+1086473386 framegrab -> 1086473386.tif
+1086473404 framegrab -> 1086473404.tif
+1086473436 framegrab -> 1086473436.tif
+1086473446 framegrab -> 1086473446.tif
+1086473467 Officers smoling room
+1086473486 framegrab -> 1086473486.tif
+1086473626 framegrab -> 1086473626.tif
+1086473690 first class statemrooms
+1086473726 framegrab -> 1086473726.tif
+1086473768 framegrab -> 1086473768.tif
+1086473776 framegrab -> 1086473776.tif
+1086473786 framegrab -> 1086473786.tif
+1086473840 framegrab -> 1086473840.tif
+1086473843 Argus tilt is gone
+1086473868 framegrab -> 1086473868.tif
+1086473880 framegrab -> 1086473880.tif
+1086473886 framegrab -> 1086473886.tif
+1086473902 framegrab -> 1086473902.tif
+1086473914 framegrab -> 1086473914.tif
+1086473949 wall in front of grand staircase
+1086474014 framegrab -> 1086474014.tif
+1086474025 Frist class entrance to grand staircase
+1086474048 framegrab -> 1086474048.tif
+1086474192 framegrab -> 1086474192.tif
+1086474200 framegrab -> 1086474200.tif
+1086474221 Looking into grand staircase
+1086474246 framegrab -> 1086474246.tif
+1086474254 framegrab -> 1086474254.tif
+1086474334 framegrab -> 1086474334.tif
+1086474378 framegrab -> 1086474378.tif
+1086474384 framegrab -> 1086474384.tif
+1086474398 framegrab -> 1086474398.tif
+1086474399 stack 2 aft view
+1086474519 Herc spins to unwind tether
+1086474666 framegrab -> 1086474666.tif
+1086474678 framegrab -> 1086474678.tif
+1086474696 framegrab -> 1086474696.tif
+1086474710 framegrab -> 1086474710.tif
+1086474720 framegrab -> 1086474720.tif
+1086474746 framegrab -> 1086474746.tif
+1086474756 framegrab -> 1086474756.tif
+1086474778 framegrab -> 1086474778.tif
+1086474798 framegrab -> 1086474798.tif
+1086474804 framegrab -> 1086474804.tif
+1086474808 framegrab -> 1086474808.tif
+1086474840 framegrab -> 1086474840.tif
+1086474850 framegrab -> 1086474850.tif
+1086474864 framegrab -> 1086474864.tif
+1086474880 framegrab -> 1086474880.tif
+1086474904 framegrab -> 1086474904.tif
+1086474963 Fan #55 tight shot of label near funnel 2 port side
+1086475018 framegrab -> 1086475018.tif
+1086475024 framegrab -> 1086475024.tif
+1086475140 framegrab -> 1086475140.tif
+1086475181 moving into another deck fan
+1086475388 framegrab -> 1086475388.tif
+1086475472 framegrab -> 1086475472.tif
+1086475552 framegrab -> 1086475552.tif
+1086475796 framegrab -> 1086475796.tif
+1086475842 framegrab -> 1086475842.tif
+1086475895 Port side deck fan just forward of funnel3
+1086475936 framegrab -> 1086475936.tif
+1086475964 framegrab -> 1086475964.tif
+1086476160 framegrab -> 1086476160.tif
+1086476166 framegrab -> 1086476166.tif
+1086476174 framegrab -> 1086476174.tif
+1086476260 framegrab -> 1086476260.tif
+1086476272 framegrab -> 1086476272.tif
+1086476284 framegrab -> 1086476284.tif
+1086476290 framegrab -> 1086476290.tif
+1086476308 framegrab -> 1086476308.tif
+1086476312 framegrab -> 1086476312.tif
+1086476324 framegrab -> 1086476324.tif
+1086476342 framegrab -> 1086476342.tif
+1086476389 spinning hercules to unwind tether
+1086476926 framegrab -> 1086476926.tif
+1086476934 framegrab -> 1086476934.tif
+1086476940 framegrab -> 1086476940.tif
+1086476944 framegrab -> 1086476944.tif
+1086476950 framegrab -> 1086476950.tif
+1086476956 framegrab -> 1086476956.tif
+1086476964 framegrab -> 1086476964.tif
+1086476968 framegrab -> 1086476968.tif
+1086476974 framegrab -> 1086476974.tif
+1086476978 framegrab -> 1086476978.tif
+1086476984 framegrab -> 1086476984.tif
+1086476992 framegrab -> 1086476992.tif
+1086477006 framegrab -> 1086477006.tif
+1086477036 framegrab -> 1086477036.tif
+1086477044 framegrab -> 1086477044.tif
+1086477058 framegrab -> 1086477058.tif
+1086477072 framegrab -> 1086477072.tif
+1086477078 framegrab -> 1086477078.tif
+1086477082 framegrab -> 1086477082.tif
+1086477088 framegrab -> 1086477088.tif
+1086477094 framegrab -> 1086477094.tif
+1086477098 framegrab -> 1086477098.tif
+1086477104 framegrab -> 1086477104.tif
+1086477108 framegrab -> 1086477108.tif
+1086477114 framegrab -> 1086477114.tif
+1086477120 framegrab -> 1086477120.tif
+1086477124 framegrab -> 1086477124.tif
+1086477130 framegrab -> 1086477130.tif
+1086477136 framegrab -> 1086477136.tif
+1086477298 framegrab -> 1086477298.tif
+1086477350 At the break looking at the layers
+1086477412 framegrab -> 1086477412.tif
+1086477428 framegrab -> 1086477428.tif
+1086477464 boiler at break
+1086477484 framegrab -> 1086477484.tif
+1086477534 framegrab -> 1086477534.tif
+1086477540 framegrab -> 1086477540.tif
+1086477576 framegrab -> 1086477576.tif
+1086477596 framegrab -> 1086477596.tif
+1086477625 boiler details at break in bow
+1086477642 framegrab -> 1086477642.tif
+1086477700 framegrab -> 1086477700.tif
+1086477740 framegrab -> 1086477740.tif
+1086477750 framegrab -> 1086477750.tif
+1086477774 framegrab -> 1086477774.tif
+1086477782 framegrab -> 1086477782.tif
+1086477806 framegrab -> 1086477806.tif
+1086477832 framegrab -> 1086477832.tif
+1086477846 framegrab -> 1086477846.tif
+1086477860 framegrab -> 1086477860.tif
+1086477866 framegrab -> 1086477866.tif
+1086477888 framegrab -> 1086477888.tif
+1086477902 framegrab -> 1086477902.tif
+1086477927 sweep of all five boilers at break
+1086477946 framegrab -> 1086477946.tif
+1086477956 framegrab -> 1086477956.tif
+1086477968 framegrab -> 1086477968.tif
+1086478002 framegrab -> 1086478002.tif
+1086478030 framegrab -> 1086478030.tif
+1086478134 framegrab -> 1086478134.tif
+1086478282 framegrab -> 1086478282.tif
+1086478296 framegrab -> 1086478296.tif
+1086478324 framegrab -> 1086478324.tif
+1086478344 framegrab -> 1086478344.tif
+1086478346 boiler 
+1086478501 Herc pilot shift change
+1086480169 Standing  by for Argus reposition
+1086480592 Last ship move completed
+1086480670 framegrab -> 1086480670.tif
+1086480816 framegrab -> 1086480816.tif
+1086480976 framegrab -> 1086480976.tif
+1086481190 framegrab -> 1086481190.tif
+1086481322 framegrab -> 1086481322.tif
+1086481338 framegrab -> 1086481338.tif
+1086481366 framegrab -> 1086481366.tif
+1086481424 framegrab -> 1086481424.tif
+1086481494 Argus lighting up boiler area, taking HD footage
+1086481670 framegrab -> 1086481670.tif
+1086481702 framegrab -> 1086481702.tif
+1086481724 framegrab -> 1086481724.tif
+1086481842 framegrab -> 1086481842.tif
+1086481882 framegrab -> 1086481882.tif
+1086482043 Called ship move 20 meters @ 050 degrees
+1086482058 Still trying to light up boilers w  Argus
+1086482164 framegrab -> 1086482164.tif
+1086482172 framegrab -> 1086482172.tif
+1086482427 Ship move complete
+1086482486 framegrab -> 1086482486.tif
+1086482640 Argus lining up over boilers, setting up lighting for shot
+1086482754 framegrab -> 1086482754.tif
+1086483214 framegrab -> 1086483214.tif
+1086483362 framegrab -> 1086483362.tif
+1086483596 framegrab -> 1086483596.tif
+1086483782 framegrab -> 1086483782.tif
+1086483796 framegrab -> 1086483796.tif
+1086483806 framegrab -> 1086483806.tif
+1086483832 framegrab -> 1086483832.tif
+1086483844 framegrab -> 1086483844.tif
+1086483892 framegrab -> 1086483892.tif
+1086483902 framegrab -> 1086483902.tif
+1086483914 framegrab -> 1086483914.tif
+1086483936 framegrab -> 1086483936.tif
+1086484184 framegrab -> 1086484184.tif
+1086484300 framegrab -> 1086484300.tif
+1086484308 framegrab -> 1086484308.tif
+1086484320 framegrab -> 1086484320.tif
+1086484330 framegrab -> 1086484330.tif
+1086484366 framegrab -> 1086484366.tif
+1086484384 framegrab -> 1086484384.tif
+1086484398 framegrab -> 1086484398.tif
+1086484592 framegrab -> 1086484592.tif
+1086484640 framegrab -> 1086484640.tif
+1086484666 framegrab -> 1086484666.tif
+1086484672 framegrab -> 1086484672.tif
+1086484678 framegrab -> 1086484678.tif
+1086484682 framegrab -> 1086484682.tif
+1086484688 framegrab -> 1086484688.tif
+1086484694 framegrab -> 1086484694.tif
+1086484698 framegrab -> 1086484698.tif
+1086484704 framegrab -> 1086484704.tif
+1086484708 framegrab -> 1086484708.tif
+1086484722 framegrab -> 1086484722.tif
+1086484728 framegrab -> 1086484728.tif
+1086484734 framegrab -> 1086484734.tif
+1086484744 framegrab -> 1086484744.tif
+1086484770 framegrab -> 1086484770.tif
+1086484794 framegrab -> 1086484794.tif
+1086484836 framegrab -> 1086484836.tif
+1086484841 Taking shots of boiler area...
+1086484942 framegrab -> 1086484942.tif
+1086484978 framegrab -> 1086484978.tif
+1086485092 framegrab -> 1086485092.tif
+1086485112 framegrab -> 1086485112.tif
+1086485122 framegrab -> 1086485122.tif
+1086485176 framegrab -> 1086485176.tif
+1086485301 Finished with boiler area, planning move to stern section
+1086485319 Calling ship move 500m @ 187 degrees, 0.25 knots
+1086485346 framegrab -> 1086485346.tif
+1086485360 framegrab -> 1086485360.tif
+1086485370 framegrab -> 1086485370.tif
+1086485378 framegrab -> 1086485378.tif
+1086485394 framegrab -> 1086485394.tif
+1086485438 framegrab -> 1086485438.tif
+1086485490 framegrab -> 1086485490.tif
+1086485594 framegrab -> 1086485594.tif
+1086485614 framegrab -> 1086485614.tif
+1086485638 framegrab -> 1086485638.tif
+1086485862 framegrab -> 1086485862.tif
+1086486053 Slowly lining up for march to stern
+1086486744 Looking at bottom during transit to stern section
+1086486818 framegrab -> 1086486818.tif
+1086486862 framegrab -> 1086486862.tif
+1086486904 framegrab -> 1086486904.tif
+1086486920 framegrab -> 1086486920.tif
+1086486944 framegrab -> 1086486944.tif
+1086487022 framegrab -> 1086487022.tif
+1086487052 framegrab -> 1086487052.tif
+1086487069 Looking at space heater and unidentified metal object
+1086487094 Zooming in on assorted debris during transit
+1086487210 framegrab -> 1086487210.tif
+1086487374 framegrab -> 1086487374.tif
+1086487406 framegrab -> 1086487406.tif
+1086487426 framegrab -> 1086487426.tif
+1086487444 framegrab -> 1086487444.tif
+1086487456 Sea anemone
+1086487460 framegrab -> 1086487460.tif
+1086487614 framegrab -> 1086487614.tif
+1086487630 framegrab -> 1086487630.tif
+1086487654 framegrab -> 1086487654.tif
+1086487670 framegrab -> 1086487670.tif
+1086487700 framegrab -> 1086487700.tif
+1086487719 Fan-like object
+1086487786 framegrab -> 1086487786.tif
+1086487800 Broken china
+1086487850 framegrab -> 1086487850.tif
+1086487884 framegrab -> 1086487884.tif
+1086487896 Tile
+1086487900 framegrab -> 1086487900.tif
+1086487954 framegrab -> 1086487954.tif
+1086487968 framegrab -> 1086487968.tif
+1086487984 framegrab -> 1086487984.tif
+1086487995 Large duct
+1086488012 framegrab -> 1086488012.tif
+1086488028 framegrab -> 1086488028.tif
+1086488042 framegrab -> 1086488042.tif
+1086488058 framegrab -> 1086488058.tif
+1086488082 framegrab -> 1086488082.tif
+1086488090 framegrab -> 1086488090.tif
+1086488124 framegrab -> 1086488124.tif
+1086488193 Porcelain chamberpot
+1086488278 framegrab -> 1086488278.tif
+1086488286 framegrab -> 1086488286.tif
+1086488310 framegrab -> 1086488310.tif
+1086488326 Chandelier
+1086488344 framegrab -> 1086488344.tif
+1086488406 framegrab -> 1086488406.tif
+1086488420 framegrab -> 1086488420.tif
+1086488442 Large metal frame w  rotten wood, possible chair\
+1086488456 framegrab -> 1086488456.tif
+1086488498 framegrab -> 1086488498.tif
+1086488564 framegrab -> 1086488564.tif
+1086488571 Driveshaft
+1086488572 framegrab -> 1086488572.tif
+1086488586 framegrab -> 1086488586.tif
+1086488602 framegrab -> 1086488602.tif
+1086488750 framegrab -> 1086488750.tif
+1086488768 framegrab -> 1086488768.tif
+1086488816 framegrab -> 1086488816.tif
+1086488842 Bowl
+1086488875 Hull plating
+1086488888 framegrab -> 1086488888.tif
+1086488896 framegrab -> 1086488896.tif
+1086488906 framegrab -> 1086488906.tif
+1086488946 framegrab -> 1086488946.tif
+1086489044 Small ridge
+1086489066 framegrab -> 1086489066.tif
+1086489128 framegrab -> 1086489128.tif
+1086489150 framegrab -> 1086489150.tif
+1086489182 framegrab -> 1086489182.tif
+1086489330 framegrab -> 1086489330.tif
+1086489340 framegrab -> 1086489340.tif
+1086489356 framegrab -> 1086489356.tif
+1086489422 framegrab -> 1086489422.tif
+1086489444 framegrab -> 1086489444.tif
+1086489446 Ship has completed move
+1086489462 framegrab -> 1086489462.tif
+1086489472 framegrab -> 1086489472.tif
+1086489490 framegrab -> 1086489490.tif
+1086489496 framegrab -> 1086489496.tif
+1086489528 Large chunk o' metal
+1086489544 framegrab -> 1086489544.tif
+1086489552 framegrab -> 1086489552.tif
+1086489750 framegrab -> 1086489750.tif
+1086489757 twisted pipe
+1086489774 framegrab -> 1086489774.tif
+1086489780 framegrab -> 1086489780.tif
+1086489859 Metal chair frame
+1086489874 framegrab -> 1086489874.tif
+1086489882 framegrab -> 1086489882.tif
+1086489890 framegrab -> 1086489890.tif
+1086489906 framegrab -> 1086489906.tif
+1086489918 framegrab -> 1086489918.tif
+1086489944 Called ship moved 150m @ 180 degrees
+1086490003 Toilet
+1086490020 framegrab -> 1086490020.tif
+1086490028 framegrab -> 1086490028.tif
+1086490038 framegrab -> 1086490038.tif
+1086490052 framegrab -> 1086490052.tif
+1086490100 framegrab -> 1086490100.tif
+1086490110 framegrab -> 1086490110.tif
+1086490120 framegrab -> 1086490120.tif
+1086490130 framegrab -> 1086490130.tif
+1086490174 framegrab -> 1086490174.tif
+1086490210 framegrab -> 1086490210.tif
+1086490248 framegrab -> 1086490248.tif
+1086490262 framegrab -> 1086490262.tif
+1086490270 framegrab -> 1086490270.tif
+1086490326 framegrab -> 1086490326.tif
+1086490333 Crab w  anemone on back!
+1086490476 framegrab -> 1086490476.tif
+1086490482 framegrab -> 1086490482.tif
+1086490552 framegrab -> 1086490552.tif
+1086490558 framegrab -> 1086490558.tif
+1086490594 framegrab -> 1086490594.tif
+1086490628 framegrab -> 1086490628.tif
+1086490646 framegrab -> 1086490646.tif
+1086490652 framegrab -> 1086490652.tif
+1086490660 framegrab -> 1086490660.tif
+1086490676 framegrab -> 1086490676.tif
+1086490732 Decomposed box containing unidentified brass cartridges
+1086490778 framegrab -> 1086490778.tif
+1086490784 framegrab -> 1086490784.tif
+1086490796 framegrab -> 1086490796.tif
+1086490861 Modern aluminum sampling box
+1086490910 framegrab -> 1086490910.tif
+1086490938 framegrab -> 1086490938.tif
+1086490946 framegrab -> 1086490946.tif
+1086490962 framegrab -> 1086490962.tif
+1086490971 Bowl w  White Star Line label
+1086490991 Ship move complete
+1086491187 Stern section visible on sonar
+1086491205 Range about 20m
+1086491282 Porcelain chamberpot
+1086491298 framegrab -> 1086491298.tif
+1086491306 framegrab -> 1086491306.tif
+1086491324 framegrab -> 1086491324.tif
+1086491378 Stern visible
+1086491380 framegrab -> 1086491380.tif
+1086491398 framegrab -> 1086491398.tif
+1086491424 framegrab -> 1086491424.tif
+1086491436 framegrab -> 1086491436.tif
+1086491462 framegrab -> 1086491462.tif
+1086491498 framegrab -> 1086491498.tif
+1086491506 framegrab -> 1086491506.tif
+1086491526 framegrab -> 1086491526.tif
+1086491600 framegrab -> 1086491600.tif
+1086491668 framegrab -> 1086491668.tif
+1086491712 framegrab -> 1086491712.tif
+1086491740 framegrab -> 1086491740.tif
+1086491800 framegrab -> 1086491800.tif
+1086491810 framegrab -> 1086491810.tif
+1086491818 framegrab -> 1086491818.tif
+1086491830 framegrab -> 1086491830.tif
+1086491840 framegrab -> 1086491840.tif
+1086491852 framegrab -> 1086491852.tif
+1086491862 framegrab -> 1086491862.tif
+1086491880 framegrab -> 1086491880.tif
+1086491892 framegrab -> 1086491892.tif
+1086491900 framegrab -> 1086491900.tif
+1086491910 framegrab -> 1086491910.tif
+1086491918 framegrab -> 1086491918.tif
+1086492005 Probably not stern section, some other large pile of wreckage
+1086492017 Large piece of machinery visible
+1086492032 framegrab -> 1086492032.tif
+1086492044 framegrab -> 1086492044.tif
+1086492094 framegrab -> 1086492094.tif
+1086492138 framegrab -> 1086492138.tif
+1086492180 framegrab -> 1086492180.tif
+1086492210 framegrab -> 1086492210.tif
+1086492240 framegrab -> 1086492240.tif
+1086492272 framegrab -> 1086492272.tif
+1086492433 Crankshaft next to machinery
+1086492512 framegrab -> 1086492512.tif
+1086492604 framegrab -> 1086492604.tif
+1086492742 framegrab -> 1086492742.tif
+1086492748 framegrab -> 1086492748.tif
+1086492756 framegrab -> 1086492756.tif
+1086492768 framegrab -> 1086492768.tif
+1086492806 framegrab -> 1086492806.tif
+1086492811 Looking at various debris around wreckage pile
+1086492852 framegrab -> 1086492852.tif
+1086492910 framegrab -> 1086492910.tif
+1086492915 Moving towards stern coordinates
+1086492965 Stern visible
+1086492980 framegrab -> 1086492980.tif
+1086493022 framegrab -> 1086493022.tif
+1086493072 framegrab -> 1086493072.tif
+1086493122 Hercules is on port side of stern, far aft
+1086493186 framegrab -> 1086493186.tif
+1086493832 on port side of stern
+1086493840 shift change
+1086493852 mouse crapped out and John B fixed it'
+1086494374 framegrab -> 1086494374.tif
+1086494420 framegrab -> 1086494420.tif
+1086494488 framegrab -> 1086494488.tif
+1086494681 weather update from bridge - winds have increased to 25 knts from NW; swell 8-10 ft from WSW; current 1.5 knts; barometer is on rise from 1017 
+1086494750 framegrab -> 1086494750.tif
+1086494761 in debris field and see stack of plates
+1086494823 From bridge - forecast for 8 00 a.m. is 15-20 knts with same sea height of 8-10 feet
+1086494842 framegrab -> 1086494842.tif
+1086494846 framegrab -> 1086494846.tif
+1086494852 framegrab -> 1086494852.tif
+1086494884 framegrab -> 1086494884.tif
+1086494912 framegrab -> 1086494912.tif
+1086494930 framegrab -> 1086494930.tif
+1086494944 framegrab -> 1086494944.tif
+1086494988 framegrab -> 1086494988.tif
+1086495014 framegrab -> 1086495014.tif
+1086495020 framegrab -> 1086495020.tif
+1086495038 framegrab -> 1086495038.tif
+1086495056 framegrab -> 1086495056.tif
+1086495070 framegrab -> 1086495070.tif
+1086495088 framegrab -> 1086495088.tif
+1086495218 framegrab -> 1086495218.tif
+1086495238 framegrab -> 1086495238.tif
+1086495246 framegrab -> 1086495246.tif
+1086495256 framegrab -> 1086495256.tif
+1086495268 framegrab -> 1086495268.tif
+1086495274 framegrab -> 1086495274.tif
+1086495384 framegrab -> 1086495384.tif
+1086495394 framegrab -> 1086495394.tif
+1086495400 framegrab -> 1086495400.tif
+1086495410 framegrab -> 1086495410.tif
+1086495480 weather from bridge - low to N of us and high to S of us, so we are right in the middle
+1086495500 framegrab -> 1086495500.tif
+1086495512 framegrab -> 1086495512.tif
+1086495542 framegrab -> 1086495542.tif
+1086495618 framegrab -> 1086495618.tif
+1086495626 framegrab -> 1086495626.tif
+1086495668 framegrab -> 1086495668.tif
+1086495682 framegrab -> 1086495682.tif
+1086495708 framegrab -> 1086495708.tif
+1086495722 framegrab -> 1086495722.tif
+1086495734 framegrab -> 1086495734.tif
+1086495740 framegrab -> 1086495740.tif
+1086495751 ship lost port thruster and working on it . .  . 
+1086495772 framegrab -> 1086495772.tif
+1086495778 framegrab -> 1086495778.tif
+1086495802 framegrab -> 1086495802.tif
+1086495808 framegrab -> 1086495808.tif
+1086495814 framegrab -> 1086495814.tif
+1086495818 framegrab -> 1086495818.tif
+1086495830 framegrab -> 1086495830.tif
+1086495848 framegrab -> 1086495848.tif
+1086495934 framegrab -> 1086495934.tif
+1086495972 framegrab -> 1086495972.tif
+1086495982 framegrab -> 1086495982.tif
+1086495988 framegrab -> 1086495988.tif
+1086496000 framegrab -> 1086496000.tif
+1086496024 framegrab -> 1086496024.tif
+1086496048 framegrab -> 1086496048.tif
+1086496058 framegrab -> 1086496058.tif
+1086496074 framegrab -> 1086496074.tif
+1086496096 framegrab -> 1086496096.tif
+1086496108 framegrab -> 1086496108.tif
+1086496116 framegrab -> 1086496116.tif
+1086496122 framegrab -> 1086496122.tif
+1086496128 framegrab -> 1086496128.tif
+1086496138 framegrab -> 1086496138.tif
+1086496146 framegrab -> 1086496146.tif
+1086496154 framegrab -> 1086496154.tif
+1086496157 some sort of plumbing with yellow paint
+1086496188 framegrab -> 1086496188.tif
+1086496195 appears that ship has moved about 25 m south
+1086496209 may bring vehicles parallell with stern
+1086496262 framegrab -> 1086496262.tif
+1086496321 Fuse blew and engineers are fixing it.  Bridge trying to hold station.
+1086496352 framegrab -> 1086496352.tif
+1086496396 Bridge resetting position to remain in this more southerly position
+1086496420 framegrab -> 1086496420.tif
+1086496452 framegrab -> 1086496452.tif
+1086496472 framegrab -> 1086496472.tif
+1086496486 framegrab -> 1086496486.tif
+1086496502 framegrab -> 1086496502.tif
+1086496520 framegrab -> 1086496520.tif
+1086496526 framegrab -> 1086496526.tif
+1086496570 framegrab -> 1086496570.tif
+1086496606 framegrab -> 1086496606.tif
+1086496614 framegrab -> 1086496614.tif
+1086496618 framegrab -> 1086496618.tif
+1086496640 framegrab -> 1086496640.tif
+1086496644 framegrab -> 1086496644.tif
+1086496656 framegrab -> 1086496656.tif
+1086496662 framegrab -> 1086496662.tif
+1086496668 framegrab -> 1086496668.tif
+1086496672 framegrab -> 1086496672.tif
+1086496678 framegrab -> 1086496678.tif
+1086496710 framegrab -> 1086496710.tif
+1086496716 framegrab -> 1086496716.tif
+1086496722 framegrab -> 1086496722.tif
+1086496728 framegrab -> 1086496728.tif
+1086496732 framegrab -> 1086496732.tif
+1086496738 framegrab -> 1086496738.tif
+1086496748 framegrab -> 1086496748.tif
+1086496766 framegrab -> 1086496766.tif
+1086496772 framegrab -> 1086496772.tif
+1086496780 framegrab -> 1086496780.tif
+1086496792 framegrab -> 1086496792.tif
+1086496813 imaging debris while waiting for ship to stabilize
+1086496830 framegrab -> 1086496830.tif
+1086496874 framegrab -> 1086496874.tif
+1086496924 framegrab -> 1086496924.tif
+1086496932 framegrab -> 1086496932.tif
+1086496938 framegrab -> 1086496938.tif
+1086496964 framegrab -> 1086496964.tif
+1086496990 framegrab -> 1086496990.tif
+1086496996 framegrab -> 1086496996.tif
+1086497002 framegrab -> 1086497002.tif
+1086497010 framegrab -> 1086497010.tif
+1086497034 framegrab -> 1086497034.tif
+1086497040 framegrab -> 1086497040.tif
+1086497046 framegrab -> 1086497046.tif
+1086497052 framegrab -> 1086497052.tif
+1086497058 framegrab -> 1086497058.tif
+1086497062 framegrab -> 1086497062.tif
+1086497068 framegrab -> 1086497068.tif
+1086497076 framegrab -> 1086497076.tif
+1086497082 framegrab -> 1086497082.tif
+1086497090 framegrab -> 1086497090.tif
+1086497096 framegrab -> 1086497096.tif
+1086497108 framegrab -> 1086497108.tif
+1086497126 framegrab -> 1086497126.tif
+1086497132 framegrab -> 1086497132.tif
+1086497138 framegrab -> 1086497138.tif
+1086497144 framegrab -> 1086497144.tif
+1086497148 framegrab -> 1086497148.tif
+1086497172 framegrab -> 1086497172.tif
+1086497204 framegrab -> 1086497204.tif
+1086497246 framegrab -> 1086497246.tif
+1086497252 framegrab -> 1086497252.tif
+1086497268 framegrab -> 1086497268.tif
+1086497300 framegrab -> 1086497300.tif
+1086497306 framegrab -> 1086497306.tif
+1086497360 framegrab -> 1086497360.tif
+1086497364 framegrab -> 1086497364.tif
+1086497428 framegrab -> 1086497428.tif
+1086497434 framegrab -> 1086497434.tif
+1086497438 framegrab -> 1086497438.tif
+1086497444 framegrab -> 1086497444.tif
+1086497450 framegrab -> 1086497450.tif
+1086497454 framegrab -> 1086497454.tif
+1086497460 framegrab -> 1086497460.tif
+1086497464 framegrab -> 1086497464.tif
+1086497470 framegrab -> 1086497470.tif
+1086497476 framegrab -> 1086497476.tif
+1086497482 framegrab -> 1086497482.tif
+1086497486 framegrab -> 1086497486.tif
+1086497492 framegrab -> 1086497492.tif
+1086497494 bridge reported that they got the thruster back up and then out again
+1086497496 framegrab -> 1086497496.tif
+1086497502 framegrab -> 1086497502.tif
+1086497510 framegrab -> 1086497510.tif
+1086497522 framegrab -> 1086497522.tif
+1086497528 framegrab -> 1086497528.tif
+1086497534 framegrab -> 1086497534.tif
+1086497538 framegrab -> 1086497538.tif
+1086497544 framegrab -> 1086497544.tif
+1086497550 framegrab -> 1086497550.tif
+1086497556 framegrab -> 1086497556.tif
+1086497560 framegrab -> 1086497560.tif
+1086497566 framegrab -> 1086497566.tif
+1086497580 framegrab -> 1086497580.tif
+1086497586 framegrab -> 1086497586.tif
+1086497602 framegrab -> 1086497602.tif
+1086497606 framegrab -> 1086497606.tif
+1086497612 framegrab -> 1086497612.tif
+1086497620 framegrab -> 1086497620.tif
+1086497648 framegrab -> 1086497648.tif
+1086497652 framegrab -> 1086497652.tif
+1086497658 framegrab -> 1086497658.tif
+1086497664 framegrab -> 1086497664.tif
+1086497670 framegrab -> 1086497670.tif
+1086497674 framegrab -> 1086497674.tif
+1086497680 framegrab -> 1086497680.tif
+1086497690 framegrab -> 1086497690.tif
+1086497716 framegrab -> 1086497716.tif
+1086497722 framegrab -> 1086497722.tif
+1086497726 framegrab -> 1086497726.tif
+1086497732 framegrab -> 1086497732.tif
+1086497742 framegrab -> 1086497742.tif
+1086497752 framegrab -> 1086497752.tif
+1086497764 framegrab -> 1086497764.tif
+1086497786 framegrab -> 1086497786.tif
+1086497818 Update from bridge - More than a blown fuse problem with thruster, so unknown repair time at this point
+1086497838 framegrab -> 1086497838.tif
+1086497844 framegrab -> 1086497844.tif
+1086497850 framegrab -> 1086497850.tif
+1086497854 framegrab -> 1086497854.tif
+1086497864 framegrab -> 1086497864.tif
+1086497892 framegrab -> 1086497892.tif
+1086497944 framegrab -> 1086497944.tif
+1086497967 From bridge - No significant changes in weather, except that wind has died down a bit
+1086497992 framegrab -> 1086497992.tif
+1086498002 framegrab -> 1086498002.tif
+1086498014 framegrab -> 1086498014.tif
+1086498022 framegrab -> 1086498022.tif
+1086498030 framegrab -> 1086498030.tif
+1086498068 framegrab -> 1086498068.tif
+1086498080 framegrab -> 1086498080.tif
+1086498086 framegrab -> 1086498086.tif
+1086498106 framegrab -> 1086498106.tif
+1086498124 framegrab -> 1086498124.tif
+1086498140 framegrab -> 1086498140.tif
+1086498164 framegrab -> 1086498164.tif
+1086498246 framegrab -> 1086498246.tif
+1086498252 framegrab -> 1086498252.tif
+1086498258 framegrab -> 1086498258.tif
+1086498264 framegrab -> 1086498264.tif
+1086498270 framegrab -> 1086498270.tif
+1086498274 framegrab -> 1086498274.tif
+1086498288 framegrab -> 1086498288.tif
+1086498312 framegrab -> 1086498312.tif
+1086498318 framegrab -> 1086498318.tif
+1086498326 framegrab -> 1086498326.tif
+1086498342 framegrab -> 1086498342.tif
+1086498350 framegrab -> 1086498350.tif
+1086498366 framegrab -> 1086498366.tif
+1086498370 framegrab -> 1086498370.tif
+1086498376 framegrab -> 1086498376.tif
+1086498382 framegrab -> 1086498382.tif
+1086498388 framegrab -> 1086498388.tif
+1086498392 framegrab -> 1086498392.tif
+1086498398 framegrab -> 1086498398.tif
+1086498404 framegrab -> 1086498404.tif
+1086498408 framegrab -> 1086498408.tif
+1086498414 framegrab -> 1086498414.tif
+1086498418 framegrab -> 1086498418.tif
+1086498446 framegrab -> 1086498446.tif
+1086498452 framegrab -> 1086498452.tif
+1086498464 framegrab -> 1086498464.tif
+1086498470 framegrab -> 1086498470.tif
+1086498484 framegrab -> 1086498484.tif
+1086498490 framegrab -> 1086498490.tif
+1086498496 framegrab -> 1086498496.tif
+1086498502 framegrab -> 1086498502.tif
+1086498506 framegrab -> 1086498506.tif
+1086498512 framegrab -> 1086498512.tif
+1086498516 framegrab -> 1086498516.tif
+1086498522 framegrab -> 1086498522.tif
+1086498552 framegrab -> 1086498552.tif
+1086498556 framegrab -> 1086498556.tif
+1086498562 framegrab -> 1086498562.tif
+1086498568 framegrab -> 1086498568.tif
+1086498572 framegrab -> 1086498572.tif
+1086498578 framegrab -> 1086498578.tif
+1086498677 making the determination of whether or not to recover vehicles due to engine problem
+1086498872 Decision made to recover vehicles 
+1086498886 framegrab -> 1086498886.tif
+1086498901 Wind just slightly off starboard bow right now to provide a lee at fantail
+1086498928 Currents running towards ESE
+1086498932 This heading is a good one
+1086498960 Vehicles just East of wreck right now
+1086499094 staged photos of bench since it appeared to be same as in 1986 photo
+1086499110 framegrab -> 1086499110.tif
+1086499120 framegrab -> 1086499120.tif
+1086499126 framegrab -> 1086499126.tif
+1086499136 framegrab -> 1086499136.tif
+1086499142 framegrab -> 1086499142.tif
+1086499148 framegrab -> 1086499148.tif
+1086499154 framegrab -> 1086499154.tif
+1086499166 framegrab -> 1086499166.tif
+1086499170 framegrab -> 1086499170.tif
+1086499178 framegrab -> 1086499178.tif
+1086499184 framegrab -> 1086499184.tif
+1086499196 framegrab -> 1086499196.tif
+1086499204 framegrab -> 1086499204.tif
+1086499208 framegrab -> 1086499208.tif
+1086499214 framegrab -> 1086499214.tif
+1086499218 framegrab -> 1086499218.tif
+1086499226 framegrab -> 1086499226.tif
+1086499234 framegrab -> 1086499234.tif
+1086499258 framegrab -> 1086499258.tif
+1086499264 framegrab -> 1086499264.tif
+1086499272 framegrab -> 1086499272.tif
+1086499278 framegrab -> 1086499278.tif
+1086499284 framegrab -> 1086499284.tif
+1086499290 framegrab -> 1086499290.tif
+1086499298 framegrab -> 1086499298.tif
+1086499303 Vehicles leaving the bottom
+1086499504 Hercules depth @ 3761 m
+1086499582 Celebrating our longest dive of the cruise so far - 30 hours!
+1086499591 Hercules @ 3744 m
+1086499942 Hercules @ 3682
+1086500190 Got port thrusters back on line, but continuing with recovery
+1086500338 From bridge - everything seems to be working correctly 
+1086500365 Holding vehicles on station and considering lowering the vehicles to resume survey rather than recovering 
+1086500439 Vehicles NW of stern right now so would move to North before lowering vehicles - if that decision is made
+1086500516 Wade spoke with Captain and Captain is leaving decision up to IFE crew about whether to recover vehicles or not - no need to recover vehicles in their view
+1086500561 Fuse on SER controllers on motor blew - replaced fuse and it blew again - replaced it one more time and it was fine - no definitive reason as to why fuse blew - the second time it could have been a bad fuse
+1086500754 From bridge - engineers found ribbon cable that was rubbing against metal and may have caused fuse to blow initially
+1086500798 Herc is about 180 m off bottom and deciding whether to drop vehicles back down
+1086501058 update from bridge - engineers changing out fuse-block that fuse is sitting in so need to take away port thruster for about 5 minutes
+1086501228 Port thruster is back on line
+1086501261 Plan is for vehicles to drop back down and get back into position
+1086501293 Requesting ship to move 90 m due East at quarter of a knt
+1086501820 Herc @ 3593 m
+1086502023 Looks like ship is moving to SE
+1086502036 Bridge trying to come move into position, having problems due to wind
+1086502496 Bridge reported that they drifted to NE of intended position, but now moving back into position
+1086502682 Bridge completed position move
+1086502760 Wind has decreased to 15 knts
+1086503008 moving Argus down 3m per min
+1086503810 Herc is still about 100 m off bottom
+1086503824 Argus picking up a bit of speed to 8 m per min
+1086504044 Herc just passed 3700 m
+1086504151 Herc @ 53 m from bottom
+1086504378 Herc @ 20 m from bottom
+1086504421 Vehicles all stop at 14 m from bottom
+1086504540 Relative position to stern of ship is NE of stern - true position due to movement of boat is East of stern
+1086504617 Argus has Herc in sight
+1086504652 Bottom in sight on bubble cam
+1086504693 Herc @ 12 m off bottom
+1086504710 Holding position of vehicles
+1086504717 Bottom in sight on Herc HD
+1086504738 framegrab -> 1086504738.tif
+1086504911 Data logger computer having problems with frame grabs - message says 'no video' where image should show up. Charlie working on it.
+1086504991 Target 30 m dead ahead on Herc
+1086505230 framegrab -> 1086505230.tif
+1086505316 Data logger frame grab problem resolved
+1086505334 framegrab -> 1086505334.tif
+1086505338 Surveying debris field
+1086505358 framegrab -> 1086505358.tif
+1086505378 framegrab -> 1086505378.tif
+1086505436 framegrab -> 1086505436.tif
+1086505446 framegrab -> 1086505446.tif
+1086505454 framegrab -> 1086505454.tif
+1086505460 framegrab -> 1086505460.tif
+1086505474 framegrab -> 1086505474.tif
+1086505484 framegrab -> 1086505484.tif
+1086505488 framegrab -> 1086505488.tif
+1086505498 framegrab -> 1086505498.tif
+1086505510 framegrab -> 1086505510.tif
+1086505532 framegrab -> 1086505532.tif
+1086505540 framegrab -> 1086505540.tif
+1086505546 framegrab -> 1086505546.tif
+1086505556 framegrab -> 1086505556.tif
+1086505584 framegrab -> 1086505584.tif
+1086505590 framegrab -> 1086505590.tif
+1086505596 framegrab -> 1086505596.tif
+1086505618 framegrab -> 1086505618.tif
+1086505662 framegrab -> 1086505662.tif
+1086505676 framegrab -> 1086505676.tif
+1086505682 framegrab -> 1086505682.tif
+1086505714 framegrab -> 1086505714.tif
+1086505722 framegrab -> 1086505722.tif
+1086505735 Waiting for vehicles to stabilize - still moving due to ship
+1086505760 framegrab -> 1086505760.tif
+1086505842 framegrab -> 1086505842.tif
+1086505878 framegrab -> 1086505878.tif
+1086505890 framegrab -> 1086505890.tif
+1086505896 framegrab -> 1086505896.tif
+1086505914 framegrab -> 1086505914.tif
+1086505947 Moving Argus up 5 m
+1086506080 framegrab -> 1086506080.tif
+1086506085 Argus getting pulled past Herc
+1086506100 framegrab -> 1086506100.tif
+1086506110 framegrab -> 1086506110.tif
+1086506118 framegrab -> 1086506118.tif
+1086506126 framegrab -> 1086506126.tif
+1086506132 framegrab -> 1086506132.tif
+1086506146 framegrab -> 1086506146.tif
+1086506168 framegrab -> 1086506168.tif
+1086506180 framegrab -> 1086506180.tif
+1086506190 framegrab -> 1086506190.tif
+1086506202 framegrab -> 1086506202.tif
+1086506210 framegrab -> 1086506210.tif
+1086506252 framegrab -> 1086506252.tif
+1086506294 framegrab -> 1086506294.tif
+1086506354 framegrab -> 1086506354.tif
+1086506366 framegrab -> 1086506366.tif
+1086506382 framegrab -> 1086506382.tif
+1086506392 Still surveying debris
+1086506408 framegrab -> 1086506408.tif
+1086506427 crushed pipe with a flange
+1086506428 framegrab -> 1086506428.tif
+1086506442 framegrab -> 1086506442.tif
+1086506472 framegrab -> 1086506472.tif
+1086506546 framegrab -> 1086506546.tif
+1086506568 framegrab -> 1086506568.tif
+1086506576 framegrab -> 1086506576.tif
+1086506590 framegrab -> 1086506590.tif
+1086506602 framegrab -> 1086506602.tif
+1086506618 framegrab -> 1086506618.tif
+1086506628 framegrab -> 1086506628.tif
+1086506634 framegrab -> 1086506634.tif
+1086506644 framegrab -> 1086506644.tif
+1086506816 framegrab -> 1086506816.tif
+1086506840 framegrab -> 1086506840.tif
+1086506858 framegrab -> 1086506858.tif
+1086506880 framegrab -> 1086506880.tif
+1086506936 framegrab -> 1086506936.tif
+1086506960 framegrab -> 1086506960.tif
+1086507036 framegrab -> 1086507036.tif
+1086507044 Argus and Herc getting pulled from ship movement
+1086507066 framegrab -> 1086507066.tif
+1086507326 framegrab -> 1086507326.tif
+1086507454 framegrab -> 1086507454.tif
+1086507462 framegrab -> 1086507462.tif
+1086507476 framegrab -> 1086507476.tif
+1086507488 framegrab -> 1086507488.tif
+1086507506 framegrab -> 1086507506.tif
+1086507512 framegrab -> 1086507512.tif
+1086507518 framegrab -> 1086507518.tif
+1086507530 framegrab -> 1086507530.tif
+1086507542 framegrab -> 1086507542.tif
+1086507548 framegrab -> 1086507548.tif
+1086507554 framegrab -> 1086507554.tif
+1086507584 framegrab -> 1086507584.tif
+1086507594 framegrab -> 1086507594.tif
+1086507604 framegrab -> 1086507604.tif
+1086507620 framegrab -> 1086507620.tif
+1086507626 framegrab -> 1086507626.tif
+1086507632 framegrab -> 1086507632.tif
+1086507670 framegrab -> 1086507670.tif
+1086507696 framegrab -> 1086507696.tif
+1086507708 framegrab -> 1086507708.tif
+1086507744 framegrab -> 1086507744.tif
+1086507752 framegrab -> 1086507752.tif
+1086507762 framegrab -> 1086507762.tif
+1086507776 framegrab -> 1086507776.tif
+1086507784 framegrab -> 1086507784.tif
+1086507790 framegrab -> 1086507790.tif
+1086507796 framegrab -> 1086507796.tif
+1086507802 framegrab -> 1086507802.tif
+1086507808 framegrab -> 1086507808.tif
+1086507818 framegrab -> 1086507818.tif
+1086507822 framegrab -> 1086507822.tif
+1086507836 framegrab -> 1086507836.tif
+1086507874 framegrab -> 1086507874.tif
+1086507888 framegrab -> 1086507888.tif
+1086507898 framegrab -> 1086507898.tif
+1086507906 framegrab -> 1086507906.tif
+1086507912 framegrab -> 1086507912.tif
+1086507920 framegrab -> 1086507920.tif
+1086507928 framegrab -> 1086507928.tif
+1086507934 framegrab -> 1086507934.tif
+1086507940 framegrab -> 1086507940.tif
+1086507946 framegrab -> 1086507946.tif
+1086507966 framegrab -> 1086507966.tif
+1086507972 framegrab -> 1086507972.tif
+1086507978 framegrab -> 1086507978.tif
+1086507984 framegrab -> 1086507984.tif
+1086508008 framegrab -> 1086508008.tif
+1086508022 framegrab -> 1086508022.tif
+1086508044 Odd brass box of weights or bottles
+1086508066 framegrab -> 1086508066.tif
+1086508072 framegrab -> 1086508072.tif
+1086508088 framegrab -> 1086508088.tif
+1086508096 framegrab -> 1086508096.tif
+1086508116 framegrab -> 1086508116.tif
+1086508132 framegrab -> 1086508132.tif
+1086508144 framegrab -> 1086508144.tif
+1086508162 framegrab -> 1086508162.tif
+1086508184 framegrab -> 1086508184.tif
+1086508204 framegrab -> 1086508204.tif
+1086508226 framegrab -> 1086508226.tif
+1086508250 framegrab -> 1086508250.tif
+1086508290 framegrab -> 1086508290.tif
+1086508296 framegrab -> 1086508296.tif
+1086508304 framegrab -> 1086508304.tif
+1086508314 framegrab -> 1086508314.tif
+1086508322 framegrab -> 1086508322.tif
+1086508330 framegrab -> 1086508330.tif
+1086508356 framegrab -> 1086508356.tif
+1086508360 framegrab -> 1086508360.tif
+1086508366 framegrab -> 1086508366.tif
+1086508372 framegrab -> 1086508372.tif
+1086508380 framegrab -> 1086508380.tif
+1086508386 framegrab -> 1086508386.tif
+1086508394 framegrab -> 1086508394.tif
+1086508400 framegrab -> 1086508400.tif
+1086508406 framegrab -> 1086508406.tif
+1086508418 framegrab -> 1086508418.tif
+1086508438 framegrab -> 1086508438.tif
+1086508458 framegrab -> 1086508458.tif
+1086508468 framegrab -> 1086508468.tif
+1086508480 framegrab -> 1086508480.tif
+1086508594 watch change
+1086509106 framegrab -> 1086509106.tif
+1086509165 marble -- possibly something from the bathroom area
+1086509260 framegrab -> 1086509260.tif
+1086509467 6 PSI on reservoir
+1086509609 in debris field, heading 185
+1086509695 big 'ol hunka metal
+1086509756 pipe
+1086509776 framegrab -> 1086509776.tif
+1086509832 boiler
+1086509850 framegrab -> 1086509850.tif
+1086509872 framegrab -> 1086509872.tif
+1086510126 framegrab -> 1086510126.tif
+1086510144 framegrab -> 1086510144.tif
+1086510182 framegrab -> 1086510182.tif
+1086510226 framegrab -> 1086510226.tif
+1086510274 this is the "boiler with the plate on top"
+1086510358 framegrab -> 1086510358.tif
+1086510541 slowly drifting east 
+1086510923 determining plan...
+1086510948 framegrab -> 1086510948.tif
+1086510964 big tangled mass of pipes
+1086510994 framegrab -> 1086510994.tif
+1086511008 sea cucumber
+1086511032 framegrab -> 1086511032.tif
+1086511072 framegrab -> 1086511072.tif
+1086511076 looks like a rag?  has a grommet in it
+1086511130 framegrab -> 1086511130.tif
+1086511315 moving ship 150m @ 270, .2knots
+1086511370 framegrab -> 1086511370.tif
+1086511414 framegrab -> 1086511414.tif
+1086511454 fish basking in the HMIs
+1086511504 drain pipe
+1086511506 framegrab -> 1086511506.tif
+1086511574 framegrab -> 1086511574.tif
+1086511579 big hunk of mangled structure
+1086511704 drive belt? or piece of thin bent metal
+1086511750 framegrab -> 1086511750.tif
+1086511850 framegrab -> 1086511850.tif
+1086511866 framegrab -> 1086511866.tif
+1086511922 framegrab -> 1086511922.tif
+1086511980 framegrab -> 1086511980.tif
+1086512014 framegrab -> 1086512014.tif
+1086512053 skylight or something decorative
+1086512116 framegrab -> 1086512116.tif
+1086512134 framegrab -> 1086512134.tif
+1086512148 framegrab -> 1086512148.tif
+1086512162 framegrab -> 1086512162.tif
+1086512194 framegrab -> 1086512194.tif
+1086512210 bunch of grabs of skylight thing
+1086512223 shaft pump for wter system?
+1086512238 framegrab -> 1086512238.tif
+1086512264 framegrab -> 1086512264.tif
+1086512286 framegrab -> 1086512286.tif
+1086512304 framegrab -> 1086512304.tif
+1086512322 framegrab -> 1086512322.tif
+1086512342 framegrab -> 1086512342.tif
+1086512357 coral on end of that pump thing
+1086512420 framegrab -> 1086512420.tif
+1086512547 bowl, skidmarks from previous visitors
+1086512596 framegrab -> 1086512596.tif
+1086512896 framegrab -> 1086512896.tif
+1086512896 ship move complete
+1086512986 p
+1086512989 cup
+1086512990 framegrab -> 1086512990.tif
+1086513008 framegrab -> 1086513008.tif
+1086513073 skid marks from alvin?
+1086513082 acc. to capt. mclean
+1086513096 framegrab -> 1086513096.tif
+1086513102 framegrab -> 1086513102.tif
+1086513171 chain
+1086513186 framegrab -> 1086513186.tif
+1086513228 framegrab -> 1086513228.tif
+1086513238 chain has pink line on it -- modern?
+1086513264 framegrab -> 1086513264.tif
+1086513657 another chunk of chain, w  sandbags
+1086513732 framegrab -> 1086513732.tif
+1086513742 framegrab -> 1086513742.tif
+1086513758 framegrab -> 1086513758.tif
+1086513854 framegrab -> 1086513854.tif
+1086513861 bedpost
+1086513864 framegrab -> 1086513864.tif
+1086513892 framegrab -> 1086513892.tif
+1086514060 arrived at stern
+1086514240 at point of the stern, can see 2 deck boxes
+1086514258 framegrab -> 1086514258.tif
+1086514288 framegrab -> 1086514288.tif
+1086514398 framegrab -> 1086514398.tif
+1086514437 looking at the underside of the ship
+1086514678 framegrab -> 1086514678.tif
+1086514686 framegrab -> 1086514686.tif
+1086514694 framegrab -> 1086514694.tif
+1086514710 light fixture
+1086514714 framegrab -> 1086514714.tif
+1086514787 requested another ship move, due south 100m
+1086514882 framegrab -> 1086514882.tif
+1086514906 framegrab -> 1086514906.tif
+1086514921  deck boxes
+1086514924 framegrab -> 1086514924.tif
+1086514966 framegrab -> 1086514966.tif
+1086515030 rudder dead ahead
+1086515142 framegrab -> 1086515142.tif
+1086515160 framegrab -> 1086515160.tif
+1086515174 framegrab -> 1086515174.tif
+1086515194 framegrab -> 1086515194.tif
+1086515232 framegrab -> 1086515232.tif
+1086515238 framegrab -> 1086515238.tif
+1086515446 framegrab -> 1086515446.tif
+1086515458 framegrab -> 1086515458.tif
+1086515530 framegrab -> 1086515530.tif
+1086515580 framegrab -> 1086515580.tif
+1086515621   ship has completed last move
+1086515638 framegrab -> 1086515638.tif
+1086515658 framegrab -> 1086515658.tif
+1086515661 big hatch or hole
+1086515748 framegrab -> 1086515748.tif
+1086515976 framegrab -> 1086515976.tif
+1086515979 square holes on deckhouse
+1086516002 framegrab -> 1086516002.tif
+1086516020 framegrab -> 1086516020.tif
+1086516035 at aft mast
+1086516048 framegrab -> 1086516048.tif
+1086516066 framegrab -> 1086516066.tif
+1086516090 framegrab -> 1086516090.tif
+1086516272 framegrab -> 1086516272.tif
+1086516277 at a crane
+1086516300 framegrab -> 1086516300.tif
+1086516358 framegrab -> 1086516358.tif
+1086516626 framegrab -> 1086516626.tif
+1086516696 framegrab -> 1086516696.tif
+1086516724 framegrab -> 1086516724.tif
+1086516788 framegrab -> 1086516788.tif
+1086516806 framegrab -> 1086516806.tif
+1086516828 framegrab -> 1086516828.tif
+1086516890 framegrab -> 1086516890.tif
+1086517112 framegrab -> 1086517112.tif
+1086517156 framegrab -> 1086517156.tif
+1086517290 framegrab -> 1086517290.tif
+1086517414 in debris field 
+1086517417 platter
+1086517438 framegrab -> 1086517438.tif
+1086517503 at end of stern
+1086517538 southernmost part of stern
+1086517540 framegrab -> 1086517540.tif
+1086517602 framegrab -> 1086517602.tif
+1086517649 moving ship 40m @ 270
+1086517670 framegrab -> 1086517670.tif
+1086517836 framegrab -> 1086517836.tif
+1086517848 framegrab -> 1086517848.tif
+1086518097 ship move complete
+1086518218 framegrab -> 1086518218.tif
+1086518251 chunk of metal that looks like a mask
+1086518610 bowl
+1086518614 framegrab -> 1086518614.tif
+1086518619 jim is singing "rubber ducky"
+1086518844 ship move finished 12 min ago
+1086518920 engines
+1086518922 framegrab -> 1086518922.tif
+1086518940 framegrab -> 1086518940.tif
+1086518954 framegrab -> 1086518954.tif
+1086518964 framegrab -> 1086518964.tif
+1086518978 framegrab -> 1086518978.tif
+1086518996 framegrab -> 1086518996.tif
+1086519011 15m @ 000
+1086519026 framegrab -> 1086519026.tif
+1086519032 framegrab -> 1086519032.tif
+1086519042 framegrab -> 1086519042.tif
+1086519058 framegrab -> 1086519058.tif
+1086519098 framegrab -> 1086519098.tif
+1086519110 framegrab -> 1086519110.tif
+1086519124 framegrab -> 1086519124.tif
+1086519136 framegrab -> 1086519136.tif
+1086519156 framegrab -> 1086519156.tif
+1086519164 framegrab -> 1086519164.tif
+1086519182 framegrab -> 1086519182.tif
+1086519228 framegrab -> 1086519228.tif
+1086519280 framegrab -> 1086519280.tif
+1086519300 framegrab -> 1086519300.tif
+1086519314 framegrab -> 1086519314.tif
+1086519322 framegrab -> 1086519322.tif
+1086519370 framegrab -> 1086519370.tif
+1086519423 port side engines
+1086519452 framegrab -> 1086519452.tif
+1086519478 framegrab -> 1086519478.tif
+1086519506 framegrab -> 1086519506.tif
+1086519538 framegrab -> 1086519538.tif
+1086519580 framegrab -> 1086519580.tif
+1086519585 ship move complete
+1086519671 searching for roy's sampler
+1086519786 strike that -- roy's sampler is on the starboard side
+1086519858 framegrab -> 1086519858.tif
+1086519864 framegrab -> 1086519864.tif
+1086519868 framegrab -> 1086519868.tif
+1086519870 moving ship 7 m @ 000
+1086519874 framegrab -> 1086519874.tif
+1086519884 framegrab -> 1086519884.tif
+1086519938 framegrab -> 1086519938.tif
+1086519950 framegrab -> 1086519950.tif
+1086519962 framegrab -> 1086519962.tif
+1086520008 framegrab -> 1086520008.tif
+1086520038 framegrab -> 1086520038.tif
+1086520111 looking for roy's sampler again
+1086520664 found it
+1086520668 framegrab -> 1086520668.tif
+1086520701 dropping new sampler
+1086520774 framegrab -> 1086520774.tif
+1086520800 framegrab -> 1086520800.tif
+1086520838 framegrab -> 1086520838.tif
+1086520848 framegrab -> 1086520848.tif
+1086520858 framegrab -> 1086520858.tif
+1086520868 framegrab -> 1086520868.tif
+1086520882 framegrab -> 1086520882.tif
+1086520900 framegrab -> 1086520900.tif
+1086520916 framegrab -> 1086520916.tif
+1086520956 framegrab -> 1086520956.tif
+1086521032 framegrab -> 1086521032.tif
+1086521065 new sampler down -- recovering old sampler
+1086521086 framegrab -> 1086521086.tif
+1086521104 framegrab -> 1086521104.tif
+1086521112 framegrab -> 1086521112.tif
+1086521154 framegrab -> 1086521154.tif
+1086521168 framegrab -> 1086521168.tif
+1086521192 framegrab -> 1086521192.tif
+1086521222 framegrab -> 1086521222.tif
+1086521246 framegrab -> 1086521246.tif
+1086521256 framegrab -> 1086521256.tif
+1086521270 framegrab -> 1086521270.tif
+1086521280 framegrab -> 1086521280.tif
+1086521292 framegrab -> 1086521292.tif
+1086521304 framegrab -> 1086521304.tif
+1086521332 framegrab -> 1086521332.tif
+1086521428 framegrab -> 1086521428.tif
+1086521448 framegrab -> 1086521448.tif
+1086521500 framegrab -> 1086521500.tif
+1086521516 framegrab -> 1086521516.tif
+1086521526 framegrab -> 1086521526.tif
+1086521652 framegrab -> 1086521652.tif
+1086521664 framegrab -> 1086521664.tif
+1086521686 framegrab -> 1086521686.tif
+1086521702 framegrab -> 1086521702.tif
+1086521714 framegrab -> 1086521714.tif
+1086521820 framegrab -> 1086521820.tif
+1086521876 framegrab -> 1086521876.tif
+1086521924 framegrab -> 1086521924.tif
+1086521930 framegrab -> 1086521930.tif
+1086522216 framegrab -> 1086522216.tif
+1086522326 framegrab -> 1086522326.tif
+1086522334 framegrab -> 1086522334.tif
+1086522340 framegrab -> 1086522340.tif
+1086522348 framegrab -> 1086522348.tif
+1086522472    new sampler in bio box
+1086522491 make that old sampler in bio box
+1086522506 taking pictures of new sampler, which is rusting already
+1086522519 trying to get images of other side of sampler
+1086522540 framegrab -> 1086522540.tif
+1086522546 framegrab -> 1086522546.tif
+1086522558 framegrab -> 1086522558.tif
+1086522564 framegrab -> 1086522564.tif
+1086522572 framegrab -> 1086522572.tif
+1086522582 framegrab -> 1086522582.tif
+1086522627 going back to engines
+1086522732 framegrab -> 1086522732.tif
+1086522766 framegrab -> 1086522766.tif
+1086522858 framegrab -> 1086522858.tif
+1086522928 framegrab -> 1086522928.tif
+1086523020 framegrab -> 1086523020.tif
+1086523033 Watch change
+1086523078 framegrab -> 1086523078.tif
+1086523184 framegrab -> 1086523184.tif
+1086523478 framegrab -> 1086523478.tif
+1086523490 framegrab -> 1086523490.tif
+1086523526 framegrab -> 1086523526.tif
+1086523592 framegrab -> 1086523592.tif
+1086523604 framegrab -> 1086523604.tif
+1086523692 framegrab -> 1086523692.tif
+1086523706 framegrab -> 1086523706.tif
+1086523790 framegrab -> 1086523790.tif
+1086523804 framegrab -> 1086523804.tif
+1086523816 framegrab -> 1086523816.tif
+1086523912 framegrab -> 1086523912.tif
+1086524005 Looking at some sort of recent lineage w  sandbag, possibly salvage equipment?
+1086524036 framegrab -> 1086524036.tif
+1086524080 framegrab -> 1086524080.tif
+1086524110 framegrab -> 1086524110.tif
+1086524124 framegrab -> 1086524124.tif
+1086524206 framegrab -> 1086524206.tif
+1086524232 framegrab -> 1086524232.tif
+1086524260 framegrab -> 1086524260.tif
+1086524305 Polypro line possibily attached to steel "toggle", could be salvage equip.
+1086524417 At forward quarter of starboard side
+1086524518 framegrab -> 1086524518.tif
+1086524538 framegrab -> 1086524538.tif
+1086524591 Lining up for debris field survey
+1086524673 Calling ship move 100m @ 360 degrees (due N)
+1086524704 Begin debris field survey
+1086525026 framegrab -> 1086525026.tif
+1086525034 framegrab -> 1086525034.tif
+1086525046 framegrab -> 1086525046.tif
+1086525514 framegrab -> 1086525514.tif
+1086525550 framegrab -> 1086525550.tif
+1086525583 Bottle
+1086525584 framegrab -> 1086525584.tif
+1086525640 framegrab -> 1086525640.tif
+1086525688 framegrab -> 1086525688.tif
+1086525766 framegrab -> 1086525766.tif
+1086525775 a shoe!
+1086525800 framegrab -> 1086525800.tif
+1086525810 framegrab -> 1086525810.tif
+1086525820 framegrab -> 1086525820.tif
+1086525834 framegrab -> 1086525834.tif
+1086525848 framegrab -> 1086525848.tif
+1086525869 Ship completed move
+1086525890 framegrab -> 1086525890.tif
+1086525912 framegrab -> 1086525912.tif
+1086525928 framegrab -> 1086525928.tif
+1086525940 framegrab -> 1086525940.tif
+1086525954 framegrab -> 1086525954.tif
+1086526066 Bottle
+1086526130 framegrab -> 1086526130.tif
+1086526146 framegrab -> 1086526146.tif
+1086526162 framegrab -> 1086526162.tif
+1086526170 Copper roll?
+1086526394 framegrab -> 1086526394.tif
+1086526402 framegrab -> 1086526402.tif
+1086526410 Bed frame
+1086526568 framegrab -> 1086526568.tif
+1086526604 framegrab -> 1086526604.tif
+1086526607 Case of bottles
+1086526624 framegrab -> 1086526624.tif
+1086526632 framegrab -> 1086526632.tif
+1086526642 framegrab -> 1086526642.tif
+1086526652 framegrab -> 1086526652.tif
+1086526658 framegrab -> 1086526658.tif
+1086526683 Pair of shoes next to bottles
+1086526706 framegrab -> 1086526706.tif
+1086526714 framegrab -> 1086526714.tif
+1086526740 framegrab -> 1086526740.tif
+1086526780 framegrab -> 1086526780.tif
+1086526848 framegrab -> 1086526848.tif
+1086526864 framegrab -> 1086526864.tif
+1086526914 framegrab -> 1086526914.tif
+1086526928 framegrab -> 1086526928.tif
+1086526934 framegrab -> 1086526934.tif
+1086527018 framegrab -> 1086527018.tif
+1086527069 working shoes and bottles
+1086527122 framegrab -> 1086527122.tif
+1086527176 framegrab -> 1086527176.tif
+1086527192 framegrab -> 1086527192.tif
+1086527204 framegrab -> 1086527204.tif
+1086527224 framegrab -> 1086527224.tif
+1086527250 framegrab -> 1086527250.tif
+1086527302 framegrab -> 1086527302.tif
+1086527316 framegrab -> 1086527316.tif
+1086527324 framegrab -> 1086527324.tif
+1086527390 framegrab -> 1086527390.tif
+1086527428 framegrab -> 1086527428.tif
+1086527440 framegrab -> 1086527440.tif
+1086527538 framegrab -> 1086527538.tif
+1086527598 framegrab -> 1086527598.tif
+1086527608 framegrab -> 1086527608.tif
+1086527622 framegrab -> 1086527622.tif
+1086527686 Different shaped clear bottle, poss. pitcher
+1086527697 Lots of assorted debris in this area
+1086527752 framegrab -> 1086527752.tif
+1086527790 framegrab -> 1086527790.tif
+1086527798 framegrab -> 1086527798.tif
+1086527830 framegrab -> 1086527830.tif
+1086527890 framegrab -> 1086527890.tif
+1086527908 framegrab -> 1086527908.tif
+1086527922 framegrab -> 1086527922.tif
+1086527936 framegrab -> 1086527936.tif
+1086527944 framegrab -> 1086527944.tif
+1086527986 framegrab -> 1086527986.tif
+1086528007 Liquor bottle & an odd-shaped bottle
+1086528022 framegrab -> 1086528022.tif
+1086528032 framegrab -> 1086528032.tif
+1086528104 framegrab -> 1086528104.tif
+1086528112 Tray? and couple more bottle
+1086528196 framegrab -> 1086528196.tif
+1086528204 White wine bottle
+1086528204 framegrab -> 1086528204.tif
+1086528228 framegrab -> 1086528228.tif
+1086528294 framegrab -> 1086528294.tif
+1086528300 framegrab -> 1086528300.tif
+1086528312 framegrab -> 1086528312.tif
+1086528334 framegrab -> 1086528334.tif
+1086528436 Moving away from "The Bar"
+1086528460 Another case of bottles
+1086528474 framegrab -> 1086528474.tif
+1086528786 framegrab -> 1086528786.tif
+1086528827 pump bottle   soap dish   toothbrush holder
+1086528885 imaging second case of champagne bottles
+1086528897 no, wine bottles, not champagne
+1086528914 framegrab -> 1086528914.tif
+1086528934 framegrab -> 1086528934.tif
+1086528960 framegrab -> 1086528960.tif
+1086528976 framegrab -> 1086528976.tif
+1086529360 holding position, changing HD tape
+1086529490 framegrab -> 1086529490.tif
+1086529560 framegrab -> 1086529560.tif
+1086529623 pocket watch???
+1086529654 framegrab -> 1086529654.tif
+1086529666 nope, lip of bottle
+1086529790 framegrab -> 1086529790.tif
+1086529802 framegrab -> 1086529802.tif
+1086529956 framegrab -> 1086529956.tif
+1086529964 framegrab -> 1086529964.tif
+1086529969 cup or sugar bowl
+1086530008 framegrab -> 1086530008.tif
+1086530218 framegrab -> 1086530218.tif
+1086530262 framegrab -> 1086530262.tif
+1086530700 bed frames
+1086530700 framegrab -> 1086530700.tif
+1086530706 springs
+1086530825 shoe next to bed frame
+1086530882 framegrab -> 1086530882.tif
+1086530910 framegrab -> 1086530910.tif
+1086531050 framegrab -> 1086531050.tif
+1086531075 another show near bed frame
+1086531112 framegrab -> 1086531112.tif
+1086531122 framegrab -> 1086531122.tif
+1086531130 framegrab -> 1086531130.tif
+1086531146 framegrab -> 1086531146.tif
+1086531158 framegrab -> 1086531158.tif
+1086531176 framegrab -> 1086531176.tif
+1086531232 framegrab -> 1086531232.tif
+1086531240 other shoe upside down
+1086531260 framegrab -> 1086531260.tif
+1086531278 framegrab -> 1086531278.tif
+1086531316 framegrab -> 1086531316.tif
+1086531332 fish
+1086531332 framegrab -> 1086531332.tif
+1086531350 framegrab -> 1086531350.tif
+1086531472 framegrab -> 1086531472.tif
+1086531474 light guard
+1086531520 another case of bottles
+1086531520 framegrab -> 1086531520.tif
+1086531548 framegrab -> 1086531548.tif
+1086531564 framegrab -> 1086531564.tif
+1086531574 framegrab -> 1086531574.tif
+1086531582 framegrab -> 1086531582.tif
+1086531592 framegrab -> 1086531592.tif
+1086531638 framegrab -> 1086531638.tif
+1086531646 framegrab -> 1086531646.tif
+1086531662 framegrab -> 1086531662.tif
+1086531666 lifeboat davit
+1086531673 worm drive
+1086531692 framegrab -> 1086531692.tif
+1086531725 hat
+1086531824 framegrab -> 1086531824.tif
+1086531860 framegrab -> 1086531860.tif
+1086531885 not a hat - too big
+1086531904 framegrab -> 1086531904.tif
+1086531914 framegrab -> 1086531914.tif
+1086531924 framegrab -> 1086531924.tif
+1086531934 framegrab -> 1086531934.tif
+1086531941 bioluminescent critter
+1086532236 framegrab -> 1086532236.tif
+1086532388 framegrab -> 1086532388.tif
+1086532408 tiles
+1086532452 framegrab -> 1086532452.tif
+1086532588 framegrab -> 1086532588.tif
+1086532630 framegrab -> 1086532630.tif
+1086532640 framegrab -> 1086532640.tif
+1086532658 framegrab -> 1086532658.tif
+1086532858 framegrab -> 1086532858.tif
+1086532865 lots of chamber pots
+1086532900 framegrab -> 1086532900.tif
+1086532988 framegrab -> 1086532988.tif
+1086533038 framegrab -> 1086533038.tif
+1086533072 framegrab -> 1086533072.tif
+1086533108 framegrab -> 1086533108.tif
+1086533120 framegrab -> 1086533120.tif
+1086533150 framegrab -> 1086533150.tif
+1086533216 framegrab -> 1086533216.tif
+1086533219 shoe
+1086533282 framegrab -> 1086533282.tif
+1086533362 framegrab -> 1086533362.tif
+1086533412 framegrab -> 1086533412.tif
+1086533438 framegrab -> 1086533438.tif
+1086533494 framegrab -> 1086533494.tif
+1086533580 framegrab -> 1086533580.tif
+1086533634 framegrab -> 1086533634.tif
+1086533676 framegrab -> 1086533676.tif
+1086533926 framegrab -> 1086533926.tif
+1086533940 framegrab -> 1086533940.tif
+1086533946 framegrab -> 1086533946.tif
+1086533954 framegrab -> 1086533954.tif
+1086533970 framegrab -> 1086533970.tif
+1086534012 framegrab -> 1086534012.tif
+1086534022 framegrab -> 1086534022.tif
+1086534034 framegrab -> 1086534034.tif
+1086534072 champagne ice bucket
+1086534084 toothbrush holder
+1086534102 framegrab -> 1086534102.tif
+1086534116 framegrab -> 1086534116.tif
+1086534132 framegrab -> 1086534132.tif
+1086534254 framegrab -> 1086534254.tif
+1086534272 framegrab -> 1086534272.tif
+1086534296 framegrab -> 1086534296.tif
+1086534450 framegrab -> 1086534450.tif
+1086534466 framegrab -> 1086534466.tif
+1086534552 framegrab -> 1086534552.tif
+1086534568 plumbing
+1086534842 framegrab -> 1086534842.tif
+1086534848 crock lid
+1086534874 framegrab -> 1086534874.tif
+1086534884 framegrab -> 1086534884.tif
+1086534956 bottle with cork inside
+1086534986 framegrab -> 1086534986.tif
+1086535024 framegrab -> 1086535024.tif
+1086535066 framegrab -> 1086535066.tif
+1086535148 framegrab -> 1086535148.tif
+1086535160 framegrab -> 1086535160.tif
+1086535192 framegrab -> 1086535192.tif
+1086535250 framegrab -> 1086535250.tif
+1086535321 sea cucumber
+1086535322 framegrab -> 1086535322.tif
+1086535488 framegrab -> 1086535488.tif
+1086535496 framegrab -> 1086535496.tif
+1086535560 framegrab -> 1086535560.tif
+1086535568 framegrab -> 1086535568.tif
+1086535588 framegrab -> 1086535588.tif
+1086535598 framegrab -> 1086535598.tif
+1086535606 framegrab -> 1086535606.tif
+1086535644 framegrab -> 1086535644.tif
+1086535654 framegrab -> 1086535654.tif
+1086535664 framegrab -> 1086535664.tif
+1086535672 framegrab -> 1086535672.tif
+1086535688 framegrab -> 1086535688.tif
+1086535742 framegrab -> 1086535742.tif
+1086535746 framegrab -> 1086535746.tif
+1086535760 framegrab -> 1086535760.tif
+1086535778 crab and anenome
+1086536045 entering argus lights
+1086536184 framegrab -> 1086536184.tif
+1086536194 framegrab -> 1086536194.tif
+1086536200 framegrab -> 1086536200.tif
+1086536206 framegrab -> 1086536206.tif
+1086536264 framegrab -> 1086536264.tif
+1086536274 framegrab -> 1086536274.tif
+1086536326 pair of shoes with a sponge and "STOLKHOLM" ashtray
+1086536363 women's shoes
+1086536386 framegrab -> 1086536386.tif
+1086536404 framegrab -> 1086536404.tif
+1086536485 ashtray next to shoes says Stockholm
+1086536558 toothbrush or possibly a razor to right of shoes
+1086536580 framegrab -> 1086536580.tif
+1086536696 framegrab -> 1086536696.tif
+1086536754 framegrab -> 1086536754.tif
+1086536928 framegrab -> 1086536928.tif
+1086537060 framegrab -> 1086537060.tif
+1086537134 framegrab -> 1086537134.tif
+1086537152 framegrab -> 1086537152.tif
+1086537176 framegrab -> 1086537176.tif
+1086537191 wine bottles, what look like beer bottles'
+1086537276 framegrab -> 1086537276.tif
+1086537282 framegrab -> 1086537282.tif
+1086537288 framegrab -> 1086537288.tif
+1086537303 pair of mens shos with black slicker
+1086537334 framegrab -> 1086537334.tif
+1086537368 framegrab -> 1086537368.tif
+1086537386 framegrab -> 1086537386.tif
+1086537394 framegrab -> 1086537394.tif
+1086537402 framegrab -> 1086537402.tif
+1086537410 framegrab -> 1086537410.tif
+1086537420 framegrab -> 1086537420.tif
+1086537436 framegrab -> 1086537436.tif
+1086537450 framegrab -> 1086537450.tif
+1086537462 framegrab -> 1086537462.tif
+1086537474 framegrab -> 1086537474.tif
+1086537486 framegrab -> 1086537486.tif
+1086537502 framegrab -> 1086537502.tif
+1086537512 framegrab -> 1086537512.tif
+1086537524 framegrab -> 1086537524.tif
+1086537532 framegrab -> 1086537532.tif
+1086537540 framegrab -> 1086537540.tif
+1086537546 framegrab -> 1086537546.tif
+1086537552 framegrab -> 1086537552.tif
+1086537560 framegrab -> 1086537560.tif
+1086537570 framegrab -> 1086537570.tif
+1086537582 framegrab -> 1086537582.tif
+1086537602 framegrab -> 1086537602.tif
+1086537620 framegrab -> 1086537620.tif
+1086537640 framegrab -> 1086537640.tif
+1086537660 framegrab -> 1086537660.tif
+1086537724 framegrab -> 1086537724.tif
+1086537746 framegrab -> 1086537746.tif
+1086537814 framegrab -> 1086537814.tif
+1086537836 framegrab -> 1086537836.tif
+1086537844 framegrab -> 1086537844.tif
+1086537858 framegrab -> 1086537858.tif
+1086537876 framegrab -> 1086537876.tif
+1086537890 framegrab -> 1086537890.tif
+1086537930 framegrab -> 1086537930.tif
+1086537972 framegrab -> 1086537972.tif
+1086537998 framegrab -> 1086537998.tif
+1086538070 framegrab -> 1086538070.tif
+1086538090 framegrab -> 1086538090.tif
+1086538098 framegrab -> 1086538098.tif
+1086538194 framegrab -> 1086538194.tif
+1086538204 bottlels with funny round bottoms
+1086538226 framegrab -> 1086538226.tif
+1086538262 framegrab -> 1086538262.tif
+1086538270 framegrab -> 1086538270.tif
+1086538290 framegrab -> 1086538290.tif
+1086538294 framegrab -> 1086538294.tif
+1086538307 bottles with corks driven in like pistons
+1086538322 framegrab -> 1086538322.tif
+1086538328 framegrab -> 1086538328.tif
+1086538332 framegrab -> 1086538332.tif
+1086538344 framegrab -> 1086538344.tif
+1086538408 framegrab -> 1086538408.tif
+1086538414 framegrab -> 1086538414.tif
+1086538464 framegrab -> 1086538464.tif
+1086538492 framegrab -> 1086538492.tif
+1086538498 framegrab -> 1086538498.tif
+1086538508 framegrab -> 1086538508.tif
+1086538511 double doorknob
+1086538602 framegrab -> 1086538602.tif
+1086538618 framegrab -> 1086538618.tif
+1086538630 framegrab -> 1086538630.tif
+1086538646 framegrab -> 1086538646.tif
+1086538656 pair of womens shoes, toe on side, laying on side
+1086538704 framegrab -> 1086538704.tif
+1086538722 framegrab -> 1086538722.tif
+1086538780 framegrab -> 1086538780.tif
+1086538786 framegrab -> 1086538786.tif
+1086538798 framegrab -> 1086538798.tif
+1086538858 framegrab -> 1086538858.tif
+1086538864 framegrab -> 1086538864.tif
+1086538870 framegrab -> 1086538870.tif
+1086538874 framegrab -> 1086538874.tif
+1086538896 framegrab -> 1086538896.tif
+1086538912 framegrab -> 1086538912.tif
+1086538926 framegrab -> 1086538926.tif
+1086538932 framegrab -> 1086538932.tif
+1086538938 framegrab -> 1086538938.tif
+1086538950 framegrab -> 1086538950.tif
+1086538964 framegrab -> 1086538964.tif
+1086538994 framegrab -> 1086538994.tif
+1086539014 framegrab -> 1086539014.tif
+1086539076 framegrab -> 1086539076.tif
+1086539082 framegrab -> 1086539082.tif
+1086539132 framegrab -> 1086539132.tif
+1086539138 framegrab -> 1086539138.tif
+1086539142 framegrab -> 1086539142.tif
+1086539328 framegrab -> 1086539328.tif
+1086539372 framegrab -> 1086539372.tif
+1086539382 framegrab -> 1086539382.tif
+1086539388 framegrab -> 1086539388.tif
+1086539860 framegrab -> 1086539860.tif
+1086539948 framegrab -> 1086539948.tif
+1086539974 framegrab -> 1086539974.tif
+1086540830 framegrab -> 1086540830.tif
+1086540836 framegrab -> 1086540836.tif
+1086540840 framegrab -> 1086540840.tif
+1086540856 framegrab -> 1086540856.tif
+1086540868 framegrab -> 1086540868.tif
+1086540872 framegrab -> 1086540872.tif
+1086540878 framegrab -> 1086540878.tif
+1086540884 framegrab -> 1086540884.tif
+1086540896 framegrab -> 1086540896.tif
+1086540900 green glass bottle
+1086540902 framegrab -> 1086540902.tif
+1086540916 framegrab -> 1086540916.tif
+1086540924 framegrab -> 1086540924.tif
+1086540936 framegrab -> 1086540936.tif
+1086540954 framegrab -> 1086540954.tif
+1086540968 framegrab -> 1086540968.tif
+1086540996 framegrab -> 1086540996.tif
+1086541058 framegrab -> 1086541058.tif
+1086541064 framegrab -> 1086541064.tif
+1086541096 framegrab -> 1086541096.tif
+1086541108 framegrab -> 1086541108.tif
+1086541124 framegrab -> 1086541124.tif
+1086541130 framegrab -> 1086541130.tif
+1086541134 framegrab -> 1086541134.tif
+1086541140 framegrab -> 1086541140.tif
+1086541146 framegrab -> 1086541146.tif
+1086541152 framegrab -> 1086541152.tif
+1086541164 framegrab -> 1086541164.tif
+1086541170 framegrab -> 1086541170.tif
+1086541174 framegrab -> 1086541174.tif
+1086541180 framegrab -> 1086541180.tif
+1086541196 framegrab -> 1086541196.tif
+1086541211 single shoe
+1086541256 framegrab -> 1086541256.tif
+1086541260 framegrab -> 1086541260.tif
+1086541266 framegrab -> 1086541266.tif
+1086541272 framegrab -> 1086541272.tif
+1086541280 framegrab -> 1086541280.tif
+1086541288 framegrab -> 1086541288.tif
+1086541304 framegrab -> 1086541304.tif
+1086541314 framegrab -> 1086541314.tif
+1086541322 framegrab -> 1086541322.tif
+1086541328 framegrab -> 1086541328.tif
+1086541338 framegrab -> 1086541338.tif
+1086541344 framegrab -> 1086541344.tif
+1086541364 framegrab -> 1086541364.tif
+1086541380 framegrab -> 1086541380.tif
+1086541386 framegrab -> 1086541386.tif
+1086541394 framegrab -> 1086541394.tif
+1086541400 framegrab -> 1086541400.tif
+1086541403 another single shoe
+1086541404 framegrab -> 1086541404.tif
+1086541410 framegrab -> 1086541410.tif
+1086541424 framegrab -> 1086541424.tif
+1086541428 framegrab -> 1086541428.tif
+1086541434 framegrab -> 1086541434.tif
+1086541478 framegrab -> 1086541478.tif
+1086541488 framegrab -> 1086541488.tif
+1086541492 framegrab -> 1086541492.tif
+1086541500 framegrab -> 1086541500.tif
+1086541512 framegrab -> 1086541512.tif
+1086541548 framegrab -> 1086541548.tif
+1086541554 framegrab -> 1086541554.tif
+1086541572 framegrab -> 1086541572.tif
+1086541578 framegrab -> 1086541578.tif
+1086541630 framegrab -> 1086541630.tif
+1086541638 tile and chafing dish
+1086541646 framegrab -> 1086541646.tif
+1086541660 framegrab -> 1086541660.tif
+1086541668 lots of red tiles, in checkerboafd pattern
+1086541670 framegrab -> 1086541670.tif
+1086541682 framegrab -> 1086541682.tif
+1086541688 framegrab -> 1086541688.tif
+1086541730 framegrab -> 1086541730.tif
+1086541738 framegrab -> 1086541738.tif
+1086541750 framegrab -> 1086541750.tif
+1086541756 framegrab -> 1086541756.tif
+1086541756 wine bottles iwth corks pushed in
+1086541782 framegrab -> 1086541782.tif
+1086541786 framegrab -> 1086541786.tif
+1086541794 framegrab -> 1086541794.tif
+1086541810 framegrab -> 1086541810.tif
+1086541814 framegrab -> 1086541814.tif
+1086541832 framegrab -> 1086541832.tif
+1086541836 framegrab -> 1086541836.tif
+1086541842 framegrab -> 1086541842.tif
+1086541844 sconce
+1086541856 framegrab -> 1086541856.tif
+1086541870 framegrab -> 1086541870.tif
+1086541884 shoe
+1086541890 framegrab -> 1086541890.tif
+1086541930 framegrab -> 1086541930.tif
+1086542004 framegrab -> 1086542004.tif
+1086542012 framegrab -> 1086542012.tif
+1086542030 framegrab -> 1086542030.tif
+1086542036 framegrab -> 1086542036.tif
+1086542042 framegrab -> 1086542042.tif
+1086542050 framegrab -> 1086542050.tif
+1086542076 framegrab -> 1086542076.tif
+1086542122 framegrab -> 1086542122.tif
+1086542130 framegrab -> 1086542130.tif
+1086542130 white crab on shoe
+1086542142 framegrab -> 1086542142.tif
+1086542158 framegrab -> 1086542158.tif
+1086542174 framegrab -> 1086542174.tif
+1086542273 toothbrush
+1086542376 framegrab -> 1086542376.tif
+1086542388 framegrab -> 1086542388.tif
+1086542394 framegrab -> 1086542394.tif
+1086542398 framegrab -> 1086542398.tif
+1086542404 framegrab -> 1086542404.tif
+1086542410 framegrab -> 1086542410.tif
+1086542414 framegrab -> 1086542414.tif
+1086542420 framegrab -> 1086542420.tif
+1086542426 framegrab -> 1086542426.tif
+1086542432 framegrab -> 1086542432.tif
+1086542436 framegrab -> 1086542436.tif
+1086542442 framegrab -> 1086542442.tif
+1086542456 framegrab -> 1086542456.tif
+1086542478 framegrab -> 1086542478.tif
+1086542492 eyeglasses
+1086542502 framegrab -> 1086542502.tif
+1086542510 framegrab -> 1086542510.tif
+1086542554 framegrab -> 1086542554.tif
+1086542564 satchel with clasp 
+1086542572 framegrab -> 1086542572.tif
+1086542594 framegrab -> 1086542594.tif
+1086542612 framegrab -> 1086542612.tif
+1086542622 framegrab -> 1086542622.tif
+1086542673 workign for half hour at new data logger station, after mouse at old staion froze up
+1086542686 framegrab -> 1086542686.tif
+1086542720 framegrab -> 1086542720.tif
+1086542758 framegrab -> 1086542758.tif
+1086542792 framegrab -> 1086542792.tif
+1086542824 teacup
+1086542834 framegrab -> 1086542834.tif
+1086542841 correction, white pitcher with blue trim
+1086542844 framegrab -> 1086542844.tif
+1086542852 framegrab -> 1086542852.tif
+1086542862 framegrab -> 1086542862.tif
+1086542882 framegrab -> 1086542882.tif
+1086542902 framegrab -> 1086542902.tif
+1086542906 framegrab -> 1086542906.tif
+1086542912 framegrab -> 1086542912.tif
+1086542924 framegrab -> 1086542924.tif
+1086542944 framegrab -> 1086542944.tif
+1086542964 framegrab -> 1086542964.tif
+1086543024 framegrab -> 1086543024.tif
+1086543082 framegrab -> 1086543082.tif
+1086543092 framegrab -> 1086543092.tif
+1086543104 framegrab -> 1086543104.tif
+1086543110 framegrab -> 1086543110.tif
+1086543166 framegrab -> 1086543166.tif
+1086543180 framegrab -> 1086543180.tif
+1086543286 framegrab -> 1086543286.tif
+1086543334 framegrab -> 1086543334.tif
+1086543340 framegrab -> 1086543340.tif
+1086543348 framegrab -> 1086543348.tif
+1086543366 framegrab -> 1086543366.tif
+1086543378 circular, bright blue shape, unidentified
+1086543444 framegrab -> 1086543444.tif
+1086543450 framegrab -> 1086543450.tif
+1086543456 framegrab -> 1086543456.tif
+1086543460 framegrab -> 1086543460.tif
+1086543466 framegrab -> 1086543466.tif
+1086543472 framegrab -> 1086543472.tif
+1086543524 framegrab -> 1086543524.tif
+1086543530 framegrab -> 1086543530.tif
+1086543634 framegrab -> 1086543634.tif
+1086543640 framegrab -> 1086543640.tif
+1086543652 framegrab -> 1086543652.tif
+1086543655 bedspring
+1086543678 framegrab -> 1086543678.tif
+1086543682 framegrab -> 1086543682.tif
+1086543688 framegrab -> 1086543688.tif
+1086543702 framegrab -> 1086543702.tif
+1086543726 framegrab -> 1086543726.tif
+1086543824 framegrab -> 1086543824.tif
+1086543892 framegrab -> 1086543892.tif
+1086543898 framegrab -> 1086543898.tif
+1086543906 framegrab -> 1086543906.tif
+1086543912 framegrab -> 1086543912.tif
+1086543918 framegrab -> 1086543918.tif
+1086543924 framegrab -> 1086543924.tif
+1086543936 framegrab -> 1086543936.tif
+1086543944 framegrab -> 1086543944.tif
+1086543958 framegrab -> 1086543958.tif
+1086543974 framegrab -> 1086543974.tif
+1086543982 framegrab -> 1086543982.tif
+1086543994 framegrab -> 1086543994.tif
+1086544002 framegrab -> 1086544002.tif
+1086544016 framegrab -> 1086544016.tif
+1086544026 framegrab -> 1086544026.tif
+1086544040 framegrab -> 1086544040.tif
+1086544070 framegrab -> 1086544070.tif
+1086544086 framegrab -> 1086544086.tif
+1086544112 framegrab -> 1086544112.tif
+1086544134 framegrab -> 1086544134.tif
+1086544160 framegrab -> 1086544160.tif
+1086544180 bottles and tile
+1086544230 framegrab -> 1086544230.tif
+1086544250 framegrab -> 1086544250.tif
+1086544272 framegrab -> 1086544272.tif
+1086544302 framegrab -> 1086544302.tif
+1086544308 framegrab -> 1086544308.tif
+1086544348 framegrab -> 1086544348.tif
+1086544388 framegrab -> 1086544388.tif
+1086544458 framegrab -> 1086544458.tif
+1086544513 single boot
+1086544568 framegrab -> 1086544568.tif
+1086544574 framegrab -> 1086544574.tif
+1086544580 framegrab -> 1086544580.tif
+1086544590 framegrab -> 1086544590.tif
+1086544700 framegrab -> 1086544700.tif
+1086544718 framegrab -> 1086544718.tif
+1086544754 framegrab -> 1086544754.tif
+1086544780 framegrab -> 1086544780.tif
+1086544796 framegrab -> 1086544796.tif
+1086544823 case of bottles, looks as if may be champagne
+1086544830 framegrab -> 1086544830.tif
+1086544846 framegrab -> 1086544846.tif
+1086544876 framegrab -> 1086544876.tif
+1086544916 framegrab -> 1086544916.tif
+1086545024 framegrab -> 1086545024.tif
+1086545040 framegrab -> 1086545040.tif
+1086545046 framegrab -> 1086545046.tif
+1086545054 framegrab -> 1086545054.tif
+1086545064 framegrab -> 1086545064.tif
+1086545096 framegrab -> 1086545096.tif
+1086545114 framegrab -> 1086545114.tif
+1086545118 framegrab -> 1086545118.tif
+1086545124 framegrab -> 1086545124.tif
+1086545170 framegrab -> 1086545170.tif
+1086545181 pither? pot? large beer stein? 
+1086545196 framegrab -> 1086545196.tif
+1086545200 framegrab -> 1086545200.tif
+1086545222 it's got a lid that fits over the opening, and is attached by a hinge, like a German beer stein, only bigger
+1086545226 framegrab -> 1086545226.tif
+1086545280 framegrab -> 1086545280.tif
+1086545286 framegrab -> 1086545286.tif
+1086545292 framegrab -> 1086545292.tif
+1086545346 framegrab -> 1086545346.tif
+1086545358 framegrab -> 1086545358.tif
+1086545386 framegrab -> 1086545386.tif
+1086545404 framegrab -> 1086545404.tif
+1086545472 framegrab -> 1086545472.tif
+1086545532 framegrab -> 1086545532.tif
+1086545604 plain white plate
+1086545610 framegrab -> 1086545610.tif
+1086545628 framegrab -> 1086545628.tif
+1086545632 framegrab -> 1086545632.tif
+1086545736 spinning herc cam, looking to acquire new photo target
+1086545990 framegrab -> 1086545990.tif
+1086546020 framegrab -> 1086546020.tif
+1086546040 framegrab -> 1086546040.tif
+1086546062 framegrab -> 1086546062.tif
+1086546066 framegrab -> 1086546066.tif
+1086546110 framegrab -> 1086546110.tif
+1086546174 framegrab -> 1086546174.tif
+1086546214 framegrab -> 1086546214.tif
+1086546286 move to south 30 meters, order phoned to bridge
+1086546446 framegrab -> 1086546446.tif
+1086546484 framegrab -> 1086546484.tif
+1086546490 framegrab -> 1086546490.tif
+1086546496 framegrab -> 1086546496.tif
+1086546502 framegrab -> 1086546502.tif
+1086546506 framegrab -> 1086546506.tif
+1086546516 framegrab -> 1086546516.tif
+1086546528 framegrab -> 1086546528.tif
+1086546532 framegrab -> 1086546532.tif
+1086546612 framegrab -> 1086546612.tif
+1086546621 shoe sole
+1086546646 framegrab -> 1086546646.tif
+1086546668 framegrab -> 1086546668.tif
+1086546674 framegrab -> 1086546674.tif
+1086546680 framegrab -> 1086546680.tif
+1086546692 framegrab -> 1086546692.tif
+1086546706 framegrab -> 1086546706.tif
+1086546726 framegrab -> 1086546726.tif
+1086546778 framegrab -> 1086546778.tif
+1086546984 framegrab -> 1086546984.tif
+1086547018 framegrab -> 1086547018.tif
+1086547158 framegrab -> 1086547158.tif
+1086547172 framegrab -> 1086547172.tif
+1086547198 framegrab -> 1086547198.tif
+1086547212 framegrab -> 1086547212.tif
+1086547282 framegrab -> 1086547282.tif
+1086547288 framegrab -> 1086547288.tif
+1086547294 framegrab -> 1086547294.tif
+1086547298 framegrab -> 1086547298.tif
+1086547304 framegrab -> 1086547304.tif
+1086547340 framegrab -> 1086547340.tif
+1086547348 new pair of shoes, with tile,  crab, etc
+1086547350 framegrab -> 1086547350.tif
+1086547356 framegrab -> 1086547356.tif
+1086547378 framegrab -> 1086547378.tif
+1086547384 framegrab -> 1086547384.tif
+1086547388 framegrab -> 1086547388.tif
+1086547398 framegrab -> 1086547398.tif
+1086547403 woman's decorative hair comb, near shoes'
+1086547408 framegrab -> 1086547408.tif
+1086547420 framegrab -> 1086547420.tif
+1086547428 framegrab -> 1086547428.tif
+1086547432 framegrab -> 1086547432.tif
+1086547438 framegrab -> 1086547438.tif
+1086547444 framegrab -> 1086547444.tif
+1086547448 framegrab -> 1086547448.tif
+1086547454 framegrab -> 1086547454.tif
+1086547474 framegrab -> 1086547474.tif
+1086547508 framegrab -> 1086547508.tif
+1086547518 framegrab -> 1086547518.tif
+1086547522 framegrab -> 1086547522.tif
+1086547528 framegrab -> 1086547528.tif
+1086547534 framegrab -> 1086547534.tif
+1086547540 framegrab -> 1086547540.tif
+1086547594 framegrab -> 1086547594.tif
+1086547599 closeup of woman's hair comb'
+1086547600 framegrab -> 1086547600.tif
+1086547606 framegrab -> 1086547606.tif
+1086547614 framegrab -> 1086547614.tif
+1086547638 framegrab -> 1086547638.tif
+1086547824 framegrab -> 1086547824.tif
+1086547958 framegrab -> 1086547958.tif
+1086547962 HIGHLIGHT
+1086547984 framegrab -> 1086547984.tif
+1086548018 framegrab -> 1086548018.tif
+1086548046 adult shoes near baby shoe
+1086548100 framegrab -> 1086548100.tif
+1086548170 framegrab -> 1086548170.tif
+1086548205 piece of hull plate near baby shoe
+1086548284 framegrab -> 1086548284.tif
+1086548306 framegrab -> 1086548306.tif
+1086548390 framegrab -> 1086548390.tif
+1086548404 framegrab -> 1086548404.tif
+1086548440 framegrab -> 1086548440.tif
+1086548446 framegrab -> 1086548446.tif
+1086548454 framegrab -> 1086548454.tif
+1086548490 framegrab -> 1086548490.tif
+1086548496 framegrab -> 1086548496.tif
+1086548504 framegrab -> 1086548504.tif
+1086548508 framegrab -> 1086548508.tif
+1086548514 framegrab -> 1086548514.tif
+1086548520 framegrab -> 1086548520.tif
+1086548540 framegrab -> 1086548540.tif
+1086548564 framegrab -> 1086548564.tif
+1086548576 framegrab -> 1086548576.tif
+1086548582 framegrab -> 1086548582.tif
+1086548586 framegrab -> 1086548586.tif
+1086548598 framegrab -> 1086548598.tif
+1086548600 trying to get mirror hit
+1086548654 framegrab -> 1086548654.tif
+1086548660 framegrab -> 1086548660.tif
+1086548666 framegrab -> 1086548666.tif
+1086548672 framegrab -> 1086548672.tif
+1086548676 framegrab -> 1086548676.tif
+1086548682 framegrab -> 1086548682.tif
+1086548688 framegrab -> 1086548688.tif
+1086548692 framegrab -> 1086548692.tif
+1086548698 framegrab -> 1086548698.tif
+1086548702 framegrab -> 1086548702.tif
+1086548708 framegrab -> 1086548708.tif
+1086548726 framegrab -> 1086548726.tif
+1086548730 framegrab -> 1086548730.tif
+1086548736 framegrab -> 1086548736.tif
+1086548742 framegrab -> 1086548742.tif
+1086548748 framegrab -> 1086548748.tif
+1086548754 framegrab -> 1086548754.tif
+1086548760 framegrab -> 1086548760.tif
+1086548766 framegrab -> 1086548766.tif
+1086548774 framegrab -> 1086548774.tif
+1086548782 framegrab -> 1086548782.tif
+1086548788 framegrab -> 1086548788.tif
+1086548794 framegrab -> 1086548794.tif
+1086548798 framegrab -> 1086548798.tif
+1086548804 framegrab -> 1086548804.tif
+1086548810 framegrab -> 1086548810.tif
+1086548990 framegrab -> 1086548990.tif
+1086549148 framegrab -> 1086549148.tif
+1086549296 shoe looked bigger in different perspective and may not have been baby shoe
+1086549416 framegrab -> 1086549416.tif
+1086549422 framegrab -> 1086549422.tif
+1086549441 shoe under bed frame
+1086549452 framegrab -> 1086549452.tif
+1086549456 framegrab -> 1086549456.tif
+1086549464 framegrab -> 1086549464.tif
+1086549468 framegrab -> 1086549468.tif
+1086549486 framegrab -> 1086549486.tif
+1086549492 framegrab -> 1086549492.tif
+1086549632 framegrab -> 1086549632.tif
+1086549684 crab with anemone on its back
+1086549700 framegrab -> 1086549700.tif
+1086549726 framegrab -> 1086549726.tif
+1086550180 framegrab -> 1086550180.tif
+1086550190 profile of blue fish'
+1086550268 framegrab -> 1086550268.tif
+1086550272 framegrab -> 1086550272.tif
+1086550278 framegrab -> 1086550278.tif
+1086550284 framegrab -> 1086550284.tif
+1086550316 framegrab -> 1086550316.tif
+1086550322 framegrab -> 1086550322.tif
+1086550328 framegrab -> 1086550328.tif
+1086550332 framegrab -> 1086550332.tif
+1086550338 framegrab -> 1086550338.tif
+1086550344 framegrab -> 1086550344.tif
+1086550348 framegrab -> 1086550348.tif
+1086550354 framegrab -> 1086550354.tif
+1086550360 framegrab -> 1086550360.tif
+1086550364 framegrab -> 1086550364.tif
+1086550370 framegrab -> 1086550370.tif
+1086550374 framegrab -> 1086550374.tif
+1086550380 framegrab -> 1086550380.tif
+1086550386 framegrab -> 1086550386.tif
+1086550390 framegrab -> 1086550390.tif
+1086550396 framegrab -> 1086550396.tif
+1086550544 framegrab -> 1086550544.tif
+1086550558 framegrab -> 1086550558.tif
+1086550560 spoon
+1086550564 framegrab -> 1086550564.tif
+1086550570 framegrab -> 1086550570.tif
+1086550594 framegrab -> 1086550594.tif
+1086551194 framegrab -> 1086551194.tif
+1086551198 framegrab -> 1086551198.tif
+1086551266 framegrab -> 1086551266.tif
+1086551286 framegrab -> 1086551286.tif
+1086551531 searching for new targets
+1086551833 I Dream of Jeannie bottle
+1086551862 watch change
+1086551984 framegrab -> 1086551984.tif
+1086551988 framegrab -> 1086551988.tif
+1086551994 framegrab -> 1086551994.tif
+1086552000 framegrab -> 1086552000.tif
+1086552004 framegrab -> 1086552004.tif
+1086552010 framegrab -> 1086552010.tif
+1086552016 framegrab -> 1086552016.tif
+1086552542 framegrab -> 1086552542.tif
+1086553004 framegrab -> 1086553004.tif
+1086553018 framegrab -> 1086553018.tif
+1086553049 Resuming imaging of artifacts in the stern area debris field
+1086553122 framegrab -> 1086553122.tif
+1086553148 framegrab -> 1086553148.tif
+1086553314 framegrab -> 1086553314.tif
+1086553452 framegrab -> 1086553452.tif
+1086553476 framegrab -> 1086553476.tif
+1086553536 framegrab -> 1086553536.tif
+1086553586 framegrab -> 1086553586.tif
+1086553666 framegrab -> 1086553666.tif
+1086553732 framegrab -> 1086553732.tif
+1086553764 framegrab -> 1086553764.tif
+1086553780 framegrab -> 1086553780.tif
+1086553804 framegrab -> 1086553804.tif
+1086553862 framegrab -> 1086553862.tif
+1086553934 framegrab -> 1086553934.tif
+1086553972 framegrab -> 1086553972.tif
+1086554014 framegrab -> 1086554014.tif
+1086554024 framegrab -> 1086554024.tif
+1086554074 framegrab -> 1086554074.tif
+1086554082 framegrab -> 1086554082.tif
+1086554088 framegrab -> 1086554088.tif
+1086554092 framegrab -> 1086554092.tif
+1086554098 framegrab -> 1086554098.tif
+1086554110 framegrab -> 1086554110.tif
+1086554214 framegrab -> 1086554214.tif
+1086554224 framegrab -> 1086554224.tif
+1086554232 framegrab -> 1086554232.tif
+1086554240 framegrab -> 1086554240.tif
+1086554248 framegrab -> 1086554248.tif
+1086554360 framegrab -> 1086554360.tif
+1086554418 framegrab -> 1086554418.tif
+1086554430 framegrab -> 1086554430.tif
+1086554442 framegrab -> 1086554442.tif
+1086554446 framegrab -> 1086554446.tif
+1086554456 framegrab -> 1086554456.tif
+1086554684 framegrab -> 1086554684.tif
+1086554692 framegrab -> 1086554692.tif
+1086554700 framegrab -> 1086554700.tif
+1086554736 framegrab -> 1086554736.tif
+1086554742 framegrab -> 1086554742.tif
+1086554766 framegrab -> 1086554766.tif
+1086554776 framegrab -> 1086554776.tif
+1086554786 framegrab -> 1086554786.tif
+1086554794 framegrab -> 1086554794.tif
+1086554800 framegrab -> 1086554800.tif
+1086554822 framegrab -> 1086554822.tif
+1086554826 framegrab -> 1086554826.tif
+1086554882 framegrab -> 1086554882.tif
+1086554917 Continuing to move through the debris field
+1086554934 framegrab -> 1086554934.tif
+1086554942 framegrab -> 1086554942.tif
+1086554982 framegrab -> 1086554982.tif
+1086555328 framegrab -> 1086555328.tif
+1086555356 framegrab -> 1086555356.tif
+1086555368 framegrab -> 1086555368.tif
+1086555384 framegrab -> 1086555384.tif
+1086555390 framegrab -> 1086555390.tif
+1086555396 framegrab -> 1086555396.tif
+1086555406 framegrab -> 1086555406.tif
+1086555420 framegrab -> 1086555420.tif
+1086555426 framegrab -> 1086555426.tif
+1086555432 framegrab -> 1086555432.tif
+1086555776 framegrab -> 1086555776.tif
+1086556172 moving ROVs toward the bow section
+1086556316 framegrab -> 1086556316.tif
+1086556328 framegrab -> 1086556328.tif
+1086556338 framegrab -> 1086556338.tif
+1086556366 framegrab -> 1086556366.tif
+1086556372 framegrab -> 1086556372.tif
+1086556378 framegrab -> 1086556378.tif
+1086556384 framegrab -> 1086556384.tif
+1086556484 framegrab -> 1086556484.tif
+1086556498 framegrab -> 1086556498.tif
+1086556508 framegrab -> 1086556508.tif
+1086556524 framegrab -> 1086556524.tif
+1086556600 framegrab -> 1086556600.tif
+1086556624 framegrab -> 1086556624.tif
+1086556634 framegrab -> 1086556634.tif
+1086556754 framegrab -> 1086556754.tif
+1086556886 framegrab -> 1086556886.tif
+1086556946 Group of three large salvage cahains found in the debris field
+1086557042 framegrab -> 1086557042.tif
+1086557062 framegrab -> 1086557062.tif
+1086557074 framegrab -> 1086557074.tif
+1086557095 hand scythe with red float attached
+1086557118 framegrab -> 1086557118.tif
+1086557152 Additional salvage chains piled on the bottom
+1086557175 Continue to navigate in the stern debris field
+1086557306 framegrab -> 1086557306.tif
+1086557312 framegrab -> 1086557312.tif
+1086557328 framegrab -> 1086557328.tif
+1086557332 framegrab -> 1086557332.tif
+1086557338 framegrab -> 1086557338.tif
+1086557344 framegrab -> 1086557344.tif
+1086557693 Continue moving northly direction toward bow section
+1086557758 framegrab -> 1086557758.tif
+1086557958 framegrab -> 1086557958.tif
+1086557984 framegrab -> 1086557984.tif
+1086558076 framegrab -> 1086558076.tif
+1086558090 framegrab -> 1086558090.tif
+1086558160 framegrab -> 1086558160.tif
+1086558176 framegrab -> 1086558176.tif
+1086558222 framegrab -> 1086558222.tif
+1086558238 framegrab -> 1086558238.tif
+1086558276 framegrab -> 1086558276.tif
+1086558298 framegrab -> 1086558298.tif
+1086558306 framegrab -> 1086558306.tif
+1086558346 framegrab -> 1086558346.tif
+1086558364 framegrab -> 1086558364.tif
+1086558484 Chased a fish along the bottom in the stern debris field
+1086558858 framegrab -> 1086558858.tif
+1086558866 framegrab -> 1086558866.tif
+1086558882 framegrab -> 1086558882.tif
+1086559168 framegrab -> 1086559168.tif
+1086561418 framegrab -> 1086561418.tif
+1086561444 framegrab -> 1086561444.tif
+1086561452 framegrab -> 1086561452.tif
+1086561460 framegrab -> 1086561460.tif
+1086561762 framegrab -> 1086561762.tif
+1086561768 framegrab -> 1086561768.tif
+1086561772 framegrab -> 1086561772.tif
+1086562378 framegrab -> 1086562378.tif
+1086562810 Continuing toward the bow section
+1086563508 framegrab -> 1086563508.tif
+1086563538 framegrab -> 1086563538.tif
+1086563604 framegrab -> 1086563604.tif
+1086563710 framegrab -> 1086563710.tif
+1086564008 framegrab -> 1086564008.tif
+1086564784 framegrab -> 1086564784.tif
+1086564824 framegrab -> 1086564824.tif
+1086564925 Continue moving northerly toward the bow section
+1086565018 framegrab -> 1086565018.tif
+1086565384 framegrab -> 1086565384.tif
+1086565418 framegrab -> 1086565418.tif
+1086565470 framegrab -> 1086565470.tif
+1086565548 framegrab -> 1086565548.tif
+1086565626 framegrab -> 1086565626.tif
+1086565690 Continuing north toward the bow section
+1086565910 framegrab -> 1086565910.tif
+1086566099 On west of the bow section heading east toward the stem
+1086566185 shift change
+1086566307 shift change
+1086566986 framegrab -> 1086566986.tif
+1086566999 MIR tracks
+1086567370 Previous VIDGRAB's were system tests
+1086567422 framegrab -> 1086567422.tif
+1086567783 Heading towards bow for Immersion broadcast
+1086568280 Called ship move 25m @ 090 degrees
+1086568566 framegrab -> 1086568566.tif
+1086568594 framegrab -> 1086568594.tif
+1086568624 framegrab -> 1086568624.tif
+1086568662 framegrab -> 1086568662.tif
+1086568696 Looking at small isolated hull section
+1086568746 framegrab -> 1086568746.tif
+1086568764 Unidentified modern debris
+1086568800 framegrab -> 1086568800.tif
+1086568964 framegrab -> 1086568964.tif
+1086568994 framegrab -> 1086568994.tif
+1086569002 framegrab -> 1086569002.tif
+1086569092 Bow section visible
+1086569110 framegrab -> 1086569110.tif
+1086569126 framegrab -> 1086569126.tif
+1086569152 framegrab -> 1086569152.tif
+1086569224 framegrab -> 1086569224.tif
+1086569282 framegrab -> 1086569282.tif
+1086569304 Heading towards money shot
+1086569330 framegrab -> 1086569330.tif
+1086569372 framegrab -> 1086569372.tif
+1086569412 framegrab -> 1086569412.tif
+1086569428 framegrab -> 1086569428.tif
+1086569500 framegrab -> 1086569500.tif
+1086569694 framegrab -> 1086569694.tif
+1086569744 framegrab -> 1086569744.tif
+1086569750 framegrab -> 1086569750.tif
+1086569762 framegrab -> 1086569762.tif
+1086569768 framegrab -> 1086569768.tif
+1086569774 framegrab -> 1086569774.tif
+1086569780 framegrab -> 1086569780.tif
+1086569807 Roy C is here to navigate us to his samplers
+1086569824 At the bow
+1086569852 framegrab -> 1086569852.tif
+1086569860 framegrab -> 1086569860.tif
+1086569866 framegrab -> 1086569866.tif
+1086569876 framegrab -> 1086569876.tif
+1086569943 Moving Herc aft on Roy's direction 
+1086570309 Roy is directing Herc pilot to pick up a rock near his bio platform and place in the bio box
+1086570664 framegrab -> 1086570664.tif
+1086570670 framegrab -> 1086570670.tif
+1086570676 framegrab -> 1086570676.tif
+1086570684 framegrab -> 1086570684.tif
+1086570692 framegrab -> 1086570692.tif
+1086570704 framegrab -> 1086570704.tif
+1086570708 framegrab -> 1086570708.tif
+1086570714 framegrab -> 1086570714.tif
+1086570718 framegrab -> 1086570718.tif
+1086570724 framegrab -> 1086570724.tif
+1086570730 framegrab -> 1086570730.tif
+1086570736 framegrab -> 1086570736.tif
+1086570746 framegrab -> 1086570746.tif
+1086570754 framegrab -> 1086570754.tif
+1086570760 framegrab -> 1086570760.tif
+1086570774 framegrab -> 1086570774.tif
+1086570781 Uh oh. . .. palsy arm
+1086570802 framegrab -> 1086570802.tif
+1086570820 framegrab -> 1086570820.tif
+1086570824 framegrab -> 1086570824.tif
+1086570830 framegrab -> 1086570830.tif
+1086570838 framegrab -> 1086570838.tif
+1086570846 framegrab -> 1086570846.tif
+1086570854 framegrab -> 1086570854.tif
+1086570870 framegrab -> 1086570870.tif
+1086570878 framegrab -> 1086570878.tif
+1086570884 framegrab -> 1086570884.tif
+1086570908 framegrab -> 1086570908.tif
+1086570922 framegrab -> 1086570922.tif
+1086570930 framegrab -> 1086570930.tif
+1086571002 framegrab -> 1086571002.tif
+1086571045 Reduced Herc's tension on manip to 3 to try and gently grab sedimentary rock since every try breaks the 'rocks' apart
+1086571074 framegrab -> 1086571074.tif
+1086571134 framegrab -> 1086571134.tif
+1086571214 framegrab -> 1086571214.tif
+1086571232 framegrab -> 1086571232.tif
+1086571278 framegrab -> 1086571278.tif
+1086571286 framegrab -> 1086571286.tif
+1086571328 framegrab -> 1086571328.tif
+1086571404 framegrab -> 1086571404.tif
+1086571410 framegrab -> 1086571410.tif
+1086571416 framegrab -> 1086571416.tif
+1086571480 framegrab -> 1086571480.tif
+1086571490 framegrab -> 1086571490.tif
+1086571508 framegrab -> 1086571508.tif
+1086571534 framegrab -> 1086571534.tif
+1086571635 Put platform down in 1998 and at this time, the heap of soft sediments we are trying to sample did not appear to be present - appears to be a new sedimentary formation
+1086571708 Very soft sediments and Herc's manipulator can't grasp a hunk of it without it breaking apart.  Tried to grab a hunk that turned out to probably be metal of some kind, as it was very heavy and didn't break apart.
+1086571726 framegrab -> 1086571726.tif
+1086571736 framegrab -> 1086571736.tif
+1086571744 framegrab -> 1086571744.tif
+1086571748 framegrab -> 1086571748.tif
+1086571754 framegrab -> 1086571754.tif
+1086571762 framegrab -> 1086571762.tif
+1086571776 framegrab -> 1086571776.tif
+1086571792 framegrab -> 1086571792.tif
+1086571825 Herc was able to grab up a hunk of sediment for a close-up picture
+1086571854 Will image the surrounding area now so that Roy can compare this to Cameron's shots of same region
+1086571872 framegrab -> 1086571872.tif
+1086571899 Having birthday cakes now for Brennan and Todd and June
+1086571918 framegrab -> 1086571918.tif
+1086571930 framegrab -> 1086571930.tif
+1086571936 framegrab -> 1086571936.tif
+1086571948 framegrab -> 1086571948.tif
+1086571958 framegrab -> 1086571958.tif
+1086571964 framegrab -> 1086571964.tif
+1086571970 framegrab -> 1086571970.tif
+1086571978 framegrab -> 1086571978.tif
+1086571982 framegrab -> 1086571982.tif
+1086572226 framegrab -> 1086572226.tif
+1086572242 measuring along port side bow at sediment interface
+1086572288 framegrab -> 1086572288.tif
+1086572324 will grab a screen snap in DVL nav to show Hercs trackline
+1086572500 port anchor
+1086572516 framegrab -> 1086572516.tif
+1086572532 framegrab -> 1086572532.tif
+1086572548 framegrab -> 1086572548.tif
+1086572604 framegrab -> 1086572604.tif
+1086572620 framegrab -> 1086572620.tif
+1086572638 framegrab -> 1086572638.tif
+1086572870 framegrab -> 1086572870.tif
+1086573006 framegrab -> 1086573006.tif
+1086573228 Called ship move 30m @ 014 degrees
+1086573510 Standing by for 'dress rehearsal'
+1086573857 Ship has completed move
+1086573922 framegrab -> 1086573922.tif
+1086573948 framegrab -> 1086573948.tif
+1086574096 framegrab -> 1086574096.tif
+1086574216 framegrab -> 1086574216.tif
+1086574229 Standing by...
+1086574660 framegrab -> 1086574660.tif
+1086574854 Just aft of forward cargo hold
+1086575430 C
+1086575443 Calling ship move 30m @ 135 degrees
+1086575492 framegrab -> 1086575492.tif
+1086575554 framegrab -> 1086575554.tif
+1086575604 Heading forward
+1086575702 framegrab -> 1086575702.tif
+1086575730 framegrab -> 1086575730.tif
+1086575784 framegrab -> 1086575784.tif
+1086575794 At the brow
+1086575854 framegrab -> 1086575854.tif
+1086575893 Ship move complete
+1086576303 Practicing opening shot (running from forward bow aft towards cargo hold)
+1086577446 framegrab -> 1086577446.tif
+1086578296 Continuing practice of opening shot
+1086580771 watch change
+1086580792 still positioning vehicles for practice shot
+1086580903 ship has completed position
+1086581680 framegrab -> 1086581680.tif
+1086581731 storm petrel slammed into tool van and Jay carried the poor little confused critter into the control van
+1086582542 Requesting ship to move 10 m at course of 025
+1086582730 Ship's move complete
+1086583418 framegrab -> 1086583418.tif
+1086583472 Rolling!
+1086583588 framegrab -> 1086583588.tif
+1086583604 framegrab -> 1086583604.tif
+1086583766 framegrab -> 1086583766.tif
+1086584238 Practice run over
+1086584291 Vehicles practicing the run over the bow again and attempting to move Herc slower this time
+1086585604 Trying another shot of Herc rising up bow from sediment to see how much time it would take because Nat Geo would like to add this shot to the live portion of the program.
+1086585710 Shot took 22 seconds
+1086586122 Todd is practicing his run over bow
+1086586763 Bob is asking Todd to complete the run over the bow by turning and backing over the rail to end the shot with a view looking through the railing at the deck.
+1086586849 Getting ready to do another full dry run
+1086586920 Herc getting back to start position
+1086587752 Rolling!
+1086587775 Stopped a few minutes into this take because Jay Schadler had no audio in his headphones
+1086587939 Requesting ship to move 15 m at course of 225
+1086588437 Argus is drifting over bow for some reason so trying to get back into position
+1086588901 Another try at a full dry run - Rolling!
+1086589122 Lost Bob's microphone so ending this run
+1086589190 Howard Russell is trying to take Satellite
+1086589248 framegrab -> 1086589248.tif
+1086589260 framegrab -> 1086589260.tif
+1086589278 framegrab -> 1086589278.tif
+1086589290 framegrab -> 1086589290.tif
+1086589306 framegrab -> 1086589306.tif
+1086589366 Requesting ship to move 7 m at course of 300
+1086589710 framegrab -> 1086589710.tif
+1086589736 framegrab -> 1086589736.tif
+1086589946 framegrab -> 1086589946.tif
+1086590010 framegrab -> 1086590010.tif
+1086590016 framegrab -> 1086590016.tif
+1086590028 framegrab -> 1086590028.tif
+1086590102 framegrab -> 1086590102.tif
+1086590108 framegrab -> 1086590108.tif
+1086590114 framegrab -> 1086590114.tif
+1086590122 framegrab -> 1086590122.tif
+1086590128 framegrab -> 1086590128.tif
+1086590140 framegrab -> 1086590140.tif
+1086590144 framegrab -> 1086590144.tif
+1086590150 framegrab -> 1086590150.tif
+1086590208 framegrab -> 1086590208.tif
+1086590248 framegrab -> 1086590248.tif
+1086590266 framegrab -> 1086590266.tif
+1086590270 framegrab -> 1086590270.tif
+1086590276 framegrab -> 1086590276.tif
+1086590282 framegrab -> 1086590282.tif
+1086590290 framegrab -> 1086590290.tif
+1086590298 framegrab -> 1086590298.tif
+1086590304 framegrab -> 1086590304.tif
+1086590310 framegrab -> 1086590310.tif
+1086590318 framegrab -> 1086590318.tif
+1086590324 framegrab -> 1086590324.tif
+1086590330 framegrab -> 1086590330.tif
+1086590338 framegrab -> 1086590338.tif
+1086590346 framegrab -> 1086590346.tif
+1086590354 framegrab -> 1086590354.tif
+1086590362 framegrab -> 1086590362.tif
+1086590376 framegrab -> 1086590376.tif
+1086590404 framegrab -> 1086590404.tif
+1086590412 framegrab -> 1086590412.tif
+1086590420 framegrab -> 1086590420.tif
+1086590600 framegrab -> 1086590600.tif
+1086590606 framegrab -> 1086590606.tif
+1086590610 framegrab -> 1086590610.tif
+1086590620 framegrab -> 1086590620.tif
+1086590646 framegrab -> 1086590646.tif
+1086590698 framegrab -> 1086590698.tif
+1086590702 framegrab -> 1086590702.tif
+1086590716 framegrab -> 1086590716.tif
+1086590726 framegrab -> 1086590726.tif
+1086590730 framegrab -> 1086590730.tif
+1086590736 framegrab -> 1086590736.tif
+1086590742 framegrab -> 1086590742.tif
+1086590764 framegrab -> 1086590764.tif
+1086590770 framegrab -> 1086590770.tif
+1086590782 framegrab -> 1086590782.tif
+1086590792 framegrab -> 1086590792.tif
+1086590798 framegrab -> 1086590798.tif
+1086590804 framegrab -> 1086590804.tif
+1086590848 framegrab -> 1086590848.tif
+1086590854 framegrab -> 1086590854.tif
+1086590860 framegrab -> 1086590860.tif
+1086590866 framegrab -> 1086590866.tif
+1086590874 framegrab -> 1086590874.tif
+1086590882 framegrab -> 1086590882.tif
+1086590888 framegrab -> 1086590888.tif
+1086590894 framegrab -> 1086590894.tif
+1086590900 framegrab -> 1086590900.tif
+1086590920 framegrab -> 1086590920.tif
+1086590958 framegrab -> 1086590958.tif
+1086590966 framegrab -> 1086590966.tif
+1086590984 framegrab -> 1086590984.tif
+1086590992 framegrab -> 1086590992.tif
+1086590998 framegrab -> 1086590998.tif
+1086591004 framegrab -> 1086591004.tif
+1086591016 framegrab -> 1086591016.tif
+1086591070 framegrab -> 1086591070.tif
+1086591082 framegrab -> 1086591082.tif
+1086591094 framegrab -> 1086591094.tif
+1086591106 framegrab -> 1086591106.tif
+1086591128 framegrab -> 1086591128.tif
+1086591148 framegrab -> 1086591148.tif
+1086591166 framegrab -> 1086591166.tif
+1086591174 framegrab -> 1086591174.tif
+1086591368 framegrab -> 1086591368.tif
+1086591682 framegrab -> 1086591682.tif
+1086591698 framegrab -> 1086591698.tif
+1086591704 framegrab -> 1086591704.tif
+1086591710 framegrab -> 1086591710.tif
+1086591718 framegrab -> 1086591718.tif
+1086591726 framegrab -> 1086591726.tif
+1086591736 framegrab -> 1086591736.tif
+1086591742 framegrab -> 1086591742.tif
+1086591876 framegrab -> 1086591876.tif
+1086591892 framegrab -> 1086591892.tif
+1086591906 framegrab -> 1086591906.tif
+1086591918 framegrab -> 1086591918.tif
+1086591942 framegrab -> 1086591942.tif
+1086591988 framegrab -> 1086591988.tif
+1086592012 framegrab -> 1086592012.tif
+1086592030 framegrab -> 1086592030.tif
+1086592048 framegrab -> 1086592048.tif
+1086592074 framegrab -> 1086592074.tif
+1086592090 framegrab -> 1086592090.tif
+1086592100 framegrab -> 1086592100.tif
+1086592108 framegrab -> 1086592108.tif
+1086592164 framegrab -> 1086592164.tif
+1086592172 framegrab -> 1086592172.tif
+1086592184 framegrab -> 1086592184.tif
+1086592198 framegrab -> 1086592198.tif
+1086592204 framegrab -> 1086592204.tif
+1086592214 framegrab -> 1086592214.tif
+1086592220 framegrab -> 1086592220.tif
+1086592226 framegrab -> 1086592226.tif
+1086592246 framegrab -> 1086592246.tif
+1086592252 framegrab -> 1086592252.tif
+1086592256 framegrab -> 1086592256.tif
+1086592264 framegrab -> 1086592264.tif
+1086592268 framegrab -> 1086592268.tif
+1086592274 framegrab -> 1086592274.tif
+1086592280 framegrab -> 1086592280.tif
+1086592284 framegrab -> 1086592284.tif
+1086592316 framegrab -> 1086592316.tif
+1086592326 framegrab -> 1086592326.tif
+1086592334 framegrab -> 1086592334.tif
+1086592340 framegrab -> 1086592340.tif
+1086592452 framegrab -> 1086592452.tif
+1086592480 framegrab -> 1086592480.tif
+1086592484 framegrab -> 1086592484.tif
+1086592490 framegrab -> 1086592490.tif
+1086592500 framegrab -> 1086592500.tif
+1086592508 framegrab -> 1086592508.tif
+1086592518 framegrab -> 1086592518.tif
+1086592524 framegrab -> 1086592524.tif
+1086592534 framegrab -> 1086592534.tif
+1086592546 framegrab -> 1086592546.tif
+1086592556 framegrab -> 1086592556.tif
+1086592564 framegrab -> 1086592564.tif
+1086592572 framegrab -> 1086592572.tif
+1086592580 framegrab -> 1086592580.tif
+1086592590 framegrab -> 1086592590.tif
+1086592612 framegrab -> 1086592612.tif
+1086592618 framegrab -> 1086592618.tif
+1086592646 framegrab -> 1086592646.tif
+1086592662 framegrab -> 1086592662.tif
+1086592676 framegrab -> 1086592676.tif
+1086592686 framegrab -> 1086592686.tif
+1086592692 framegrab -> 1086592692.tif
+1086592698 framegrab -> 1086592698.tif
+1086592704 framegrab -> 1086592704.tif
+1086592714 framegrab -> 1086592714.tif
+1086592724 framegrab -> 1086592724.tif
+1086592730 framegrab -> 1086592730.tif
+1086592746 framegrab -> 1086592746.tif
+1086592754 framegrab -> 1086592754.tif
+1086592770 framegrab -> 1086592770.tif
+1086592778 framegrab -> 1086592778.tif
+1086592784 framegrab -> 1086592784.tif
+1086592794 framegrab -> 1086592794.tif
+1086592848 framegrab -> 1086592848.tif
+1086592866 framegrab -> 1086592866.tif
+1086592872 framegrab -> 1086592872.tif
+1086592882 framegrab -> 1086592882.tif
+1086592890 framegrab -> 1086592890.tif
+1086592896 framegrab -> 1086592896.tif
+1086592900 framegrab -> 1086592900.tif
+1086592906 framegrab -> 1086592906.tif
+1086592912 framegrab -> 1086592912.tif
+1086592918 framegrab -> 1086592918.tif
+1086592922 framegrab -> 1086592922.tif
+1086592928 framegrab -> 1086592928.tif
+1086592938 framegrab -> 1086592938.tif
+1086592946 framegrab -> 1086592946.tif
+1086592972 framegrab -> 1086592972.tif
+1086592978 framegrab -> 1086592978.tif
+1086592988 framegrab -> 1086592988.tif
+1086592998 framegrab -> 1086592998.tif
+1086593004 framegrab -> 1086593004.tif
+1086593058 framegrab -> 1086593058.tif
+1086593062 framegrab -> 1086593062.tif
+1086593072 framegrab -> 1086593072.tif
+1086593082 framegrab -> 1086593082.tif
+1086593094 framegrab -> 1086593094.tif
+1086593116 framegrab -> 1086593116.tif
+1086593130 framegrab -> 1086593130.tif
+1086593136 framegrab -> 1086593136.tif
+1086593140 framegrab -> 1086593140.tif
+1086593152 framegrab -> 1086593152.tif
+1086593164 framegrab -> 1086593164.tif
+1086593168 framegrab -> 1086593168.tif
+1086593174 framegrab -> 1086593174.tif
+1086593190 framegrab -> 1086593190.tif
+1086593206 framegrab -> 1086593206.tif
+1086593210 framegrab -> 1086593210.tif
+1086593220 framegrab -> 1086593220.tif
+1086593224 framegrab -> 1086593224.tif
+1086593234 framegrab -> 1086593234.tif
+1086593240 framegrab -> 1086593240.tif
+1086593248 framegrab -> 1086593248.tif
+1086593254 framegrab -> 1086593254.tif
+1086593260 framegrab -> 1086593260.tif
+1086593268 framegrab -> 1086593268.tif
+1086593276 framegrab -> 1086593276.tif
+1086593288 framegrab -> 1086593288.tif
+1086593292 framegrab -> 1086593292.tif
+1086593298 framegrab -> 1086593298.tif
+1086593358 framegrab -> 1086593358.tif
+1086593538 framegrab -> 1086593538.tif
+1086593544 framegrab -> 1086593544.tif
+1086593564 framegrab -> 1086593564.tif
+1086593793 Bert had control of datalogger seat for the past hour to take glam-shots of bow
+1086594508 framegrab -> 1086594508.tif
+1086594608 framegrab -> 1086594608.tif
+1086594616 framegrab -> 1086594616.tif
+1086594646 framegrab -> 1086594646.tif
+1086594678 framegrab -> 1086594678.tif
+1086594688 framegrab -> 1086594688.tif
+1086594704 framegrab -> 1086594704.tif
+1086594914 framegrab -> 1086594914.tif
+1086595057 Requesting ship to move 20 m at a course of 200
+1086595120 framegrab -> 1086595120.tif
+1086595486 framegrab -> 1086595486.tif
+1086595510 framegrab -> 1086595510.tif
+1086595536 framegrab -> 1086595536.tif
+1086595588 watch change
+1086595594 still at bow
+1086595614 framegrab -> 1086595614.tif
+1086595642 framegrab -> 1086595642.tif
+1086595696 framegrab -> 1086595696.tif
+1086595714 argus is drifting over the bow section...herc raising to follow
+1086595732 framegrab -> 1086595732.tif
+1086595776 framegrab -> 1086595776.tif
+1086595815 still taking a bunch of pics of the bow, because we're here, storage is cheap, and other than typing stuff in here, there's nothing else for me to do to stay awake
+1086595842 framegrab -> 1086595842.tif
+1086595874 framegrab -> 1086595874.tif
+1086595942 framegrab -> 1086595942.tif
+1086596042 framegrab -> 1086596042.tif
+1086596170 moving ship...going to move along starboard side of the hull and try to find iceberg hole
+1086596192 framegrab -> 1086596192.tif
+1086596230 framegrab -> 1086596230.tif
+1086596284 framegrab -> 1086596284.tif
+1086596316 framegrab -> 1086596316.tif
+1086596360 framegrab -> 1086596360.tif
+1086596406 framegrab -> 1086596406.tif
+1086596420 framegrab -> 1086596420.tif
+1086596438 framegrab -> 1086596438.tif
+1086596448 framegrab -> 1086596448.tif
+1086596470 framegrab -> 1086596470.tif
+1086596582 moving ship 20m @ 135
+1086597662 framegrab -> 1086597662.tif
+1086597672 framegrab -> 1086597672.tif
+1086597692 framegrab -> 1086597692.tif
+1086597706 framegrab -> 1086597706.tif
+1086597836 framegrab -> 1086597836.tif
+1086597926 framegrab -> 1086597926.tif
+1086597978 framegrab -> 1086597978.tif
+1086598068 framegrab -> 1086598068.tif
+1086598082 framegrab -> 1086598082.tif
+1086598098 framegrab -> 1086598098.tif
+1086598210 framegrab -> 1086598210.tif
+1086598224 framegrab -> 1086598224.tif
+1086598278 framegrab -> 1086598278.tif
+1086598296 framegrab -> 1086598296.tif
+1086598340 framegrab -> 1086598340.tif
+1086598414 framegrab -> 1086598414.tif
+1086598514 framegrab -> 1086598514.tif
+1086598609 30 mins since ship move complete
+1086598828 requesting ship move 
+1086598838 30m @ 180
+1086598986 framegrab -> 1086598986.tif
+1086599006 framegrab -> 1086599006.tif
+1086599098 framegrab -> 1086599098.tif
+1086599114 framegrab -> 1086599114.tif
+1086599130 framegrab -> 1086599130.tif
+1086599136 framegrab -> 1086599136.tif
+1086599146 framegrab -> 1086599146.tif
+1086599162 framegrab -> 1086599162.tif
+1086599182 framegrab -> 1086599182.tif
+1086599214 framegrab -> 1086599214.tif
+1086599230 framegrab -> 1086599230.tif
+1086599264 framegrab -> 1086599264.tif
+1086599278 framegrab -> 1086599278.tif
+1086599340 framegrab -> 1086599340.tif
+1086599434 framegrab -> 1086599434.tif
+1086599448 framegrab -> 1086599448.tif
+1086599461  moving down starboard side of hull
+1086599472 now at 3rd class & crew accommodation
+1086599562 crack in hull
+1086599562 framegrab -> 1086599562.tif
+1086599728 framegrab -> 1086599728.tif
+1086599740 framegrab -> 1086599740.tif
+1086599784 framegrab -> 1086599784.tif
+1086599796 framegrab -> 1086599796.tif
+1086599804 framegrab -> 1086599804.tif
+1086599822 framegrab -> 1086599822.tif
+1086599824 framegrab -> 1086599824.tif
+1086599844 framegrab -> 1086599844.tif
+1086599870 framegrab -> 1086599870.tif
+1086599884 framegrab -> 1086599884.tif
+1086599924 framegrab -> 1086599924.tif
+1086599930 framegrab -> 1086599930.tif
+1086599956 framegrab -> 1086599956.tif
+1086600062 framegrab -> 1086600062.tif
+1086600098 framegrab -> 1086600098.tif
+1086600110 framegrab -> 1086600110.tif
+1086600127 cool close-ups of living things
+1086600154 framegrab -> 1086600154.tif
+1086600174 framegrab -> 1086600174.tif
+1086600324 framegrab -> 1086600324.tif
+1086600332 framegrab -> 1086600332.tif
+1086600342 framegrab -> 1086600342.tif
+1086600348 framegrab -> 1086600348.tif
+1086600354 framegrab -> 1086600354.tif
+1086600366 framegrab -> 1086600366.tif
+1086600378 framegrab -> 1086600378.tif
+1086600456 framegrab -> 1086600456.tif
+1086600562 framegrab -> 1086600562.tif
+1086600628 framegrab -> 1086600628.tif
+1086600680 framegrab -> 1086600680.tif
+1086600740 framegrab -> 1086600740.tif
+1086600764 framegrab -> 1086600764.tif
+1086600786 framegrab -> 1086600786.tif
+1086600818 framegrab -> 1086600818.tif
+1086600830 framegrab -> 1086600830.tif
+1086600844 big buckle, rusticle curtain
+1086600862 framegrab -> 1086600862.tif
+1086600914 framegrab -> 1086600914.tif
+1086600968 framegrab -> 1086600968.tif
+1086601014 framegrab -> 1086601014.tif
+1086601055 just lost all cameras on herc
+1086601100 ship's moving away from the titanic
+1086601107 herc still has lights
+1086601116 going to get jim n.
+1086601135 ship moving 135 until further notice
+1086601201 todd says it's a telemetry thing; dead fiber somehow?
+1086601270 no communication w  herc, no control (but still power)
+1086601663 bringing up ROVs
+1086601714 3700m wire out on winch
+1086601723 ship is continuing to move @ 135
+1086602159 jjj
+1086609950 1546m wire out]
+1086610124 1500m wire out, coming up at 17 m min
+1086610630 1350m wire out
+1086611015 1243m out
+1086611412 1131m depth on argus altimeter
+1086611744 1030 m argus depth
+1086612003 960m argus depth
+1086612226 890 m argus depth
+1086612996 675m wire out - identical to argus depth
+1086613349 570m depth
+1086613596 500m depth
+1086613800 440m depth
+1086614061 364m depth
+1086614378 270m depth
+1086614847 150m depth
+1086614856 getting in postion for recovery
+1086615168 92m depth - stop on the winch
+1086615209 stopped at 82m 
+1086616195 60m depth, 57m wire out, bumping up ship speed to get a better tether strema
+1086617000 40m coming up slow, 1.5 knt surface current
+1086617136 argus on deck, herc on surface
+1086617319 ready to pull in herc
+1086617736 pulling herc around to port
+1086617803 herc along side
+1086617818 coming aboard
+1086617857 herc onboard
+1086617901 END OF DIVE 5
