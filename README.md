@@ -2,8 +2,10 @@
 
 This project is an attempt to collect various maps and scans of the Titanic wreck site and georeference them
 against known locations with exact lat-long coordinates. The project was created in QGIS and you can edit
-the underlying maps and markers there in the titanic-stjohns.qgs file. There is a
-[web preview](https://waynepiekarski.github.io/titanic-map/export-openlayers/index.html)
+the underlying maps and markers there in the titanic-stjohns.qgs file.
+
+For more information visit [https://waynepiekarski.net/projects/titanic-map.htm](https://waynepiekarski.net/projects/titanic-map.htm), and
+there is a [web preview](https://waynepiekarski.net/projects/titanic-map/export-openlayers/)
 for those who want to just look at the maps and not make changes.
 
 ![QGIS Screenshot](screenshot.jpg)
